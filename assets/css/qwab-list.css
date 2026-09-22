@@ -1,0 +1,141 @@
+/**
+ * Qaiyo Admin Booster — lista nézet oszlop badge-ek (edit.php).
+ */
+
+/* Kollekció oszlop */
+.column-qwab_collection {
+	width: 10%;
+}
+
+.column-qwab_page_status {
+	width: 13%;
+}
+
+/* Az oszlopok közös, kompakt magassága */
+.wp-list-table .column-qwab_collection,
+.wp-list-table .column-qwab_page_status,
+.wp-list-table .column-qwab_last_editor {
+	vertical-align: middle;
+}
+
+.qwab-col-empty {
+	color: #c3c4c7;
+}
+
+.qwab-collection-badge {
+	display: inline-flex;
+	align-items: center;
+	gap: 5px;
+	font-size: 12px;
+	font-weight: 600;
+	color: var( --qwab-c, #6c5ce7 );
+	background: color-mix( in srgb, var( --qwab-c, #6c5ce7 ) 12%, #fff );
+	border: 1px solid color-mix( in srgb, var( --qwab-c, #6c5ce7 ) 30%, #fff );
+	padding: 2px 9px 2px 7px;
+	border-radius: 999px;
+	line-height: 1.6;
+}
+
+.qwab-collection-badge .dashicons {
+	font-size: 14px;
+	width: 14px;
+	height: 14px;
+}
+
+.qwab-collection-badge.is-auto {
+	opacity: 0.92;
+}
+
+.qwab-collection-auto {
+	margin-left: 4px;
+	font-size: 9px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.4px;
+	color: #94a3b8;
+	background: #f1f5f9;
+	padding: 0 4px;
+	border-radius: 4px;
+	line-height: 14px;
+}
+
+/* Oldal-állapot badge-ek */
+.qwab-status-badges {
+	display: inline-flex;
+	flex-wrap: wrap;
+	gap: 4px;
+}
+
+.qwab-status-badge {
+	display: inline-flex;
+	align-items: center;
+	gap: 4px;
+	font-size: 11px;
+	font-weight: 600;
+	padding: 2px 7px;
+	border-radius: 999px;
+	line-height: 1.6;
+	background: #f0f0f1;
+	color: #50575e;
+}
+
+.qwab-status-badge .dashicons {
+	font-size: 13px;
+	width: 13px;
+	height: 13px;
+}
+
+.qwab-status-home {
+	background: #f0e6fe;
+	color: #6c5ce7;
+}
+
+.qwab-status-orphan {
+	background: #fef3e6;
+	color: #c66e00;
+}
+
+.qwab-status-nomenu {
+	background: #fff3cd;
+	color: #8a6d00;
+}
+
+.qwab-status-inmenu {
+	background: #edfaef;
+	color: #00a32a;
+}
+
+.qwab-status-noindex {
+	background: #fef7f7;
+	color: #d63638;
+}
+
+.qwab-status-status {
+	background: #e7f1fa;
+	color: #2271b1;
+}
+
+/* Utolsó szerkesztő oszlop */
+.column-qwab_last_editor {
+	width: 10%;
+}
+
+.qwab-last-editor__name {
+	display: block;
+	font-weight: 500;
+	color: #1d2327;
+}
+
+.qwab-last-editor__ago {
+	display: block;
+	font-size: 11px;
+	color: #787c82;
+}
+
+/* Fallback ott, ahol nincs color-mix támogatás */
+@supports not ( background: color-mix( in srgb, red 10%, white ) ) {
+	.qwab-collection-badge {
+		background: #f8f6ff;
+		border-color: #e2dcf7;
+	}
+}

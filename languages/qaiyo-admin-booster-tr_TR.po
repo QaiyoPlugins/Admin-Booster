@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Qaiyo Admin Booster\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1-click plugin upload"
+msgstr "Tek tıkla eklenti yükleme"
+
+msgid "Admin Booster"
+msgstr "Admin Booster"
+
+msgid "Allow SVG only for administrators, raise the upload limit for editors, or restrict risky file types per user role — granular control instead of one global rule."
+msgstr "SVG'yi yalnızca yöneticilere izin verin, editörler için yükleme sınırını artırın veya riskli dosya türlerini role göre kısıtlayın — tek bir genel kural yerine ayrıntılı denetim."
+
+msgid "Auto-assign pages and posts to collections by URL pattern, page template, parent or regex — new content lands in the right collection automatically, no manual sorting."
+msgstr "Sayfaları ve yazıları URL kalıbı, sayfa şablonu, üst öğe veya regex'e göre koleksiyonlara otomatik atayın — yeni içerik elle sıralamaya gerek kalmadan doğru koleksiyona düşer."
+
+msgid "Automatically strip scripts and event handlers from SVG files on upload, so you can enable SVG safely even for non-admin users."
+msgstr "Yükleme sırasında SVG dosyalarından betikleri ve olay işleyicilerini otomatik olarak temizler, böylece SVG'yi yönetici olmayan kullanıcılar için bile güvenle etkinleştirebilirsiniz."
+
+msgid "Built-in collections (Main, Legal, WooCommerce) are detected automatically. Create your own below."
+msgstr "Yerleşik koleksiyonlar (Ana, Yasal, WooCommerce) otomatik olarak algılanır. Kendinizinkini aşağıda oluşturun."
+
+msgid "Bulk noindex & menu actions"
+msgstr "Toplu noindex ve menü işlemleri"
+
+msgid "Collection name"
+msgstr "Koleksiyon adı"
+
+msgid "Collection"
+msgstr "Koleksiyon"
+
+msgid "Collections saved."
+msgstr "Koleksiyonlar kaydedildi."
+
+msgid "Color"
+msgstr "Renk"
+
+msgid "Control upload size and which file types are allowed."
+msgstr "Yükleme boyutunu ve hangi dosya türlerine izin verildiğini denetleyin."
+
+msgid "Could not save collections. Please try again."
+msgstr "Koleksiyonlar kaydedilemedi. Lütfen tekrar deneyin."
+
+msgid "Disable editor fullscreen mode"
+msgstr "Düzenleyici tam ekran modunu kapat"
+
+msgid "Fewer clicks to the things you do all day."
+msgstr "Gün boyu yaptığınız işler için daha az tıklama."
+
+msgid "File handling"
+msgstr "Dosya yönetimi"
+
+msgid "Friendlier upload error messages"
+msgstr "Daha anlaşılır yükleme hata mesajları"
+
+msgid "Clean up uploaded filenames"
+msgstr "Yüklenen dosya adlarını temizle"
+
+msgid "Convert spaces, accents and uppercase in uploaded filenames to URL-friendly slugs (e.g. “Árvíz Tükör.JPG” → “arviz-tukor.jpg”)."
+msgstr "Yüklenen dosya adlarındaki boşlukları, aksanları ve büyük harfleri URL dostu adlara dönüştürür (örn. “Árvíz Tükör.JPG” → “arviz-tukor.jpg”)."
+
+msgid "Group pages and posts into visual collections."
+msgstr "Sayfaları ve yazıları görsel koleksiyonlarda gruplayın."
+
+msgid "Gutenberg UX fixes"
+msgstr "Gutenberg UX iyileştirmeleri"
+
+msgid "Homepage"
+msgstr "Ana sayfa"
+
+msgid "Icon"
+msgstr "Simge"
+
+msgid "In menu"
+msgstr "Menüde"
+
+msgid "Insufficient permissions."
+msgstr "Yetersiz izin."
+
+msgid "Keep the block inserter open and the editor out of fullscreen."
+msgstr "Blok ekleyiciyi açık ve düzenleyiciyi tam ekran dışında tutun."
+
+msgid "Keep the wp-admin sidebar visible while editing."
+msgstr "Düzenleme sırasında wp-admin kenar çubuğunu görünür tutun."
+
+msgid "Larger list views"
+msgstr "Daha geniş liste görünümleri"
+
+msgid "Legal"
+msgstr "Yasal"
+
+msgid "Modern, well-compressed image format. Safe to enable."
+msgstr "Modern, iyi sıkıştırılmış görüntü biçimi. Etkinleştirmesi güvenli."
+
+msgid "Modules"
+msgstr "Modüller"
+
+msgid "Navigation & editor"
+msgstr "Gezinme ve düzenleyici"
+
+msgid "New %s"
+msgstr "Yeni %s"
+
+msgid "New Page / Post / Product shortcuts in the admin bar."
+msgstr "Yönetim çubuğunda Yeni Sayfa / Yazı / Ürün kısayolları."
+
+msgid "Next-gen image format (WordPress 6.5+ and supported servers)."
+msgstr "Yeni nesil görüntü biçimi (WordPress 6.5+ ve desteklenen sunucular)."
+
+msgid "Noindex"
+msgstr "Noindex"
+
+msgid "Not in any menu"
+msgstr "Hiçbir menüde değil"
+
+msgid "Not in menu"
+msgstr "Menüde değil"
+
+msgid "Open the block inserter by default"
+msgstr "Blok ekleyiciyi varsayılan olarak aç"
+
+msgid "Open the plugin upload screen straight from “Add Plugin”."
+msgstr "Eklenti yükleme ekranını doğrudan «Eklenti Ekle»den açın."
+
+msgid "Orphan pages"
+msgstr "Yetim sayfalar"
+
+msgid "Orphan"
+msgstr "Yetim"
+
+msgid "Page Collections"
+msgstr "Sayfa Koleksiyonları"
+
+msgid "Page Filter"
+msgstr "Sayfa Filtresi"
+
+msgid "Page status"
+msgstr "Sayfa durumu"
+
+msgid "Per-role upload rules"
+msgstr "Role göre yükleme kuralları"
+
+msgid "Pin the pages and posts you touch every day to the admin bar and dashboard for one-click access from anywhere in wp-admin."
+msgstr "Her gün dokunduğunuz sayfaları ve yazıları yönetim çubuğuna ve panoya sabitleyin, wp-admin'in her yerinden tek tıkla erişin."
+
+msgid "Pinned pages & favorites"
+msgstr "Sabitlenmiş sayfalar ve favoriler"
+
+msgid "Qaiyo Plugins"
+msgstr "Qaiyo Eklentileri"
+
+msgid "Qaiyo Admin Booster settings"
+msgstr "Qaiyo Admin Booster ayarları"
+
+msgid "Qaiyo Admin Booster"
+msgstr "Qaiyo Admin Booster"
+
+msgid "Quick add menu"
+msgstr "Hızlı ekleme menüsü"
+
+msgid "Remove this collection? Pages assigned to it will fall back to auto/none."
+msgstr "Bu koleksiyon kaldırılsın mı? Atanan sayfalar otomatik/yok durumuna döner."
+
+msgid "Remove"
+msgstr "Kaldır"
+
+msgid "Replace the cryptic “file type not permitted” message with a clear explanation and the list of allowed types."
+msgstr "Anlaşılmaz «dosya türüne izin verilmiyor» mesajını net bir açıklama ve izin verilen türlerin listesiyle değiştirin."
+
+msgid "SVG sanitization on upload"
+msgstr "Yüklemede SVG temizleme"
+
+msgid "Save any combination of Page Filter conditions (orphan + noindex + draft, etc.) as a named view and switch between them with one click."
+msgstr "Sayfa Filtresi koşullarının herhangi bir kombinasyonunu (yetim + noindex + taslak vb.) adlandırılmış bir görünüm olarak kaydedin ve aralarında tek tıkla geçiş yapın."
+
+msgid "Saved filter views"
+msgstr "Kaydedilmiş filtre görünümleri"
+
+msgid "See homepage, orphan, not-in-menu and noindex at a glance."
+msgstr "Ana sayfa, yetim, menü dışı ve noindex'i bir bakışta görün."
+
+msgid "Select multiple pages from the filtered view and toggle noindex, add them to a menu, or change status in one bulk action."
+msgstr "Filtrelenmiş görünümden birden çok sayfa seçin ve tek bir toplu işlemde noindex'i değiştirin, menüye ekleyin veya durumu değiştirin."
+
+msgid "Show a warning here when you allow executable / script extensions."
+msgstr "Çalıştırılabilir / betik uzantılarına izin verdiğinizde burada bir uyarı gösterin."
+
+msgid "Show more items per page in admin list tables."
+msgstr "Yönetim liste tablolarında sayfa başına daha fazla öğe gösterin."
+
+msgid "Show plugin upload immediately"
+msgstr "Eklenti yüklemesini hemen göster"
+
+msgid "Core update bridge"
+msgstr "Çekirdek güncelleme köprüsü"
+
+msgid "Step up to an intermediate WordPress version your server can still run."
+msgstr "Sunucunuzun hâlâ çalıştırabileceği bir ara WordPress sürümüne geçin."
+
+msgid "Stuck on an old WordPress because the newest release needs a newer PHP? Pick an intermediate version your server can actually run and step up to it — straight from wp-admin, no FTP or cPanel needed."
+msgstr "En yeni sürüm daha yeni bir PHP gerektirdiği için eski bir WordPress'te mi kaldınız? Sunucunuzun gerçekten çalıştırabileceği bir ara sürüm seçip ona geçin — doğrudan yönetim panelinden, FTP veya cPanel gerekmeden."
+
+msgid "Smart collection rules"
+msgstr "Akıllı koleksiyon kuralları"
+
+msgid "The file type \".%1$s\" is not allowed on this site. Allowed types: %2$s. You can enable more types under Qaiyo Admin Booster → File handling."
+msgstr "«.%1$s» dosya türüne bu sitede izin verilmiyor. İzin verilen türler: %2$s. Daha fazla türü Qaiyo Admin Booster → Dosya yönetimi altında etkinleştirebilirsiniz."
+
+msgid "The left “+” block panel is open when the editor loads."
+msgstr "Düzenleyici yüklendiğinde soldaki «+» blok paneli açık olur."
+
+msgid "Turn each booster on or off. Everything is on by default."
+msgstr "Her geliştiriciyi açın veya kapatın. Varsayılan olarak hepsi açıktır."
+
+msgid "Upload size, allowed file types and clearer errors."
+msgstr "Yükleme boyutu, izin verilen dosya türleri ve daha net hatalar."
+
+msgid "Vector graphics. SVG can contain scripts — only enable if you trust who uploads. Pro adds automatic SVG sanitization."
+msgstr "Vektör grafikleri. SVG betik içerebilir — yalnızca yükleyenlere güveniyorsanız etkinleştirin. Pro otomatik SVG temizleme ekler."
+
+msgid "Warn about dangerous file types"
+msgstr "Tehlikeli dosya türleri hakkında uyar"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "noindex"
+msgstr "noindex"
+
+msgid "“Add Plugin” opens the upload tab directly — the browse tabs stay available on top."
+msgstr "«Eklenti Ekle» doğrudan yükleme sekmesini açar — gözatma sekmeleri üstte kalır."
+
+msgid "Auto-detected"
+msgstr "Otomatik algılandı"
+
+msgid "Qaiyo Admin Booster — Quick Add"
+msgstr "Qaiyo Admin Booster — Hızlı Ekleme"
+
+msgid "Auto-detected as: %s. Pick a collection above to override."
+msgstr "Otomatik algılandı: %s. Geçersiz kılmak için yukarıdan bir koleksiyon seçin."
+
+msgid "Qaiyo %1$s v%2$s — Made by Qaiyo by PixelDesigns"
+msgstr "Qaiyo %1$s v%2$s — Qaiyo by PixelDesigns tarafından yapıldı"
+
+msgid "Quick Add"
+msgstr "Hızlı Ekleme"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "Unlock in Pro →"
+msgstr "Pro'da kilidi aç →"
+
+msgid "Warning: you are allowing executable / script file types (%s). These can be used to run code on your server. Only keep them if you really need them."
+msgstr "Uyarı: çalıştırılabilir / betik dosya türlerine (%s) izin veriyorsunuz. Bunlar sunucunuzda kod çalıştırmak için kullanılabilir. Yalnızca gerçekten gerekiyorsa tutun."
+
+msgid "auto"
+msgstr "otomatik"
+
+msgid "unknown"
+msgstr "bilinmiyor"
+
+msgid "Add collection"
+msgstr "Koleksiyon ekle"
+
+msgid "All collections"
+msgstr "Tüm koleksiyonlar"
+
+msgid "Any page status"
+msgstr "Herhangi bir sayfa durumu"
+
+msgid "Apply collections to"
+msgstr "Koleksiyonları şuna uygula"
+
+msgid "Collection & status columns appear on the Pages and Posts list screens."
+msgstr "Koleksiyon ve durum sütunları Sayfalar ve Yazılar liste ekranlarında görünür."
+
+msgid "Custom file types"
+msgstr "Özel dosya türleri"
+
+msgid "Default rows in admin list tables (only when you have not set your own Screen Option)."
+msgstr "Yönetim liste tablolarında varsayılan satırlar (yalnızca kendi Ekran Seçeneğinizi ayarlamadığınızda)."
+
+msgid "Enable extra image types"
+msgstr "Ek görüntü türlerini etkinleştir"
+
+msgid "Filter by collection"
+msgstr "Koleksiyona göre filtrele"
+
+msgid "Filter by page status"
+msgstr "Sayfa durumuna göre filtrele"
+
+msgid "Fixes the annoying wp-admin UX/UI rough edges that cost you time every day."
+msgstr "Her gün zamanınızı alan can sıkıcı wp-admin UX/UI pürüzlerini giderir."
+
+msgid "Get Pro"
+msgstr "Pro'yu al"
+
+msgid "Items per list page"
+msgstr "Liste sayfası başına öğe"
+
+msgid "Max upload size (MB)"
+msgstr "Maksimum yükleme boyutu (MB)"
+
+msgid "One per line, format: extension = mime/type. Example: ico = image/x-icon"
+msgstr "Her satıra bir tane, biçim: uzantı = mime/type. Örnek: ico = image/x-icon"
+
+msgid "Power-user upgrades available in the Pro add-on."
+msgstr "Pro eklentisinde sunulan ileri kullanıcı yükseltmeleri."
+
+msgid "Pro features"
+msgstr "Pro özellikleri"
+
+msgid "Qaiyo Admin Booster Pro"
+msgstr "Qaiyo Admin Booster Pro"
+
+msgid "Quick add shortcuts"
+msgstr "Hızlı ekleme kısayolları"
+
+msgid "Save collections"
+msgstr "Koleksiyonları kaydet"
+
+msgid "Save settings"
+msgstr "Ayarları kaydet"
+
+msgid "The “Quick Add” menu lives in the top admin bar."
+msgstr "«Hızlı Ekleme» menüsü üst yönetim çubuğundadır."
+
+msgid "These are saved separately and immediately — they do not require the main “Save settings” button."
+msgstr "Bunlar ayrı ve hemen kaydedilir — ana «Ayarları kaydet» düğmesini gerektirmez."
+
+msgid "Uncategorized"
+msgstr "Kategorisiz"
+
+msgid "Use the dropdowns above the list to filter by collection or page status."
+msgstr "Koleksiyona veya sayfa durumuna göre filtrelemek için listenin üstündeki açılır menüleri kullanın."
+
+msgid "Where to find it"
+msgstr "Nerede bulunur"
+
+msgid "Which content types appear in the admin bar “Quick Add” menu."
+msgstr "Yönetim çubuğundaki «Hızlı Ekleme» menüsünde hangi içerik türlerinin görüneceği."
+
+msgid "Your collections"
+msgstr "Koleksiyonlarınız"
+
+msgid "— Auto / none —"
+msgstr "— Otomatik / yok —"
+
+msgid "%d notices"
+msgstr "%d bildirim"
+
+msgid "1 notice"
+msgstr "1 bildirim"
+
+msgid "Admin notices"
+msgstr "Yönetim bildirimleri"
+
+msgid "WordPress Events and News"
+msgstr "WordPress Etkinlikleri ve Haberleri"
+
+msgid "Quick Draft"
+msgstr "Hızlı Taslak"
+
+msgid "Activity"
+msgstr "Etkinlik"
+
+msgid "At a Glance"
+msgstr "Bir Bakışta"
+
+msgid "Site Health Status"
+msgstr "Site Sağlığı Durumu"
+
+msgid "Welcome panel"
+msgstr "Hoş geldiniz paneli"
+
+msgid "Duplicate"
+msgstr "Çoğalt"
+
+msgid "No item to duplicate."
+msgstr "Çoğaltılacak öğe yok."
+
+msgid "You are not allowed to duplicate this item."
+msgstr "Bu öğeyi çoğaltma izniniz yok."
+
+msgid "Could not duplicate this item."
+msgstr "Bu öğe çoğaltılamadı."
+
+msgid "Publishing in %s"
+msgstr "%s sonra yayımlanacak"
+
+msgid "Last edited"
+msgstr "Son düzenleme"
+
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+msgid "%s ago"
+msgstr "%s önce"
+
+msgid "Switch to draft"
+msgstr "Taslağa geçir"
+
+msgid "Publish now"
+msgstr "Şimdi yayımla"
+
+msgid "Invalid request."
+msgstr "Geçersiz istek."
+
+msgid "You are not allowed to edit this item."
+msgstr "Bu öğeyi düzenleme izniniz yok."
+
+msgid "You are not allowed to publish this item."
+msgstr "Bu öğeyi yayımlama izniniz yok."
+
+msgid "Tidy admin notices"
+msgstr "Yönetim bildirimlerini düzenle"
+
+msgid "Collapse stacked admin notices into a small counter tray."
+msgstr "Üst üste binen yönetim bildirimlerini küçük bir sayaç tepsisine toplayın."
+
+msgid "Dashboard cleanup"
+msgstr "Pano temizliği"
+
+msgid "Hide the dashboard widgets you never use."
+msgstr "Hiç kullanmadığınız pano araç çubuklarını gizleyin."
+
+msgid "Duplicate content"
+msgstr "İçeriği çoğalt"
+
+msgid "One-click “Duplicate” as a draft from the list view."
+msgstr "Liste görünümünden tek tıkla taslak olarak «Çoğalt»."
+
+msgid "Scheduled countdown"
+msgstr "Zamanlanmış geri sayım"
+
+msgid "Show “Publishing in 3 days” on scheduled posts."
+msgstr "Zamanlanmış yazılarda «3 gün sonra yayımlanacak» gösterin."
+
+msgid "Sticky table headers"
+msgstr "Yapışkan tablo başlıkları"
+
+msgid "Keep list-table column headers visible while scrolling."
+msgstr "Kaydırırken liste tablosu sütun başlıklarını görünür tutun."
+
+msgid "Last edited column"
+msgstr "Son düzenleme sütunu"
+
+msgid "Who last edited each item and how long ago."
+msgstr "Her öğeyi en son kimin ve ne kadar önce düzenlediği."
+
+msgid "Quick status switch"
+msgstr "Hızlı durum değiştirme"
+
+msgid "Publish or unpublish from the list without opening the editor."
+msgstr "Düzenleyiciyi açmadan listeden yayımlayın veya yayından kaldırın."
+
+msgid "Hide the default dashboard widgets you do not use. Requires the “Dashboard cleanup” module."
+msgstr "Kullanmadığınız varsayılan pano araç çubuklarını gizleyin. «Pano temizliği» modülü gerekir."
+
+msgid "Hide these widgets"
+msgstr "Bu araç çubuklarını gizle"
+
+msgid "Enable all"
+msgstr "Tümünü etkinleştir"
+
+msgid "Disable all"
+msgstr "Tümünü devre dışı bırak"
+
+msgid "Go Pro"
+msgstr "Pro'ya geç"
+
+msgid "%d power-user upgrades — see them below."
+msgstr "%d ileri kullanıcı yükseltmesi — aşağıya bakın."
+
+msgid "Admin menu editor"
+msgstr "Yönetim menüsü düzenleyici"
+
+msgid "Rename, reorder and hide wp-admin menu items per user role — give editors and clients a clean, focused admin without touching code."
+msgstr "wp-admin menü öğelerini role göre yeniden adlandırın, yeniden sıralayın ve gizleyin — koda dokunmadan editörlere ve müşterilere temiz, odaklı bir yönetim sunun."
+
+msgid "Inline list-table editing"
+msgstr "Satır içi liste tablosu düzenleme"
+
+msgid "Edit titles, statuses, collections and custom fields straight in the list table — spreadsheet-style, without opening each item."
+msgstr "Başlıkları, durumları, koleksiyonları ve özel alanları doğrudan liste tablosunda düzenleyin — her öğeyi açmadan, elektronik tablo tarzında."
+
+msgid "Login screen customizer"
+msgstr "Giriş ekranı özelleştirici"
+
+msgid "Replace the WordPress logo, background and colors on the login screen with your own brand, plus custom CSS — no extra plugin needed."
+msgstr "Giriş ekranındaki WordPress logosunu, arka planı ve renkleri kendi markanızla değiştirin, ayrıca özel CSS — ek eklenti gerekmez."
+
+msgid "Activity log"
+msgstr "Etkinlik günlüğü"
+
+msgid "A clear audit trail of who changed what and when — posts, settings, users and uploads — so nothing happens on your site unnoticed."
+msgstr "Kimin neyi ne zaman değiştirdiğine dair net bir denetim kaydı — yazılar, ayarlar, kullanıcılar ve yüklemeler — böylece sitenizde hiçbir şey fark edilmeden olmaz."
+
+msgid "Admin dark mode"
+msgstr "Yönetim koyu modu"
+
+msgid "A polished dark theme for the whole wp-admin, with a one-click toggle in the admin bar and a per-user preference."
+msgstr "Tüm wp-admin için özenli bir koyu tema, yönetim çubuğunda tek tıkla geçiş ve kullanıcı başına tercih."
+
+msgid "Revision cleaner"
+msgstr "Düzeltme temizleyici"
+
+msgid "Limit how many revisions each post keeps and bulk-delete old ones to shrink a bloated database and speed up your admin."
+msgstr "Her yazının kaç düzeltme tuttuğunu sınırlayın ve eskilerini toplu silerek şişmiş bir veritabanını küçültün ve yönetiminizi hızlandırın."
+
+msgid "Explore Qaiyo Plugins"
+msgstr "Qaiyo Eklentilerini Keşfet"
+
+msgid "Explore Qaiyo"
+msgstr "Qaiyo'yu Keşfet"
+
+msgid "Plugins"
+msgstr "Eklentiler"
+
+msgid "The complete Qaiyo plugin family — all built to the same quality standard."
+msgstr "Tüm Qaiyo eklenti ailesi — hepsi aynı kalite standardında inşa edilmiştir."
+
+msgid "Refresh list"
+msgstr "Listeyi yenile"
+
+msgid "Data from"
+msgstr "Veri kaynağı:"
+
+msgid "Active"
+msgstr "Etkin"
+
+msgid "Installed"
+msgstr "Yüklü"
+
+msgid "Free Download"
+msgstr "Ücretsiz İndir"
+
+msgid "Go Pro →"
+msgstr "Pro'ya Geç →"
+
+msgid "All Qaiyo plugins are built by"
+msgstr "Tüm Qaiyo eklentileri tarafından oluşturulmuştur:"
+
+msgid "Need help? Contact us at"
+msgstr "Yardıma mı ihtiyacınız var? Bize ulaşın:"
+
+msgid "version %1$s is available (you have %2$s)."
+msgstr "%1$s sürümü mevcut (sizde %2$s var)."
+
+msgid "View release →"
+msgstr "Sürümü gör →"
+
+msgid "An error occurred."
+msgstr "Bir hata oluştu."
+
+msgid "Bulk Create"
+msgstr "Toplu Oluşturma"
+
+msgid "Bulk create"
+msgstr "Toplu oluşturma"
+
+msgid "Create many pages or posts at once from a list of titles."
+msgstr "Bir başlık listesinden birçok sayfa veya yazıyı bir kerede oluşturun."
+
+msgid "Create many pages or posts at once — one title per line. Indent with a Tab (or 2 spaces) to nest child pages."
+msgstr "Birçok sayfa veya yazıyı bir kerede oluşturun — her satıra bir başlık. Alt sayfaları iç içe yerleştirmek için Tab (veya 2 boşluk) ile girinti yapın."
+
+msgid "You do not have permission to create any content types."
+msgstr "Hiçbir içerik türü oluşturma izniniz yok."
+
+msgid "What to create"
+msgstr "Ne oluşturulacak"
+
+msgid "Content type"
+msgstr "İçerik türü"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Draft"
+msgstr "Taslak"
+
+msgid "Published"
+msgstr "Yayımlandı"
+
+msgid "Pending review"
+msgstr "İnceleme bekliyor"
+
+msgid "Private"
+msgstr "Özel"
+
+msgid "Parent page"
+msgstr "Üst sayfa"
+
+msgid "Top-level parent for the whole batch. Only applies to hierarchical types (e.g. Pages)."
+msgstr "Tüm grup için en üst düzey üst öğe. Yalnızca hiyerarşik türlere uygulanır (ör. Sayfalar)."
+
+msgid "— None (top level) —"
+msgstr "— Yok (en üst düzey) —"
+
+msgid "Titles — one per line"
+msgstr "Başlıklar — her satıra bir tane"
+
+msgid "Up to %d items per batch. Indent a line with a Tab (or 2 spaces) to make it a child of the line above."
+msgstr "Grup başına en fazla %d öğe. Bir satırı üstteki satırın alt öğesi yapmak için Tab (veya 2 boşluk) ile girinti yapın."
+
+msgid "Create items"
+msgstr "Öğeleri oluştur"
+
+msgid "%d non-empty line(s) ready to create."
+msgstr "Oluşturulmaya hazır %d boş olmayan satır."
+
+msgid "You are not allowed to create that content type."
+msgstr "Bu içerik türünü oluşturma izniniz yok."
+
+msgid "Unknown or unsupported content type."
+msgstr "Bilinmeyen veya desteklenmeyen içerik türü."
+
+msgid "%d item(s) created."
+msgstr "%d öğe oluşturuldu."
+
+msgid "%d item(s) could not be created."
+msgstr "%d öğe oluşturulamadı."
+
+msgid "View the list →"
+msgstr "Listeyi gör →"
+
+msgid "No items were created. Add at least one non-empty title."
+msgstr "Hiçbir öğe oluşturulmadı. En az bir boş olmayan başlık ekleyin."
+
+msgid "Updates"
+msgstr "Güncellemeler"
+
+msgid "Update center widget"
+msgstr "Güncelleme merkezi bileşeni"
+
+msgid "A dashboard widget to update plugins and themes in one place."
+msgstr "Eklentileri ve temaları tek bir yerden güncellemek için bir pano bileşeni."
+
+msgid "Update all (%d)"
+msgstr "Tümünü güncelle (%d)"
+
+msgid "Update"
+msgstr "Güncelle"
+
+msgid "Updating…"
+msgstr "Güncelleniyor…"
+
+msgid "Updated"
+msgstr "Güncellendi"
+
+msgid "Update failed"
+msgstr "Güncelleme başarısız"
+
+msgid "Check again"
+msgstr "Tekrar denetle"
+
+msgid "Checking…"
+msgstr "Denetleniyor…"
+
+msgid "Everything is up to date"
+msgstr "Her şey güncel"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Details"
+msgstr "Ayrıntılar"
+
+msgid "Changelog for %s"
+msgstr "%s için değişiklik günlüğü"
+
+msgid "You are not allowed to update plugins."
+msgstr "Eklentileri güncelleme izniniz yok."
+
+msgid "You are not allowed to update themes."
+msgstr "Temaları güncelleme izniniz yok."
+
+msgid "You are not allowed to check for updates."
+msgstr "Güncellemeleri kontrol etme izniniz yok."
+
+msgid "No update is available for this plugin."
+msgstr "Bu eklenti için güncelleme yok."
+
+msgid "No update is available for this theme."
+msgstr "Bu tema için güncelleme yok."
+
+msgid "Could not access the filesystem. Your host may require FTP/SSH credentials to install updates."
+msgstr "Dosya sistemine erişilemedi. Barındırıcınız güncellemeleri yüklemek için FTP/SSH kimlik bilgileri isteyebilir."
+
+msgid "Update failed."
+msgstr "Güncelleme başarısız oldu."
+
+msgid "Comments"
+msgstr "Yorumlar"
+
+msgid "Comments widget"
+msgstr "Yorum bileşeni"
+
+msgid "A dashboard widget with comment counts and one-click / bulk trashing."
+msgstr "Yorum sayılarını gösteren ve tek tıkla / toplu çöpe taşıma sunan bir pano bileşeni."
+
+msgid "Dashboard greeting"
+msgstr "Pano karşılaması"
+
+msgid "Show a personal greeting at the top of the main WordPress dashboard."
+msgstr "Ana WordPress panosunun üstünde kişisel bir karşılama gösterir."
+
+msgid "Approved"
+msgstr "Onaylandı"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Trash"
+msgstr "Çöp"
+
+msgid "Select all"
+msgstr "Tümünü seç"
+
+msgid "Move to Trash"
+msgstr "Çöpe taşı"
+
+msgid "Manage all comments →"
+msgstr "Tüm yorumları yönet →"
+
+msgid "Anonymous"
+msgstr "Anonim"
+
+msgid "on"
+msgstr "yazı:"
+
+msgid "No comments to show."
+msgstr "Gösterilecek yorum yok."
+
+msgid "You are not allowed to moderate comments."
+msgstr "Yorumları denetleme izniniz yok."
+
+msgid "Nothing selected."
+msgstr "Hiçbir şey seçilmedi."
+
+msgid "Working…"
+msgstr "İşleniyor…"
+
+msgid "Something went wrong."
+msgstr "Bir şeyler ters gitti."
+
+msgid "Move the selected comments to the Trash?"
+msgstr "Seçili yorumları çöpe taşımak istiyor musunuz?"
+
+msgid "Hi, %s!"
+msgstr "Merhaba, %s!"
+
+msgid "A per-user dark theme for wp-admin, toggled from the admin bar."
+msgstr "wp-admin için kullanıcı bazlı karanlık tema; yönetici çubuğundan açılır."
+
+msgid "SVG sanitization"
+msgstr "SVG temizleme"
+
+msgid "Automatically strip scripts from uploaded SVG files."
+msgstr "Yüklenen SVG dosyalarından betikleri otomatik olarak temizler."
+
+msgid "Bulk noindex actions"
+msgstr "Toplu noindex işlemleri"
+
+msgid "Set or remove noindex on many pages or posts at once."
+msgstr "Birçok sayfa veya yazıda noindex'i tek seferde ayarlayın veya kaldırın."
+
+msgid "Pin pages to a quick admin-bar menu and a dashboard widget."
+msgstr "Sayfaları yönetici çubuğundaki hızlı menüye ve bir pano bileşenine sabitleyin."
+
+msgid "This theme uses navigation blocks instead of classic menus, so a menu created here will not appear on the site by itself. You can still insert it with a Navigation block."
+msgstr "Bu tema klasik menüler yerine gezinme bloklarını kullanır; bu nedenle burada oluşturulan menü kendiliğinden sitede görünmez. Yine de bir Gezinme bloğuyla ekleyebilirsiniz."
+
+msgid "Shows how many reviews are waiting for approval, with a link to moderation."
+msgstr "Kaç yorumun onay beklediğini gösterir ve moderasyona bağlantı verir."
+
+msgid "Shows today’s bookings and when the next appointment starts."
+msgstr "Bugünkü randevuları ve bir sonraki randevunun ne zaman başladığını gösterir."
+
+msgid "Shows the latest measured performance score for this site."
+msgstr "Bu sitenin en son ölçülen performans puanını gösterir."
+
+msgid "Shows how many galleries and images you have."
+msgstr "Kaç galeriniz ve görseliniz olduğunu gösterir."
+
+msgid "Shows how many videos are embedded across your content."
+msgstr "İçeriklerinize kaç video gömüldüğünü gösterir."
+
+msgid "Shows which roles currently have restricted access."
+msgstr "Hangi rollerin şu anda kısıtlı erişimi olduğunu gösterir."
+
+msgid "Shows how many marquee sliders are running on the site."
+msgstr "Sitede kaç kayan yazı kaydırıcısının çalıştığını gösterir."
+
+msgid "Fixes the everyday wp-admin rough edges."
+msgstr "wp-admin'in günlük pürüzlerini giderir."
+
+msgid "Qaiyo plugins can show a summary card here. Cards from plugins you already run show live data; the rest show what they would add."
+msgstr "Qaiyo eklentileri burada bir özet kartı gösterebilir. Zaten kullandıklarınız gerçek veri gösterir; diğerleri neler ekleyeceğini gösterir."
+
+msgid "More detail in %s Pro"
+msgstr "Daha fazla ayrıntı %s Pro'da"
+
+msgid "This plugin is active but did not report a summary card. Updating it to the latest version enables one."
+msgstr "Bu eklenti etkin ancak bir özet kartı bildirmedi. En son sürüme güncellemek kartı etkinleştirir."
+
+msgid "Qaiyo ecosystem"
+msgstr "Qaiyo ekosistemi"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "This card could not be displayed."
+msgstr "Bu kart görüntülenemedi."
+
+msgid "Qaiyo ecosystem widget"
+msgstr "Qaiyo ekosistem bileşeni"
+
+msgid "Collect summary cards from your other Qaiyo plugins into one dashboard widget."
+msgstr "Diğer Qaiyo eklentilerinizin özet kartlarını tek bir pano bileşeninde toplar."
+
+msgid "Sending…"
+msgstr "Gönderiliyor…"
+
+msgid "Could not send the test email. Please try again."
+msgstr "Test e-postası gönderilemedi. Lütfen tekrar deneyin."
+
+msgid "Update notifications are working on %s"
+msgstr "Güncelleme bildirimleri %s üzerinde çalışıyor"
+
+msgid "Update notifications"
+msgstr "Güncelleme bildirimleri"
+
+msgid "Update notification emails"
+msgstr "Güncelleme bildirimi e-postaları"
+
+msgid "Email every administrator a daily or weekly digest of the plugin, theme and WordPress updates that are waiting."
+msgstr "Bekleyen eklenti, tema ve WordPress güncellemelerinin günlük veya haftalık özetini tüm yöneticilere e-postayla gönderir."
+
+msgid "Get an email when a plugin, theme or WordPress update becomes available. Requires the “Update notification emails” module."
+msgstr "Bir eklenti, tema veya WordPress güncellemesi çıktığında e-posta alın. „Güncelleme bildirimi e-postaları” modülü gereklidir."
+
+msgid "WordPress core"
+msgstr "WordPress çekirdeği"
+
+msgid "Themes"
+msgstr "Temalar"
+
+msgid "How often"
+msgstr "Ne sıklıkla"
+
+msgid "One summary email per period — never one email per update check. Nothing is sent when there is nothing new."
+msgstr "Dönem başına tek bir özet e-posta — her güncelleme kontrolü için bir e-posta değil. Yeni bir şey yoksa hiçbir şey gönderilmez."
+
+msgid "Notify me about"
+msgstr "Neler hakkında bildirim"
+
+msgid "Recipients"
+msgstr "Alıcılar"
+
+msgid "Every administrator of this site: %s"
+msgstr "Bu sitenin tüm yöneticileri: %s"
+
+msgid "Next summary is due in %s."
+msgstr "Sonraki özet %s içinde gönderilecek."
+
+msgid "Is mail working?"
+msgstr "E-posta çalışıyor mu?"
+
+msgid "WordPress hands the email to your server or SMTP plugin; it cannot guarantee delivery. Send yourself a test to make sure mail actually leaves this site."
+msgstr "WordPress e-postayı sunucunuza veya SMTP eklentinize devreder; teslimi garanti edemez. Bu siteden gerçekten e-posta çıktığını görmek için kendinize bir test gönderin."
+
+msgid "Send test email"
+msgstr "Test e-postası gönder"
+
+msgid "The last summary could not be handed over for %1$d of %2$d recipients (%3$s ago). Check your hosting mail settings or install an SMTP plugin."
+msgstr "Son özet, %2$d alıcının %1$d tanesine devredilemedi (%3$s önce). Barındırma e-posta ayarlarınızı kontrol edin veya bir SMTP eklentisi kurun."
+
+msgid "Targeted update alerts"
+msgstr "Hedefli güncelleme uyarıları"
+
+msgid "Pick exactly which plugins and themes you want to hear about, get security releases flagged in the email, and see a slice of the changelog next to each item."
+msgstr "Hangi eklenti ve temalar hakkında haber almak istediğinizi tam olarak seçin, güvenlik sürümlerini e-postada işaretleyin ve her öğenin yanında changelog'dan bir bölüm görün."
+
+msgid "Instant & Slack update alerts"
+msgstr "Anında ve Slack güncelleme uyarıları"
+
+msgid "Send update alerts the moment they appear instead of waiting for the daily digest, push them to a Slack or Discord webhook, and set your own sender name and address."
+msgstr "Güncelleme uyarılarını günlük özeti beklemeden anında gönderin, Slack veya Discord webhook'una iletin ve kendi gönderen adınızı ve adresinizi belirleyin."
+
+msgid "Pending"
+msgstr "Beklemede"
+
+msgid "Once a day"
+msgstr "Günde bir kez"
+
+msgid "Once a week"
+msgstr "Haftada bir kez"
+
+msgid "Update available: %1$s %2$s on %3$s"
+msgstr "Güncelleme mevcut: %1$s %2$s — %3$s"
+
+msgid "%1$d updates available on %2$s"
+msgstr "%2$s üzerinde %1$d güncelleme mevcut"
+
+msgid "The following updates are available on %s:"
+msgstr "%s üzerinde aşağıdaki güncellemeler mevcut:"
+
+msgid "Security release"
+msgstr "Güvenlik sürümü"
+
+msgid "Review and install updates"
+msgstr "Güncellemeleri inceleyin ve kurun"
+
+msgid "You are receiving this because you are an administrator of this site. You can change or switch off these notifications under Admin Booster → Update notifications."
+msgstr "Bu iletiyi bu sitenin yöneticisi olduğunuz için alıyorsunuz. Bildirimleri Admin Booster → Güncelleme bildirimleri altından değiştirebilir veya kapatabilirsiniz."
+
+msgid "You are not allowed to send test emails."
+msgstr "Test e-postası gönderme izniniz yok."
+
+msgid "Your user account has no valid email address."
+msgstr "Kullanıcı hesabınızda geçerli bir e-posta adresi yok."
+
+msgid "This is a test email from Qaiyo Admin Booster. Update notifications are set up correctly — there are no pending updates right now."
+msgstr "Bu, Qaiyo Admin Booster'dan bir test e-postasıdır. Güncelleme bildirimleri doğru yapılandırılmış — şu anda bekleyen güncelleme yok."
+
+msgid "WordPress could not hand the email over to your mail system. Check your hosting mail settings, or install an SMTP plugin."
+msgstr "WordPress e-postayı posta sisteminize devredemedi. Barındırma e-posta ayarlarınızı kontrol edin veya bir SMTP eklentisi kurun."
+
+msgid "Test email sent to %s. If it does not arrive, check your spam folder — mail handed over successfully can still be filtered."
+msgstr "Test e-postası %s adresine gönderildi. Ulaşmazsa spam klasörünü kontrol edin — başarıyla devredilen e-posta da filtrelenebilir."
+
+msgid "Separate table for pending updates"
+msgstr "Bekleyen güncellemeler için ayrı tablo"
+
+msgid "On the Plugins screen, list plugins with an available update in their own table at the top, and every other plugin in a separate table below it."
+msgstr "Eklentiler ekranında, güncellemesi olan eklentileri en üstte kendi tablosunda, diğerlerini ise altında ayrı bir tabloda listeler."
+
+msgid "All plugins"
+msgstr "Tüm eklentiler"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Update level"
+msgstr "Düzeyi güncelle"
+
+msgid "This content is already at that place in the menu."
+msgstr "Bu içerik menüde zaten o konumda."
+
+msgid "Moved under the chosen menu item."
+msgstr "Seçilen menü öğesinin altına taşındı."
+
+msgid "Moved to the top level of the menu."
+msgstr "Menünün üst düzeyine taşındı."
+
+msgid "Menus"
+msgstr "Menüler"
+
+msgid "Save this content first, then you can add it to a menu."
+msgstr "Önce bu içeriği kaydedin, ardından bir menüye ekleyebilirsiniz."
+
+msgid "submenu"
+msgstr "alt menü"
+
+msgid "Add to menu"
+msgstr "Menüye ekle"
+
+msgid "Level"
+msgstr "Düzey"
+
+msgid "— Top level —"
+msgstr "— Üst düzey —"
+
+msgid "This site has no navigation menus yet. Create the first one right here."
+msgstr "Bu sitede henüz gezinme menüsü yok. İlkini tam burada oluşturun."
+
+msgid "+ Create a new menu"
+msgstr "+ Yeni menü oluştur"
+
+msgid "Menu name"
+msgstr "Menü adı"
+
+msgid "Main menu"
+msgstr "Ana menü"
+
+msgid "Display location"
+msgstr "Görüntülenme konumu"
+
+msgid "— Do not assign —"
+msgstr "— Atama yapma —"
+
+msgid "Create menu and add"
+msgstr "Menü oluştur ve ekle"
+
+msgid "You are not allowed to edit menus on this site."
+msgstr "Bu sitede menüleri düzenleme izniniz yok."
+
+msgid "This content type cannot be added to a menu."
+msgstr "Bu içerik türü bir menüye eklenemez."
+
+msgid "Unknown action."
+msgstr "Bilinmeyen işlem."
+
+msgid "Please enter a name for the menu."
+msgstr "Lütfen menü için bir ad girin."
+
+msgid "Menu created and this content added to it."
+msgstr "Menü oluşturuldu ve bu içerik eklendi."
+
+msgid "Please choose a menu."
+msgstr "Lütfen bir menü seçin."
+
+msgid "The chosen parent item is not available in that menu."
+msgstr "Seçilen üst öğe o menüde bulunmuyor."
+
+msgid "Added to the menu as a submenu item."
+msgstr "Menüye alt menü öğesi olarak eklendi."
+
+msgid "Added to the menu."
+msgstr "Menüye eklendi."
+
+msgid "That menu item no longer exists."
+msgstr "Bu menü öğesi artık mevcut değil."
+
+msgid "Removed from the menu."
+msgstr "Menüden kaldırıldı."
+
+msgid "This content is already in that menu."
+msgstr "Bu içerik zaten o menüde."
+
+msgid "Something went wrong. Please try again."
+msgstr "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+
+msgid "Remove this item from the menu?"
+msgstr "Bu öğe menüden kaldırılsın mı?"
+
+msgid "Add to menu from the editor"
+msgstr "Editörden menüye ekleme"
+
+msgid "Put a page or post into a navigation menu straight from the editor sidebar."
+msgstr "Bir sayfayı veya yazıyı doğrudan editör kenar çubuğundan gezinme menüsüne ekleyin."
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the server limit cannot be changed from here."
+msgstr "Bu sitede dosya değişiklikleri devre dışı (DISALLOW_FILE_MODS), bu yüzden sunucu sınırı buradan değiştirilemez."
+
+msgid "This server has per-directory PHP settings (.user.ini) switched off, so the limit can only be raised by your host."
+msgstr "Bu sunucuda dizin bazlı PHP ayarları (.user.ini) kapalı, bu yüzden sınırı yalnızca barındırma sağlayıcınız yükseltebilir."
+
+msgid "This server runs PHP as “%s”, which does not read per-directory settings, so the limit can only be raised by your host."
+msgstr "Bu sunucu PHP'yi „%s” olarak çalıştırıyor ve dizin bazlı ayarları okumuyor; sınırı yalnızca barındırma sağlayıcınız yükseltebilir."
+
+msgid "Admin Booster cannot write %s on this server, so the upload limit was not raised."
+msgstr "Admin Booster bu sunucuda %s dosyasına yazamıyor, bu yüzden yükleme sınırı yükseltilmedi."
+
+msgid "Could not remove the upload limit from the server file."
+msgstr "Yükleme sınırı sunucu dosyasından kaldırılamadı."
+
+msgid "0 = use the server limit. The server currently accepts files up to %s."
+msgstr "0 = sunucu sınırını kullan. Sunucu şu anda %s boyutuna kadar dosya kabul ediyor."
+
+msgid "Raise the server limit too"
+msgstr "Sunucu sınırını da yükselt"
+
+msgid "Server limit raised: uploads up to %s are accepted now."
+msgstr "Sunucu sınırı yükseltildi: artık %s boyutuna kadar yükleme kabul ediliyor."
+
+msgid "The %1$s limit has been written. PHP picks it up within %2$s — reload this page to check."
+msgstr "%1$s sınırı yazıldı. PHP bunu %2$s içinde uygular — kontrol etmek için sayfayı yenileyin."
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. Switch on “Raise the server limit too” and save."
+msgstr "%1$s olarak ayarladınız ancak sunucu yalnızca %2$s kabul ediyor, bu yüzden %2$s geçerli. „Sunucu sınırını da yükselt” seçeneğini açıp kaydedin."
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. %3$s"
+msgstr "%1$s olarak ayarladınız ancak sunucu yalnızca %2$s kabul ediyor, bu yüzden %2$s geçerli. %3$s"
+
+msgid "Only a network administrator can change the server limit."
+msgstr "Sunucu sınırını yalnızca bir ağ yöneticisi değiştirebilir."
+
+msgid "Your host has locked the upload limit for this site (php_admin_value), so no file inside WordPress can change it — only the host can raise it."
+msgstr "Barındırma sağlayıcınız bu sitenin yükleme sınırını kilitlemiş (php_admin_value); WordPress klasöründeki hiçbir dosya bunu değiştiremez, yalnızca sağlayıcı yükseltebilir."
+
+msgid "No cPanel or FTP needed. PHP cannot change this limit while WordPress is running (not even from wp-config.php), so Admin Booster writes it into %s, which your server reads before each request. It can take a few minutes to apply. Switching this off removes the lines again."
+msgstr "cPanel veya FTP gerekmez. PHP bu sınırı WordPress çalışırken değiştiremez (wp-config.php'den bile), bu yüzden Admin Booster bunu sunucunuzun her istekten önce okuduğu %s dosyasına yazar. Etkinleşmesi birkaç dakika sürebilir. Kapatınca satırlar kaldırılır."
+
+msgid "The %1$s limit was written, but the server still applies only %2$s. This host does not read these settings from the WordPress folder. The details below show exactly how PHP runs here — if you contact your host, send them this list."
+msgstr "%1$s sınırı yazıldı ancak sunucu hâlâ yalnızca %2$s uyguluyor. Bu barındırma bu ayarları WordPress klasöründen okumuyor. Aşağıdaki ayrıntılar PHP'nin burada tam olarak nasıl çalıştığını gösterir — sağlayıcınızla iletişime geçerseniz bu listeyi gönderin."
+
+msgid "Server details"
+msgstr "Sunucu ayrıntıları"
+
+msgid "Safe Mode"
+msgstr "Güvenli Mod"
+
+msgid "Safe Mode link"
+msgstr "Güvenli Mod bağlantısı"
+
+msgid "A secret link, saved in advance, that gets you back into wp-admin when a plugin or theme update breaks the site."
+msgstr "Bir eklenti ya da tema güncellemesi siteyi bozduğunda wp-admin'e geri dönmenizi sağlayan, önceden kaydedilmiş gizli bir bağlantı."
+
+msgid "Safe Mode — emergency access"
+msgstr "Güvenli Mod — acil erişim"
+
+msgid "When a plugin or theme update breaks the site, WordPress only emails a one-time recovery link — once a day, and never on multisite. If that email is lost, you are locked out. Safe Mode gives you a link you save now, before anything goes wrong."
+msgstr "Bir eklenti ya da tema güncellemesi siteyi bozduğunda WordPress yalnızca tek kullanımlık bir kurtarma bağlantısını e-postayla gönderir — günde bir kez ve çoklu sitede hiç. O e-posta kaybolursa dışarıda kalırsınız. Güvenli Mod, bir şey ters gitmeden önce şimdi kaydedebileceğiniz bir bağlantı verir."
+
+msgid "Only a network administrator can manage Safe Mode."
+msgstr "Güvenli Mod'u yalnızca bir ağ yöneticisi yönetebilir."
+
+msgid "Safe Mode is off. Turn on “Safe Mode link” on the Modules tab and save to get your link."
+msgstr "Güvenli Mod kapalı. Bağlantınızı almak için Modüller sekmesinde „Güvenli Mod bağlantısı” seçeneğini açıp kaydedin."
+
+msgid "The Safe Mode file could not be installed."
+msgstr "Güvenli Mod dosyası yüklenemedi."
+
+msgid "Copied"
+msgstr "Kopyalandı"
+
+msgid "Copy"
+msgstr "Kopyala"
+
+msgid "When the site is broken"
+msgstr "Site bozulduğunda"
+
+msgid "Go to Plugins and deactivate the plugin that was just updated (or switch themes under Appearance)."
+msgstr "Eklentiler'e gidin ve az önce güncellenen eklentiyi devre dışı bırakın (ya da Görünüm'den tema değiştirin)."
+
+msgid "Create a new link"
+msgstr "Yeni bağlantı oluştur"
+
+msgid "When"
+msgstr "Ne zaman"
+
+msgid "IP address"
+msgstr "IP adresi"
+
+msgid "Browser"
+msgstr "Tarayıcı"
+
+msgid "Could not remove the Safe Mode file from the mu-plugins folder."
+msgstr "Güvenli Mod dosyası mu-plugins klasöründen kaldırılamadı."
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the Safe Mode file cannot be installed."
+msgstr "Bu sitede dosya değişiklikleri devre dışı (DISALLOW_FILE_MODS), bu yüzden Güvenli Mod dosyası yüklenemez."
+
+msgid "Admin Booster cannot write to %s on this server, so Safe Mode could not be installed."
+msgstr "Admin Booster bu sunucuda %s konumuna yazamıyor, bu yüzden Güvenli Mod yüklenemedi."
+
+msgid "You are not allowed to do that."
+msgstr "Bunu yapma izniniz yok."
+
+msgid "Safe Mode is on — no plugins are running for you, and a default theme stands in for yours."
+msgstr "Güvenli Mod açık — sizin için hiçbir eklenti çalışmıyor ve temanızın yerini varsayılan bir tema alıyor."
+
+msgid "Go to Plugins"
+msgstr "Eklentilere git"
+
+msgid "Exit Safe Mode"
+msgstr "Güvenli Mod'dan çık"
+
+msgid "Your Safe Mode link"
+msgstr "Güvenli Mod bağlantınız"
+
+msgid "Save this link now — it is shown only this once."
+msgstr "Bu bağlantıyı şimdi kaydedin — yalnızca bu kez gösterilir."
+
+msgid "For security, only a fingerprint of the key is stored, so the link cannot be displayed again. If you lose it, create a new one."
+msgstr "Güvenlik için yalnızca anahtarın parmak izi saklanır; bu yüzden bağlantı yeniden gösterilemez. Kaybederseniz yenisini oluşturun."
+
+msgid "Put it in your password manager, next to this site’s login. It is useless if you only look for it after the site is down."
+msgstr "Parola yöneticinize, bu sitenin giriş bilgilerinin yanına koyun. Site çöktükten sonra aramaya başlarsanız işe yaramaz."
+
+msgid "A link is active — created on %1$s by %2$s. It cannot be shown again; if nobody saved it, create a new one."
+msgstr "Etkin bir bağlantı var — %1$s tarihinde %2$s tarafından oluşturuldu. Yeniden gösterilemez; kimse kaydetmediyse yenisini oluşturun."
+
+msgid "There is no active link — Safe Mode cannot be entered. Create one and save it."
+msgstr "Etkin bağlantı yok — Güvenli Mod'a girilemez. Bir tane oluşturup kaydedin."
+
+msgid "The current link and any open Safe Mode session stop working immediately."
+msgstr "Mevcut bağlantı ve açık Güvenli Mod oturumları hemen çalışmaz hâle gelir."
+
+msgid "Your wp-config.php has no unique SECURE_AUTH_KEY / SECURE_AUTH_SALT, so the key fingerprint is protected by keys stored in the database. Add unique keys to wp-config.php (api.wordpress.org/secret-key/1.1/salt) for full protection, then create a new link."
+msgstr "wp-config.php dosyanızda benzersiz SECURE_AUTH_KEY / SECURE_AUTH_SALT yok; bu yüzden parmak izi veritabanında saklanan anahtarlarla korunuyor. Tam koruma için wp-config.php'ye benzersiz anahtarlar ekleyin (api.wordpress.org/secret-key/1.1/salt), ardından yeni bağlantı oluşturun."
+
+msgid "Open the saved link — it works even when the site only shows “There has been a critical error”."
+msgstr "Kaydettiğiniz bağlantıyı açın — site yalnızca „Kritik bir hata oluştu” gösterdiğinde bile çalışır."
+
+msgid "Log in with an administrator account. A password is required even if you were already logged in."
+msgstr "Bir yönetici hesabıyla giriş yapın. Zaten giriş yapmış olsanız bile parola istenir."
+
+msgid "Click “Exit Safe Mode” in the red bar. Once the admin loads normally again, the used link is retired and you are asked to create a new one."
+msgstr "Kırmızı çubukta „Güvenli Mod'dan çık” düğmesine tıklayın. Yönetim paneli normal şekilde yüklenir yüklenmez kullanılan bağlantı iptal edilir ve yenisini oluşturmanız istenir."
+
+msgid "How the link is protected"
+msgstr "Bağlantı nasıl korunuyor"
+
+msgid "The key sits after the # in the link, which browsers never send to the server — it cannot end up in server, CDN or proxy logs."
+msgstr "Anahtar bağlantıda # işaretinden sonra yer alır; tarayıcılar bu kısmı sunucuya asla göndermez — sunucu, CDN veya proxy kayıtlarına düşemez."
+
+msgid "Only a fingerprint is stored, keyed with your wp-config.php security keys: a leaked or stolen database does not reveal the link."
+msgstr "Yalnızca wp-config.php güvenlik anahtarlarınızla anahtarlanmış bir parmak izi saklanır: sızdırılmış ya da çalınmış bir veritabanı bağlantıyı ortaya çıkarmaz."
+
+msgid "The link alone is not enough: only administrators can log in, with their password, and a built-in limit locks logins for 15 minutes after 5 failures."
+msgstr "Bağlantı tek başına yetmez: yalnızca yöneticiler parolalarıyla giriş yapabilir ve yerleşik bir sınır 5 başarısız denemeden sonra girişleri 15 dakika kilitler."
+
+msgid "Safe Mode is a recovery console only: Dashboard, Plugins and Themes. Installing or uploading plugins and themes, editing files, and adding or changing users are all blocked."
+msgstr "Güvenli Mod yalnızca bir kurtarma konsoludur: Başlangıç, Eklentiler ve Temalar. Eklenti ve tema yükleme, dosya düzenleme, kullanıcı ekleme veya değiştirme engellenir."
+
+msgid "Every use emails all administrators, is logged with IP address and browser, and retires the link once the site works again."
+msgstr "Her kullanım tüm yöneticilere e-postayla bildirilir, IP adresi ve tarayıcıyla kaydedilir ve site yeniden çalışınca bağlantı iptal edilir."
+
+msgid "On an HTTPS site the key is only accepted over HTTPS; the session is tied to the browser and ends after one hour. Visitors always see the normal site."
+msgstr "HTTPS bir sitede anahtar yalnızca HTTPS üzerinden kabul edilir; oturum tarayıcıya bağlıdır ve bir saat sonra biter. Ziyaretçiler her zaman normal siteyi görür."
+
+msgid "Only allow from these IP addresses (optional)"
+msgstr "Yalnızca bu IP adreslerinden izin ver (isteğe bağlı)"
+
+msgid "One IP address or range per line (e.g. 203.0.113.7 or 203.0.113.0/24). Leave empty to allow any address. Only use this with a fixed office or VPN address — otherwise you can lock yourself out. Your current address: %s"
+msgstr "Her satıra bir IP adresi veya aralık (örn. 203.0.113.7 ya da 203.0.113.0/24). Her adrese izin vermek için boş bırakın. Yalnızca sabit bir ofis veya VPN adresiyle kullanın — aksi hâlde kendinizi dışarıda bırakabilirsiniz. Şu anki adresiniz: %s"
+
+msgid "Not saved — these entries are not valid IP addresses or ranges: %s"
+msgstr "Kaydedilmedi — bu girdiler geçerli IP adresi veya aralığı değil: %s"
+
+msgid "IP restriction saved."
+msgstr "IP kısıtlaması kaydedildi."
+
+msgid "Save IP restriction"
+msgstr "IP kısıtlamasını kaydet"
+
+msgid "Safe Mode log"
+msgstr "Güvenli Mod günlüğü"
+
+msgid "Entered Safe Mode"
+msgstr "Güvenli Mod'a girildi"
+
+msgid "Wrong key"
+msgstr "Yanlış anahtar"
+
+msgid "Blocked address"
+msgstr "Engellenen adres"
+
+msgid "Logged in"
+msgstr "Giriş yapıldı"
+
+msgid "Failed login"
+msgstr "Başarısız giriş"
+
+msgid "Logins locked"
+msgstr "Girişler kilitlendi"
+
+msgid "Non-administrator refused"
+msgstr "Yönetici olmayan reddedildi"
+
+msgid "Nothing logged yet."
+msgstr "Henüz kayıt yok."
+
+msgid "Event"
+msgstr "Olay"
+
+msgid "User"
+msgstr "Kullanıcı"
+
+msgid "WordPress security keys are missing, so a Safe Mode link cannot be created safely."
+msgstr "WordPress güvenlik anahtarları eksik; bu yüzden Güvenli Mod bağlantısı güvenli şekilde oluşturulamaz."
+
+msgid "The Safe Mode link was used and has been retired."
+msgstr "Güvenli Mod bağlantısı kullanıldı ve iptal edildi."
+
+msgid "Used on %1$s from IP address %2$s."
+msgstr "%1$s tarihinde %2$s IP adresinden kullanıldı."
+
+msgid "If this was not you or a colleague: change every administrator password now and check the Safe Mode log. Either way, create a new Safe Mode link and save it."
+msgstr "Bu siz ya da bir çalışma arkadaşınız değilse: tüm yönetici parolalarını hemen değiştirin ve günlüğü inceleyin. Her durumda yeni bir bağlantı oluşturup kaydedin."
+
+msgid "Dismiss"
+msgstr "Kapat"
+
+msgid "This Safe Mode key is not valid."
+msgstr "Bu Güvenli Mod anahtarı geçerli değil."
+
+msgid "Checking your Safe Mode key…"
+msgstr "Güvenli Mod anahtarınız kontrol ediliyor…"
+
+msgid "Paste the key from your saved Safe Mode link (the part after #)."
+msgstr "Kaydettiğiniz Güvenli Mod bağlantısındaki anahtarı yapıştırın (# işaretinden sonraki kısım)."
+
+msgid "Enter Safe Mode"
+msgstr "Güvenli Mod'a gir"
+
+msgid "Too many failed logins in Safe Mode. Try again in 15 minutes."
+msgstr "Güvenli Mod'da çok fazla başarısız giriş. 15 dakika sonra tekrar deneyin."
+
+msgid "Only administrators can log in while Safe Mode is on."
+msgstr "Güvenli Mod açıkken yalnızca yöneticiler giriş yapabilir."
+
+msgid "Only administrators can use Safe Mode."
+msgstr "Güvenli Mod'u yalnızca yöneticiler kullanabilir."
+
+msgid "Someone entered Safe Mode with the Safe Mode link."
+msgstr "Birisi Güvenli Mod bağlantısıyla Güvenli Mod'a girdi."
+
+msgid "An administrator logged in while Safe Mode was on."
+msgstr "Güvenli Mod açıkken bir yönetici giriş yaptı."
+
+msgid "Safe Mode logins were locked after 5 failed attempts."
+msgstr "Güvenli Mod girişleri 5 başarısız denemeden sonra kilitlendi."
+
+msgid "%1$s — %2$s IP: %3$s, user: %4$s"
+msgstr "%1$s — %2$s IP: %3$s, kullanıcı: %4$s"
+
+msgid "If this was you or a colleague fixing the site, no action is needed: the link is retired automatically once the site works again, and you will be asked to create a new one."
+msgstr "Siteyi düzelten siz ya da bir çalışma arkadaşınızsa bir şey yapmanız gerekmez: site yeniden çalışınca bağlantı otomatik olarak iptal edilir ve yenisini oluşturmanız istenir."
+
+msgid "If you do not recognise this: log in, create a new Safe Mode link (the used one stops working at once), change every administrator password, and review the Safe Mode log under Admin Booster → Safe Mode."
+msgstr "Bunu tanımıyorsanız: giriş yapın, yeni bir Güvenli Mod bağlantısı oluşturun (kullanılan hemen geçersiz olur), tüm yönetici parolalarını değiştirin ve Admin Booster → Güvenli Mod altındaki günlüğü inceleyin."
+
+msgid "[%s] Safe Mode was used"
+msgstr "[%s] Güvenli Mod kullanıldı"
+
+msgid "Only the Dashboard, Plugins and Themes screens are available, and installing, uploading, editing files and managing users are blocked. Deactivate the plugin (or switch away from the theme) that broke the site, then exit Safe Mode to check."
+msgstr "Yalnızca Başlangıç, Eklentiler ve Temalar kullanılabilir; yükleme, dosya düzenleme ve kullanıcı yönetimi engellenir. Siteyi bozan eklentiyi devre dışı bırakın (ya da temayı değiştirin), ardından kontrol etmek için Güvenli Mod'dan çıkın."
+
+msgid "Safe Mode is on: plugins are switched off for you until you exit Safe Mode. Only administrators can log in."
+msgstr "Güvenli Mod açık: çıkana kadar eklentiler sizin için kapalı. Yalnızca yöneticiler giriş yapabilir."
+
+msgid "Update crash protection"
+msgstr "Güncelleme çökmesi koruması"
+
+msgid "If a plugin or theme update crashes the site, automatically restore the previous version — no matter what triggered the update."
+msgstr "Bir eklenti ya da tema güncellemesi siteyi çökertirse, güncellemeyi neyin başlattığından bağımsız olarak önceki sürümü otomatik geri yükler."
+
+msgid "WordPress backs up the previous version before every plugin or theme update, but only checks whether the site still works — and restores that backup if not — for updates it runs itself in the background. A manual click, WP-CLI, or a remote manager like ManageWP or MainWP skips that check. This module runs the same check after every update, whoever triggered it, and restores the backup automatically if the site crashed."
+msgstr "WordPress her eklenti ya da tema güncellemesinden önce eski sürümü yedekler, ancak sitenin hâlâ çalışıp çalışmadığını kontrol edip gerekirse yedeği geri yüklemeyi yalnızca arka planda kendi çalıştırdığı güncellemelerde yapar. Elle tıklama, WP-CLI ya da ManageWP veya MainWP gibi uzaktan yöneticiler bu kontrolü atlar. Bu modül, kim başlatmış olursa olsun her güncellemeden sonra aynı kontrolü yapar ve site çöktüyse yedeği otomatik geri yükler."
+
+msgid "Off. Turn on “Update crash protection” on the Modules tab to enable it."
+msgstr "Kapalı. Modüller sekmesinde „Güncelleme çökmesi koruması” seçeneğini açın."
+
+msgid "On. No update has needed to be rolled back so far."
+msgstr "Açık. Şimdiye kadar hiçbir güncellemenin geri alınması gerekmedi."
+
+msgid "Protection could not work during the last update (%s): this server cannot load its own pages (loopback requests are blocked), so there is no way to tell whether an update broke the site. Ask your host to allow the site to reach itself; Site Health will show the same problem. This warning disappears after the next update that can be checked."
+msgstr "Koruma son güncellemede (%s) çalışamadı: bu sunucu kendi sayfalarını yükleyemiyor (loopback istekleri engelli), bu yüzden bir güncellemenin siteyi bozup bozmadığı anlaşılamıyor. Barındırma sağlayıcınızdan sitenin kendisine erişmesine izin vermesini isteyin; Site Sağlığı da aynı sorunu gösterir. Bu uyarı, kontrol edilebilen bir sonraki güncellemeden sonra kaybolur."
+
+msgid "Interventions"
+msgstr "Müdahaleler"
+
+msgid "Affected"
+msgstr "Etkilenen"
+
+msgid "Result"
+msgstr "Sonuç"
+
+msgid "Restored automatically"
+msgstr "Otomatik geri yüklendi"
+
+msgid "Could not restore automatically"
+msgstr "Otomatik geri yüklenemedi"
+
+msgid "[%s] An update was automatically rolled back"
+msgstr "[%s] Bir güncelleme otomatik olarak geri alındı"
+
+msgid "[%s] An update broke the site and could not be rolled back automatically"
+msgstr "[%s] Bir güncelleme siteyi bozdu ve otomatik olarak geri alınamadı"
+
+msgid "An update just made the site crash with a fatal error. Admin Booster detected it immediately and restored the previous version — the site is back up and no plugin was left disabled. Affected: %s"
+msgstr "Bir güncelleme az önce siteyi ölümcül bir hatayla çökertti. Admin Booster bunu hemen algıladı ve önceki sürümü geri yükledi — site yeniden çalışıyor ve hiçbir eklenti devre dışı kalmadı. Etkilenen: %s"
+
+msgid "An update just made the site crash with a fatal error, and Admin Booster could not restore the previous version automatically. Affected: %s. Use the Admin Booster Safe Mode link to get back into wp-admin, or restore the affected files from wp-content/upgrade-temp-backup/ over FTP."
+msgstr "Bir güncelleme az önce siteyi ölümcül bir hatayla çökertti ve Admin Booster önceki sürümü otomatik geri yükleyemedi. Etkilenen: %s. wp-admin'e dönmek için Admin Booster Güvenli Mod bağlantısını kullanın ya da etkilenen dosyaları FTP ile wp-content/upgrade-temp-backup/ klasöründen geri yükleyin."
+
+msgid "Menu item visibility"
+msgstr "Menü öğesi görünürlüğü"
+
+msgid "Show a menu item on mobile only or on desktop only — handy for a header button that needs to live in the mobile menu too."
+msgstr "Bir menü öğesini yalnızca mobilde veya yalnızca masaüstünde gösterin — üst bilgideki bir düğmenin mobil menüde de yer alması gerektiğinde kullanışlıdır."
+
+msgid "Visibility"
+msgstr "Görünürlük"
+
+msgid "Always"
+msgstr "Her zaman"
+
+msgid "Mobile only (%d px or narrower)"
+msgstr "Yalnızca mobil (%d px veya daha dar)"
+
+msgid "Desktop only (wider than %d px)"
+msgstr "Yalnızca masaüstü (%d px'den geniş)"
+
+msgid "Set per menu item on the Appearance → Menus screen. The breakpoint is fixed at 768px; %s for a custom value."
+msgstr "Görünüm → Menüler ekranında menü öğesi başına ayarlanır. Kırılma noktası sabit 768px'dir; özel bir değer için %s."
+
+msgid "upgrade to Pro"
+msgstr "Pro'ya yükseltin"
+
+msgid "Custom menu visibility breakpoint"
+msgstr "Özel menü görünürlük kırılma noktası"
+
+msgid "Mobile-only and desktop-only menu items switch over at 768px. Set the breakpoint your theme actually uses instead, so a menu item appears exactly where the theme switches to its mobile menu."
+msgstr "Yalnızca mobil ve yalnızca masaüstü menü öğeleri 768px'de değişir. Bunun yerine temanızın gerçekten kullandığı kırılma noktasını ayarlayın; böylece menü öğesi tam olarak temanın mobil menüye geçtiği yerde görünür."
+
+msgid "Turn each booster on or off. Everything is on by default, except the Safe Mode link."
+msgstr "Her booster'ı açıp kapatın. Güvenli Mod bağlantısı dışında her şey varsayılan olarak açıktır."

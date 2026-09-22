@@ -1,0 +1,90 @@
+/* Menühöz adás panel a szerkesztő oldalsávjában. */
+.qwab-mm-hint {
+	margin: 0 0 10px;
+	color: #50575e;
+}
+
+.qwab-mm-current {
+	margin: 0 0 12px;
+	padding: 0;
+	list-style: none;
+	border-bottom: 1px solid #f0f0f1;
+}
+
+.qwab-mm-current__item {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 8px;
+	margin: 0;
+	padding: 6px 0;
+}
+
+.qwab-mm-current__text {
+	min-width: 0;
+	word-break: break-word;
+}
+
+.qwab-mm-badge {
+	display: inline-block;
+	margin-left: 4px;
+	padding: 1px 6px;
+	border-radius: 9px;
+	background: #f0e6fe;
+	color: #4a3cc0;
+	font-size: 11px;
+	line-height: 1.6;
+	vertical-align: middle;
+}
+
+.qwab-mm-remove {
+	flex-shrink: 0;
+	color: #b32d2e;
+	text-decoration: none;
+}
+
+.qwab-mm-remove:hover {
+	color: #8a2424;
+}
+
+.qwab-mm-field {
+	margin: 0 0 10px;
+}
+
+.qwab-mm-field label {
+	display: block;
+	margin-bottom: 3px;
+	font-weight: 600;
+}
+
+.qwab-mm-field select,
+.qwab-mm-field input[type="text"] {
+	width: 100%;
+	max-width: 100%;
+	box-sizing: border-box;
+}
+
+.qwab-mm-create.is-secondary {
+	margin-top: 12px;
+	padding-top: 6px;
+	border-top: 1px solid #f0f0f1;
+}
+
+.qwab-mm-status {
+	margin: 8px 0 0;
+	min-height: 1em;
+}
+
+.qwab-mm-status.is-ok {
+	color: #0a7c42;
+}
+
+.qwab-mm-status.is-error {
+	color: #b32d2e;
+}
+
+.qwab-mm-hint--warn {
+	padding: 6px 8px;
+	border-left: 3px solid #dba617;
+	background: #fcf9e8;
+}

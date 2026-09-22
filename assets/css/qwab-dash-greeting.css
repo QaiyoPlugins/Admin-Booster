@@ -1,0 +1,37 @@
+/* Személyre szabott üdvözlés a fő Vezérlőpult tetején (Qaiyo design rendszer). */
+.qwab-dash-greeting-wrap {
+	margin: 10px 20px -4px 2px;
+}
+
+.qwab-dash-greeting-wrap .qwab-greeting {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	margin: 0;
+	font-size: 18px;
+	font-weight: 600;
+	color: #1d2327;
+}
+
+.qwab-dash-greeting-wrap .qwab-wave {
+	display: inline-block;
+	font-size: 24px;
+	line-height: 1;
+	transform-origin: 70% 70%;
+	animation: qwab-wave 2.2s ease-in-out 0.4s 3;
+}
+
+@keyframes qwab-wave {
+	0%, 55%, 100% { transform: rotate( 0 ); }
+	60% { transform: rotate( 14deg ); }
+	68% { transform: rotate( -8deg ); }
+	76% { transform: rotate( 14deg ); }
+	84% { transform: rotate( -4deg ); }
+	92% { transform: rotate( 10deg ); }
+}
+
+@media ( prefers-reduced-motion: reduce ) {
+	.qwab-dash-greeting-wrap .qwab-wave {
+		animation: none;
+	}
+}

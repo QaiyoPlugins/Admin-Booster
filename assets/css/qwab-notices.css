@@ -1,0 +1,65 @@
+/**
+ * Qaiyo Admin Booster — Admin notices tray styles.
+ */
+
+.qwab-notice-tray {
+	margin: 10px 20px 0 2px;
+}
+
+.qwab-notice-bar {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+	background: #fff;
+	border: 1px solid #dcdce0;
+	border-radius: 8px;
+	padding: 7px 12px;
+	cursor: pointer;
+	font-size: 13px;
+	font-weight: 600;
+	color: #1d2327;
+	line-height: 1;
+	box-shadow: 0 1px 2px rgba( 0, 0, 0, 0.04 );
+	transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.qwab-notice-bar:hover {
+	border-color: #6c5ce7;
+	box-shadow: 0 2px 8px rgba( 108, 92, 231, 0.15 );
+}
+
+.qwab-notice-bar:focus {
+	outline: 2px solid #6c5ce7;
+	outline-offset: 1px;
+}
+
+.qwab-notice-bell {
+	color: #6c5ce7;
+	font-size: 18px;
+	width: 18px;
+	height: 18px;
+	line-height: 1;
+}
+
+.qwab-notice-caret {
+	font-size: 16px;
+	width: 16px;
+	height: 16px;
+	color: #787c82;
+	transition: transform 0.2s;
+}
+
+.qwab-notice-tray.is-open .qwab-notice-caret {
+	transform: rotate( 180deg );
+}
+
+.qwab-notice-panel {
+	margin-top: 8px;
+}
+
+.qwab-notice-panel > .notice,
+.qwab-notice-panel > .updated,
+.qwab-notice-panel > .error,
+.qwab-notice-panel > .update-nag {
+	margin: 0 0 8px 0;
+}

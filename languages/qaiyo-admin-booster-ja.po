@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Qaiyo Admin Booster\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1-click plugin upload"
+msgstr "ワンクリックのプラグインアップロード"
+
+msgid "Admin Booster"
+msgstr "Admin Booster"
+
+msgid "Allow SVG only for administrators, raise the upload limit for editors, or restrict risky file types per user role — granular control instead of one global rule."
+msgstr "SVG は管理者のみ許可、編集者はアップロード上限を引き上げ、リスクのあるファイル形式は役割ごとに制限 — 1 つの全体ルールではなくきめ細かな制御。"
+
+msgid "Auto-assign pages and posts to collections by URL pattern, page template, parent or regex — new content lands in the right collection automatically, no manual sorting."
+msgstr "URL パターン、ページテンプレート、親、正規表現でページや投稿をコレクションに自動割り当て — 新しいコンテンツが手作業なしで正しいコレクションに入ります。"
+
+msgid "Automatically strip scripts and event handlers from SVG files on upload, so you can enable SVG safely even for non-admin users."
+msgstr "アップロード時に SVG ファイルからスクリプトとイベントハンドラを自動的に除去するので、管理者以外のユーザーにも安全に SVG を許可できます。"
+
+msgid "Built-in collections (Main, Legal, WooCommerce) are detected automatically. Create your own below."
+msgstr "組み込みコレクション（メイン、法的情報、WooCommerce）は自動検出されます。独自のコレクションは下で作成できます。"
+
+msgid "Bulk noindex & menu actions"
+msgstr "一括 noindex ＆メニュー操作"
+
+msgid "Collection name"
+msgstr "コレクション名"
+
+msgid "Collection"
+msgstr "コレクション"
+
+msgid "Collections saved."
+msgstr "コレクションを保存しました。"
+
+msgid "Color"
+msgstr "色"
+
+msgid "Control upload size and which file types are allowed."
+msgstr "アップロードサイズと許可するファイル形式を管理します。"
+
+msgid "Could not save collections. Please try again."
+msgstr "コレクションを保存できませんでした。もう一度お試しください。"
+
+msgid "Disable editor fullscreen mode"
+msgstr "エディタの全画面モードを無効化"
+
+msgid "Fewer clicks to the things you do all day."
+msgstr "毎日行う操作までのクリック数を削減。"
+
+msgid "File handling"
+msgstr "ファイル処理"
+
+msgid "Friendlier upload error messages"
+msgstr "分かりやすいアップロードエラーメッセージ"
+
+msgid "Clean up uploaded filenames"
+msgstr "アップロードしたファイル名を整理"
+
+msgid "Convert spaces, accents and uppercase in uploaded filenames to URL-friendly slugs (e.g. “Árvíz Tükör.JPG” → “arviz-tukor.jpg”)."
+msgstr "アップロードしたファイル名の空白・アクセント・大文字を URL に適したスラッグに変換します（例:「Árvíz Tükör.JPG」→「arviz-tukor.jpg」）。"
+
+msgid "Group pages and posts into visual collections."
+msgstr "ページと投稿を視覚的なコレクションにまとめます。"
+
+msgid "Gutenberg UX fixes"
+msgstr "Gutenberg の UX 改善"
+
+msgid "Homepage"
+msgstr "ホームページ"
+
+msgid "Icon"
+msgstr "アイコン"
+
+msgid "In menu"
+msgstr "メニュー内"
+
+msgid "Insufficient permissions."
+msgstr "権限が不足しています。"
+
+msgid "Keep the block inserter open and the editor out of fullscreen."
+msgstr "ブロック挿入ツールを開いたままにし、エディタを全画面以外に保ちます。"
+
+msgid "Keep the wp-admin sidebar visible while editing."
+msgstr "編集中も wp-admin のサイドバーを表示したままにします。"
+
+msgid "Larger list views"
+msgstr "より大きなリスト表示"
+
+msgid "Legal"
+msgstr "法的情報"
+
+msgid "Modern, well-compressed image format. Safe to enable."
+msgstr "モダンで圧縮率の高い画像形式。安全に有効化できます。"
+
+msgid "Modules"
+msgstr "モジュール"
+
+msgid "Navigation & editor"
+msgstr "ナビゲーション＆エディタ"
+
+msgid "New %s"
+msgstr "新規 %s"
+
+msgid "New Page / Post / Product shortcuts in the admin bar."
+msgstr "管理バーに新規ページ／投稿／商品のショートカット。"
+
+msgid "Next-gen image format (WordPress 6.5+ and supported servers)."
+msgstr "次世代の画像形式（WordPress 6.5 以上と対応サーバー）。"
+
+msgid "Noindex"
+msgstr "Noindex"
+
+msgid "Not in any menu"
+msgstr "どのメニューにもない"
+
+msgid "Not in menu"
+msgstr "メニューにない"
+
+msgid "Open the block inserter by default"
+msgstr "ブロック挿入ツールをデフォルトで開く"
+
+msgid "Open the plugin upload screen straight from “Add Plugin”."
+msgstr "「プラグインを追加」から直接プラグインアップロード画面を開きます。"
+
+msgid "Orphan pages"
+msgstr "孤立ページ"
+
+msgid "Orphan"
+msgstr "孤立"
+
+msgid "Page Collections"
+msgstr "ページコレクション"
+
+msgid "Page Filter"
+msgstr "ページフィルター"
+
+msgid "Page status"
+msgstr "ページの状態"
+
+msgid "Per-role upload rules"
+msgstr "役割別アップロードルール"
+
+msgid "Pin the pages and posts you touch every day to the admin bar and dashboard for one-click access from anywhere in wp-admin."
+msgstr "毎日触れるページや投稿を管理バーとダッシュボードにピン留めし、wp-admin のどこからでもワンクリックでアクセス。"
+
+msgid "Pinned pages & favorites"
+msgstr "ピン留めページ＆お気に入り"
+
+msgid "Qaiyo Plugins"
+msgstr "Qaiyo プラグイン"
+
+msgid "Qaiyo Admin Booster settings"
+msgstr "Qaiyo Admin Booster の設定"
+
+msgid "Qaiyo Admin Booster"
+msgstr "Qaiyo Admin Booster"
+
+msgid "Quick add menu"
+msgstr "クイック追加メニュー"
+
+msgid "Remove this collection? Pages assigned to it will fall back to auto/none."
+msgstr "このコレクションを削除しますか？割り当てられたページは自動／なしに戻ります。"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Replace the cryptic “file type not permitted” message with a clear explanation and the list of allowed types."
+msgstr "分かりにくい「ファイル形式は許可されていません」メッセージを、明確な説明と許可形式の一覧に置き換えます。"
+
+msgid "SVG sanitization on upload"
+msgstr "アップロード時の SVG サニタイズ"
+
+msgid "Save any combination of Page Filter conditions (orphan + noindex + draft, etc.) as a named view and switch between them with one click."
+msgstr "ページフィルター条件の任意の組み合わせ（孤立＋noindex＋下書きなど）を名前付きビューとして保存し、ワンクリックで切り替えます。"
+
+msgid "Saved filter views"
+msgstr "保存したフィルタービュー"
+
+msgid "See homepage, orphan, not-in-menu and noindex at a glance."
+msgstr "ホームページ、孤立、メニュー外、noindex を一目で確認。"
+
+msgid "Select multiple pages from the filtered view and toggle noindex, add them to a menu, or change status in one bulk action."
+msgstr "フィルター済みビューから複数のページを選び、noindex の切り替え、メニューへの追加、状態変更を一括操作で行います。"
+
+msgid "Show a warning here when you allow executable / script extensions."
+msgstr "実行可能／スクリプト拡張子を許可した場合、ここに警告を表示します。"
+
+msgid "Show more items per page in admin list tables."
+msgstr "管理リストテーブルの 1 ページあたりの項目数を増やします。"
+
+msgid "Show plugin upload immediately"
+msgstr "プラグインアップロードをすぐに表示"
+
+msgid "Core update bridge"
+msgstr "コア更新ブリッジ"
+
+msgid "Step up to an intermediate WordPress version your server can still run."
+msgstr "サーバーがまだ動作させられる中間の WordPress バージョンへ移行します。"
+
+msgid "Stuck on an old WordPress because the newest release needs a newer PHP? Pick an intermediate version your server can actually run and step up to it — straight from wp-admin, no FTP or cPanel needed."
+msgstr "最新リリースが新しい PHP を必要とするために古い WordPress のままですか？ サーバーが実際に動作させられる中間バージョンを選んで更新できます。管理画面から直接、FTP や cPanel は不要です。"
+
+msgid "Smart collection rules"
+msgstr "スマートコレクションルール"
+
+msgid "The file type \".%1$s\" is not allowed on this site. Allowed types: %2$s. You can enable more types under Qaiyo Admin Booster → File handling."
+msgstr "「.%1$s」ファイル形式はこのサイトでは許可されていません。許可されている形式：%2$s。Qaiyo Admin Booster → ファイル処理 でさらに許可できます。"
+
+msgid "The left “+” block panel is open when the editor loads."
+msgstr "エディタの読み込み時に左側の「＋」ブロックパネルが開きます。"
+
+msgid "Turn each booster on or off. Everything is on by default."
+msgstr "各ブースターのオン／オフを切り替えます。デフォルトはすべてオンです。"
+
+msgid "Upload size, allowed file types and clearer errors."
+msgstr "アップロードサイズ、許可ファイル形式、分かりやすいエラー。"
+
+msgid "Vector graphics. SVG can contain scripts — only enable if you trust who uploads. Pro adds automatic SVG sanitization."
+msgstr "ベクター画像。SVG はスクリプトを含むことがあります — アップロードする人を信頼できる場合のみ有効化してください。Pro は自動 SVG サニタイズを追加します。"
+
+msgid "Warn about dangerous file types"
+msgstr "危険なファイル形式について警告"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "noindex"
+msgstr "noindex"
+
+msgid "“Add Plugin” opens the upload tab directly — the browse tabs stay available on top."
+msgstr "「プラグインを追加」がアップロードタブを直接開きます — 閲覧タブは上部に残ります。"
+
+msgid "Auto-detected"
+msgstr "自動検出"
+
+msgid "Qaiyo Admin Booster — Quick Add"
+msgstr "Qaiyo Admin Booster — クイック追加"
+
+msgid "Auto-detected as: %s. Pick a collection above to override."
+msgstr "自動検出：%s。上書きするには上でコレクションを選択してください。"
+
+msgid "Qaiyo %1$s v%2$s — Made by Qaiyo by PixelDesigns"
+msgstr "Qaiyo %1$s v%2$s — Qaiyo by PixelDesigns 製"
+
+msgid "Quick Add"
+msgstr "クイック追加"
+
+msgid "Settings"
+msgstr "設定"
+
+msgid "Unlock in Pro →"
+msgstr "Pro でアンロック →"
+
+msgid "Warning: you are allowing executable / script file types (%s). These can be used to run code on your server. Only keep them if you really need them."
+msgstr "警告：実行可能／スクリプトファイル形式（%s）を許可しています。これらはサーバー上でコードを実行するために使われる可能性があります。本当に必要な場合のみ残してください。"
+
+msgid "auto"
+msgstr "自動"
+
+msgid "unknown"
+msgstr "不明"
+
+msgid "Add collection"
+msgstr "コレクションを追加"
+
+msgid "All collections"
+msgstr "すべてのコレクション"
+
+msgid "Any page status"
+msgstr "すべてのページ状態"
+
+msgid "Apply collections to"
+msgstr "コレクションの適用先"
+
+msgid "Collection & status columns appear on the Pages and Posts list screens."
+msgstr "コレクションと状態の列がページ・投稿の一覧画面に表示されます。"
+
+msgid "Custom file types"
+msgstr "カスタムファイル形式"
+
+msgid "Default rows in admin list tables (only when you have not set your own Screen Option)."
+msgstr "管理リストテーブルの既定行数（独自の表示オプションを設定していない場合のみ）。"
+
+msgid "Enable extra image types"
+msgstr "追加の画像形式を有効化"
+
+msgid "Filter by collection"
+msgstr "コレクションで絞り込み"
+
+msgid "Filter by page status"
+msgstr "ページ状態で絞り込み"
+
+msgid "Fixes the annoying wp-admin UX/UI rough edges that cost you time every day."
+msgstr "毎日時間を奪う wp-admin の煩わしい UX/UI の粗を修正します。"
+
+msgid "Get Pro"
+msgstr "Pro を入手"
+
+msgid "Items per list page"
+msgstr "リストページあたりの項目数"
+
+msgid "Max upload size (MB)"
+msgstr "最大アップロードサイズ（MB）"
+
+msgid "One per line, format: extension = mime/type. Example: ico = image/x-icon"
+msgstr "1 行に 1 つ、形式：拡張子 = mime/type。例：ico = image/x-icon"
+
+msgid "Power-user upgrades available in the Pro add-on."
+msgstr "Pro アドオンで利用できるパワーユーザー向けアップグレード。"
+
+msgid "Pro features"
+msgstr "Pro 機能"
+
+msgid "Qaiyo Admin Booster Pro"
+msgstr "Qaiyo Admin Booster Pro"
+
+msgid "Quick add shortcuts"
+msgstr "クイック追加ショートカット"
+
+msgid "Save collections"
+msgstr "コレクションを保存"
+
+msgid "Save settings"
+msgstr "設定を保存"
+
+msgid "The “Quick Add” menu lives in the top admin bar."
+msgstr "「クイック追加」メニューは上部の管理バーにあります。"
+
+msgid "These are saved separately and immediately — they do not require the main “Save settings” button."
+msgstr "これらは個別にすぐ保存されます — メインの「設定を保存」ボタンは不要です。"
+
+msgid "Uncategorized"
+msgstr "未分類"
+
+msgid "Use the dropdowns above the list to filter by collection or page status."
+msgstr "リスト上のドロップダウンでコレクションやページ状態によって絞り込めます。"
+
+msgid "Where to find it"
+msgstr "どこにあるか"
+
+msgid "Which content types appear in the admin bar “Quick Add” menu."
+msgstr "管理バーの「クイック追加」メニューに表示するコンテンツタイプ。"
+
+msgid "Your collections"
+msgstr "あなたのコレクション"
+
+msgid "— Auto / none —"
+msgstr "— 自動 / なし —"
+
+msgid "%d notices"
+msgstr "%d 件の通知"
+
+msgid "1 notice"
+msgstr "1 件の通知"
+
+msgid "Admin notices"
+msgstr "管理画面の通知"
+
+msgid "WordPress Events and News"
+msgstr "WordPress イベントとニュース"
+
+msgid "Quick Draft"
+msgstr "クイック下書き"
+
+msgid "Activity"
+msgstr "アクティビティ"
+
+msgid "At a Glance"
+msgstr "概要"
+
+msgid "Site Health Status"
+msgstr "サイトヘルスステータス"
+
+msgid "Welcome panel"
+msgstr "ようこそパネル"
+
+msgid "Duplicate"
+msgstr "複製"
+
+msgid "No item to duplicate."
+msgstr "複製する項目がありません。"
+
+msgid "You are not allowed to duplicate this item."
+msgstr "この項目を複製する権限がありません。"
+
+msgid "Could not duplicate this item."
+msgstr "この項目を複製できませんでした。"
+
+msgid "Publishing in %s"
+msgstr "%s 後に公開"
+
+msgid "Last edited"
+msgstr "最終編集"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "%s ago"
+msgstr "%s 前"
+
+msgid "Switch to draft"
+msgstr "下書きに戻す"
+
+msgid "Publish now"
+msgstr "今すぐ公開"
+
+msgid "Invalid request."
+msgstr "無効なリクエストです。"
+
+msgid "You are not allowed to edit this item."
+msgstr "この項目を編集する権限がありません。"
+
+msgid "You are not allowed to publish this item."
+msgstr "この項目を公開する権限がありません。"
+
+msgid "Tidy admin notices"
+msgstr "管理通知を整理"
+
+msgid "Collapse stacked admin notices into a small counter tray."
+msgstr "積み重なった管理通知を小さなカウンタートレイにまとめます。"
+
+msgid "Dashboard cleanup"
+msgstr "ダッシュボードの整理"
+
+msgid "Hide the dashboard widgets you never use."
+msgstr "使わないダッシュボードウィジェットを非表示にします。"
+
+msgid "Duplicate content"
+msgstr "コンテンツの複製"
+
+msgid "One-click “Duplicate” as a draft from the list view."
+msgstr "一覧表示からワンクリックで下書きとして「複製」。"
+
+msgid "Scheduled countdown"
+msgstr "予約投稿のカウントダウン"
+
+msgid "Show “Publishing in 3 days” on scheduled posts."
+msgstr "予約投稿に「3 日後に公開」と表示します。"
+
+msgid "Sticky table headers"
+msgstr "固定テーブルヘッダー"
+
+msgid "Keep list-table column headers visible while scrolling."
+msgstr "スクロール中もリストテーブルの列ヘッダーを表示したままにします。"
+
+msgid "Last edited column"
+msgstr "最終編集の列"
+
+msgid "Who last edited each item and how long ago."
+msgstr "各項目を最後に編集した人と、その経過時間。"
+
+msgid "Quick status switch"
+msgstr "ステータスのクイック切り替え"
+
+msgid "Publish or unpublish from the list without opening the editor."
+msgstr "エディタを開かずに、一覧から公開または非公開にします。"
+
+msgid "Hide the default dashboard widgets you do not use. Requires the “Dashboard cleanup” module."
+msgstr "使わない既定のダッシュボードウィジェットを非表示にします。「ダッシュボードの整理」モジュールが必要です。"
+
+msgid "Hide these widgets"
+msgstr "これらのウィジェットを非表示"
+
+msgid "Enable all"
+msgstr "すべて有効化"
+
+msgid "Disable all"
+msgstr "すべて無効化"
+
+msgid "Go Pro"
+msgstr "Pro にする"
+
+msgid "%d power-user upgrades — see them below."
+msgstr "%d 個のパワーユーザー向けアップグレード — 下をご覧ください。"
+
+msgid "Admin menu editor"
+msgstr "管理メニューエディタ"
+
+msgid "Rename, reorder and hide wp-admin menu items per user role — give editors and clients a clean, focused admin without touching code."
+msgstr "wp-admin のメニュー項目を役割ごとに名称変更・並べ替え・非表示 — コードに触れずに編集者やクライアントにすっきり集中した管理画面を。"
+
+msgid "Inline list-table editing"
+msgstr "インラインのリストテーブル編集"
+
+msgid "Edit titles, statuses, collections and custom fields straight in the list table — spreadsheet-style, without opening each item."
+msgstr "タイトル、ステータス、コレクション、カスタムフィールドをリストテーブルで直接編集 — 表計算のように、各項目を開かずに。"
+
+msgid "Login screen customizer"
+msgstr "ログイン画面カスタマイザー"
+
+msgid "Replace the WordPress logo, background and colors on the login screen with your own brand, plus custom CSS — no extra plugin needed."
+msgstr "ログイン画面の WordPress ロゴ・背景・色を自分のブランドに置き換え、さらにカスタム CSS も — 追加プラグインは不要。"
+
+msgid "Activity log"
+msgstr "アクティビティログ"
+
+msgid "A clear audit trail of who changed what and when — posts, settings, users and uploads — so nothing happens on your site unnoticed."
+msgstr "誰が・いつ・何を変更したかの明確な監査証跡 — 投稿、設定、ユーザー、アップロード — サイト上で気づかぬうちに何も起こりません。"
+
+msgid "Admin dark mode"
+msgstr "管理画面のダークモード"
+
+msgid "A polished dark theme for the whole wp-admin, with a one-click toggle in the admin bar and a per-user preference."
+msgstr "wp-admin 全体の洗練されたダークテーマ。管理バーのワンクリック切り替えとユーザーごとの設定付き。"
+
+msgid "Revision cleaner"
+msgstr "リビジョンクリーナー"
+
+msgid "Limit how many revisions each post keeps and bulk-delete old ones to shrink a bloated database and speed up your admin."
+msgstr "各投稿が保持するリビジョン数を制限し、古いものを一括削除して肥大化したデータベースを縮小、管理画面を高速化します。"
+
+msgid "Explore Qaiyo Plugins"
+msgstr "Qaiyo プラグインを見る"
+
+msgid "Explore Qaiyo"
+msgstr "Qaiyo を見る"
+
+msgid "Plugins"
+msgstr "プラグイン"
+
+msgid "The complete Qaiyo plugin family — all built to the same quality standard."
+msgstr "Qaiyo プラグインファミリー全体 — すべて同じ品質基準で作られています。"
+
+msgid "Refresh list"
+msgstr "リストを更新"
+
+msgid "Data from"
+msgstr "データ元："
+
+msgid "Active"
+msgstr "有効"
+
+msgid "Installed"
+msgstr "インストール済み"
+
+msgid "Free Download"
+msgstr "無料ダウンロード"
+
+msgid "Go Pro →"
+msgstr "Proへ →"
+
+msgid "All Qaiyo plugins are built by"
+msgstr "すべての Qaiyo プラグインの作者："
+
+msgid "Need help? Contact us at"
+msgstr "サポートが必要ですか？こちらまで："
+
+msgid "version %1$s is available (you have %2$s)."
+msgstr "バージョン %1$s が利用可能です（現在: %2$s）。"
+
+msgid "View release →"
+msgstr "リリースを見る →"
+
+msgid "An error occurred."
+msgstr "エラーが発生しました。"
+
+msgid "Bulk Create"
+msgstr "一括作成"
+
+msgid "Bulk create"
+msgstr "一括作成"
+
+msgid "Create many pages or posts at once from a list of titles."
+msgstr "タイトルの一覧から多数のページや投稿を一度に作成します。"
+
+msgid "Create many pages or posts at once — one title per line. Indent with a Tab (or 2 spaces) to nest child pages."
+msgstr "多数のページや投稿を一度に作成 — 1 行に 1 タイトル。Tab（または半角スペース 2 つ）でインデントすると子ページにネストします。"
+
+msgid "You do not have permission to create any content types."
+msgstr "コンテンツタイプを作成する権限がありません。"
+
+msgid "What to create"
+msgstr "作成する内容"
+
+msgid "Content type"
+msgstr "コンテンツタイプ"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Draft"
+msgstr "下書き"
+
+msgid "Published"
+msgstr "公開済み"
+
+msgid "Pending review"
+msgstr "レビュー待ち"
+
+msgid "Private"
+msgstr "非公開"
+
+msgid "Parent page"
+msgstr "親ページ"
+
+msgid "Top-level parent for the whole batch. Only applies to hierarchical types (e.g. Pages)."
+msgstr "バッチ全体の最上位の親。階層型タイプ（例：ページ）にのみ適用されます。"
+
+msgid "— None (top level) —"
+msgstr "— なし（最上位）—"
+
+msgid "Titles — one per line"
+msgstr "タイトル — 1 行に 1 つ"
+
+msgid "Up to %d items per batch. Indent a line with a Tab (or 2 spaces) to make it a child of the line above."
+msgstr "1 バッチあたり最大 %d 件。Tab（または半角スペース 2 つ）で行をインデントすると、上の行の子になります。"
+
+msgid "Create items"
+msgstr "項目を作成"
+
+msgid "%d non-empty line(s) ready to create."
+msgstr "空でない %d 行を作成する準備ができました。"
+
+msgid "You are not allowed to create that content type."
+msgstr "そのコンテンツタイプを作成する権限がありません。"
+
+msgid "Unknown or unsupported content type."
+msgstr "不明またはサポートされていないコンテンツタイプです。"
+
+msgid "%d item(s) created."
+msgstr "%d 件の項目を作成しました。"
+
+msgid "%d item(s) could not be created."
+msgstr "%d 件の項目を作成できませんでした。"
+
+msgid "View the list →"
+msgstr "リストを見る →"
+
+msgid "No items were created. Add at least one non-empty title."
+msgstr "項目は作成されませんでした。空でないタイトルを少なくとも 1 つ追加してください。"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Update center widget"
+msgstr "更新センターウィジェット"
+
+msgid "A dashboard widget to update plugins and themes in one place."
+msgstr "プラグインとテーマを一か所で更新できるダッシュボードウィジェット。"
+
+msgid "Update all (%d)"
+msgstr "すべて更新 (%d)"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Updating…"
+msgstr "更新中…"
+
+msgid "Updated"
+msgstr "更新しました"
+
+msgid "Update failed"
+msgstr "更新に失敗しました"
+
+msgid "Check again"
+msgstr "再確認"
+
+msgid "Checking…"
+msgstr "確認中…"
+
+msgid "Everything is up to date"
+msgstr "すべて最新です"
+
+msgid "Theme"
+msgstr "テーマ"
+
+msgid "Details"
+msgstr "詳細"
+
+msgid "Changelog for %s"
+msgstr "%s の変更履歴"
+
+msgid "You are not allowed to update plugins."
+msgstr "プラグインを更新する権限がありません。"
+
+msgid "You are not allowed to update themes."
+msgstr "テーマを更新する権限がありません。"
+
+msgid "You are not allowed to check for updates."
+msgstr "更新を確認する権限がありません。"
+
+msgid "No update is available for this plugin."
+msgstr "このプラグインに利用可能な更新はありません。"
+
+msgid "No update is available for this theme."
+msgstr "このテーマに利用可能な更新はありません。"
+
+msgid "Could not access the filesystem. Your host may require FTP/SSH credentials to install updates."
+msgstr "ファイルシステムにアクセスできませんでした。更新のインストールにホストが FTP/SSH 認証情報を必要とする場合があります。"
+
+msgid "Update failed."
+msgstr "更新に失敗しました。"
+
+msgid "Comments"
+msgstr "コメント"
+
+msgid "Comments widget"
+msgstr "コメントウィジェット"
+
+msgid "A dashboard widget with comment counts and one-click / bulk trashing."
+msgstr "コメント数を表示し、ワンクリック／一括でゴミ箱へ移動できるダッシュボードウィジェット。"
+
+msgid "Dashboard greeting"
+msgstr "ダッシュボードの挨拶"
+
+msgid "Show a personal greeting at the top of the main WordPress dashboard."
+msgstr "メインの WordPress ダッシュボード上部に個人的な挨拶を表示します。"
+
+msgid "Approved"
+msgstr "承認済み"
+
+msgid "Spam"
+msgstr "スパム"
+
+msgid "Trash"
+msgstr "ゴミ箱"
+
+msgid "Select all"
+msgstr "すべて選択"
+
+msgid "Move to Trash"
+msgstr "ゴミ箱へ移動"
+
+msgid "Manage all comments →"
+msgstr "すべてのコメントを管理 →"
+
+msgid "Anonymous"
+msgstr "匿名"
+
+msgid "on"
+msgstr "対象:"
+
+msgid "No comments to show."
+msgstr "表示するコメントはありません。"
+
+msgid "You are not allowed to moderate comments."
+msgstr "コメントを管理する権限がありません。"
+
+msgid "Nothing selected."
+msgstr "何も選択されていません。"
+
+msgid "Working…"
+msgstr "処理中…"
+
+msgid "Something went wrong."
+msgstr "問題が発生しました。"
+
+msgid "Move the selected comments to the Trash?"
+msgstr "選択したコメントをゴミ箱へ移動しますか？"
+
+msgid "Hi, %s!"
+msgstr "こんにちは、%sさん！"
+
+msgid "A per-user dark theme for wp-admin, toggled from the admin bar."
+msgstr "ユーザーごとの wp-admin ダークテーマ。管理バーから切り替えられます。"
+
+msgid "SVG sanitization"
+msgstr "SVG サニタイズ"
+
+msgid "Automatically strip scripts from uploaded SVG files."
+msgstr "アップロードされた SVG ファイルからスクリプトを自動的に除去します。"
+
+msgid "Bulk noindex actions"
+msgstr "一括 noindex 操作"
+
+msgid "Set or remove noindex on many pages or posts at once."
+msgstr "多数のページや投稿に対して noindex を一括で設定・解除します。"
+
+msgid "Pin pages to a quick admin-bar menu and a dashboard widget."
+msgstr "ページを管理バーのクイックメニューとダッシュボードウィジェットにピン留めします。"
+
+msgid "This theme uses navigation blocks instead of classic menus, so a menu created here will not appear on the site by itself. You can still insert it with a Navigation block."
+msgstr "このテーマはクラシックメニューではなくナビゲーションブロックを使用するため、ここで作成したメニューはそれだけではサイトに表示されません。ナビゲーションブロックで挿入できます。"
+
+msgid "Shows how many reviews are waiting for approval, with a link to moderation."
+msgstr "承認待ちのレビュー数を表示し、モデレーション画面へのリンクを付けます。"
+
+msgid "Shows today’s bookings and when the next appointment starts."
+msgstr "本日の予約数と次の予約の開始時刻を表示します。"
+
+msgid "Shows the latest measured performance score for this site."
+msgstr "このサイトの直近のパフォーマンススコアを表示します。"
+
+msgid "Shows how many galleries and images you have."
+msgstr "ギャラリー数と画像数を表示します。"
+
+msgid "Shows how many videos are embedded across your content."
+msgstr "コンテンツ全体に埋め込まれた動画の数を表示します。"
+
+msgid "Shows which roles currently have restricted access."
+msgstr "現在アクセスが制限されている権限グループを表示します。"
+
+msgid "Shows how many marquee sliders are running on the site."
+msgstr "サイトで動作しているマーキースライダーの数を表示します。"
+
+msgid "Fixes the everyday wp-admin rough edges."
+msgstr "wp-admin の日常的な使いにくさを解消します。"
+
+msgid "Qaiyo plugins can show a summary card here. Cards from plugins you already run show live data; the rest show what they would add."
+msgstr "Qaiyo プラグインはここに概要カードを表示できます。すでに使用中のプラグインのカードは実データを表示し、その他は追加される内容を示します。"
+
+msgid "More detail in %s Pro"
+msgstr "詳細は %s Pro で"
+
+msgid "This plugin is active but did not report a summary card. Updating it to the latest version enables one."
+msgstr "このプラグインは有効ですが概要カードを報告していません。最新バージョンに更新すると表示されます。"
+
+msgid "Qaiyo ecosystem"
+msgstr "Qaiyo エコシステム"
+
+msgid "Open"
+msgstr "開く"
+
+msgid "This card could not be displayed."
+msgstr "このカードを表示できませんでした。"
+
+msgid "Qaiyo ecosystem widget"
+msgstr "Qaiyo エコシステムウィジェット"
+
+msgid "Collect summary cards from your other Qaiyo plugins into one dashboard widget."
+msgstr "他の Qaiyo プラグインの概要カードを 1 つのダッシュボードウィジェットにまとめます。"
+
+msgid "Sending…"
+msgstr "送信中…"
+
+msgid "Could not send the test email. Please try again."
+msgstr "テストメールを送信できませんでした。もう一度お試しください。"
+
+msgid "Update notifications are working on %s"
+msgstr "更新通知は正常に動作しています: %s"
+
+msgid "Update notifications"
+msgstr "更新通知"
+
+msgid "Update notification emails"
+msgstr "更新通知メール"
+
+msgid "Email every administrator a daily or weekly digest of the plugin, theme and WordPress updates that are waiting."
+msgstr "待機中のプラグイン・テーマ・WordPress の更新を、日次または週次のまとめとして全管理者にメールで送ります。"
+
+msgid "Get an email when a plugin, theme or WordPress update becomes available. Requires the “Update notification emails” module."
+msgstr "プラグイン・テーマ・WordPress の更新が利用可能になるとメールが届きます。「更新通知メール」モジュールが必要です。"
+
+msgid "WordPress core"
+msgstr "WordPress 本体"
+
+msgid "Themes"
+msgstr "テーマ"
+
+msgid "How often"
+msgstr "頻度"
+
+msgid "One summary email per period — never one email per update check. Nothing is sent when there is nothing new."
+msgstr "期間ごとにまとめメール 1 通のみで、更新チェックごとには送信しません。新しいものがなければ何も送りません。"
+
+msgid "Notify me about"
+msgstr "通知する対象"
+
+msgid "Recipients"
+msgstr "宛先"
+
+msgid "Every administrator of this site: %s"
+msgstr "このサイトのすべての管理者: %s"
+
+msgid "Next summary is due in %s."
+msgstr "次のまとめは %s 後に送信されます。"
+
+msgid "Is mail working?"
+msgstr "メールは届きますか？"
+
+msgid "WordPress hands the email to your server or SMTP plugin; it cannot guarantee delivery. Send yourself a test to make sure mail actually leaves this site."
+msgstr "WordPress はメールをサーバーまたは SMTP プラグインに引き渡すだけで、配信は保証できません。実際にメールが送信されるか、自分宛にテストを送って確認してください。"
+
+msgid "Send test email"
+msgstr "テストメールを送信"
+
+msgid "The last summary could not be handed over for %1$d of %2$d recipients (%3$s ago). Check your hosting mail settings or install an SMTP plugin."
+msgstr "直近のまとめメールは %2$d 件のうち %1$d 件の宛先へ引き渡せませんでした（%3$s前）。ホスティングのメール設定を確認するか、SMTP プラグインを導入してください。"
+
+msgid "Targeted update alerts"
+msgstr "対象を絞った更新アラート"
+
+msgid "Pick exactly which plugins and themes you want to hear about, get security releases flagged in the email, and see a slice of the changelog next to each item."
+msgstr "通知を受け取るプラグインとテーマを個別に選び、セキュリティリリースはメール内で強調表示し、各項目の横に変更履歴の抜粋を表示します。"
+
+msgid "Instant & Slack update alerts"
+msgstr "即時通知と Slack 更新アラート"
+
+msgid "Send update alerts the moment they appear instead of waiting for the daily digest, push them to a Slack or Discord webhook, and set your own sender name and address."
+msgstr "更新アラートを日次まとめを待たずに即座に送信し、Slack や Discord の Webhook にも配信、送信者名とアドレスも自由に設定できます。"
+
+msgid "Pending"
+msgstr "保留中"
+
+msgid "Once a day"
+msgstr "1 日 1 回"
+
+msgid "Once a week"
+msgstr "週 1 回"
+
+msgid "Update available: %1$s %2$s on %3$s"
+msgstr "更新があります: %1$s %2$s（%3$s）"
+
+msgid "%1$d updates available on %2$s"
+msgstr "%1$d 件の更新があります: %2$s"
+
+msgid "The following updates are available on %s:"
+msgstr "%s で次の更新が利用可能です:"
+
+msgid "Security release"
+msgstr "セキュリティリリース"
+
+msgid "Review and install updates"
+msgstr "更新を確認してインストール"
+
+msgid "You are receiving this because you are an administrator of this site. You can change or switch off these notifications under Admin Booster → Update notifications."
+msgstr "あなたがこのサイトの管理者であるためこのメールが届いています。通知は Admin Booster → 更新通知 で変更・停止できます。"
+
+msgid "You are not allowed to send test emails."
+msgstr "テストメールを送信する権限がありません。"
+
+msgid "Your user account has no valid email address."
+msgstr "あなたのユーザーアカウントに有効なメールアドレスがありません。"
+
+msgid "This is a test email from Qaiyo Admin Booster. Update notifications are set up correctly — there are no pending updates right now."
+msgstr "これは Qaiyo Admin Booster からのテストメールです。更新通知は正しく設定されています — 現在、待機中の更新はありません。"
+
+msgid "WordPress could not hand the email over to your mail system. Check your hosting mail settings, or install an SMTP plugin."
+msgstr "WordPress はメールをメールシステムに引き渡せませんでした。ホスティングのメール設定を確認するか、SMTP プラグインを導入してください。"
+
+msgid "Test email sent to %s. If it does not arrive, check your spam folder — mail handed over successfully can still be filtered."
+msgstr "%s にテストメールを送信しました。届かない場合は迷惑メールフォルダーを確認してください — 正常に引き渡されたメールもフィルターされることがあります。"
+
+msgid "Separate table for pending updates"
+msgstr "更新待ちのプラグインを別テーブルに"
+
+msgid "On the Plugins screen, list plugins with an available update in their own table at the top, and every other plugin in a separate table below it."
+msgstr "プラグイン画面で、更新があるプラグインを上部の専用テーブルに、それ以外のプラグインをその下の別テーブルに表示します。"
+
+msgid "All plugins"
+msgstr "すべてのプラグイン"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Update level"
+msgstr "階層を更新"
+
+msgid "This content is already at that place in the menu."
+msgstr "このコンテンツはすでにメニューのその位置にあります。"
+
+msgid "Moved under the chosen menu item."
+msgstr "選択したメニュー項目の下に移動しました。"
+
+msgid "Moved to the top level of the menu."
+msgstr "メニューの最上位に移動しました。"
+
+msgid "Menus"
+msgstr "メニュー"
+
+msgid "Save this content first, then you can add it to a menu."
+msgstr "まずこのコンテンツを保存すると、メニューに追加できます。"
+
+msgid "submenu"
+msgstr "サブメニュー"
+
+msgid "Add to menu"
+msgstr "メニューに追加"
+
+msgid "Level"
+msgstr "階層"
+
+msgid "— Top level —"
+msgstr "— 最上位 —"
+
+msgid "This site has no navigation menus yet. Create the first one right here."
+msgstr "このサイトにはまだナビゲーションメニューがありません。ここで最初のメニューを作成できます。"
+
+msgid "+ Create a new menu"
+msgstr "+ 新しいメニューを作成"
+
+msgid "Menu name"
+msgstr "メニュー名"
+
+msgid "Main menu"
+msgstr "メインメニュー"
+
+msgid "Display location"
+msgstr "表示位置"
+
+msgid "— Do not assign —"
+msgstr "— 割り当てない —"
+
+msgid "Create menu and add"
+msgstr "メニューを作成して追加"
+
+msgid "You are not allowed to edit menus on this site."
+msgstr "このサイトでメニューを編集する権限がありません。"
+
+msgid "This content type cannot be added to a menu."
+msgstr "このコンテンツタイプはメニューに追加できません。"
+
+msgid "Unknown action."
+msgstr "不明な操作です。"
+
+msgid "Please enter a name for the menu."
+msgstr "メニュー名を入力してください。"
+
+msgid "Menu created and this content added to it."
+msgstr "メニューを作成し、このコンテンツを追加しました。"
+
+msgid "Please choose a menu."
+msgstr "メニューを選択してください。"
+
+msgid "The chosen parent item is not available in that menu."
+msgstr "選択した親項目はそのメニューにありません。"
+
+msgid "Added to the menu as a submenu item."
+msgstr "サブメニュー項目としてメニューに追加しました。"
+
+msgid "Added to the menu."
+msgstr "メニューに追加しました。"
+
+msgid "That menu item no longer exists."
+msgstr "そのメニュー項目はもう存在しません。"
+
+msgid "Removed from the menu."
+msgstr "メニューから削除しました。"
+
+msgid "This content is already in that menu."
+msgstr "このコンテンツはすでにそのメニューにあります。"
+
+msgid "Something went wrong. Please try again."
+msgstr "問題が発生しました。もう一度お試しください。"
+
+msgid "Remove this item from the menu?"
+msgstr "この項目をメニューから削除しますか？"
+
+msgid "Add to menu from the editor"
+msgstr "エディターからメニューに追加"
+
+msgid "Put a page or post into a navigation menu straight from the editor sidebar."
+msgstr "エディターのサイドバーから直接、固定ページや投稿をナビゲーションメニューに追加できます。"
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the server limit cannot be changed from here."
+msgstr "このサイトではファイルの変更が無効化されている（DISALLOW_FILE_MODS）ため、ここからサーバーの上限は変更できません。"
+
+msgid "This server has per-directory PHP settings (.user.ini) switched off, so the limit can only be raised by your host."
+msgstr "このサーバーではディレクトリ単位の PHP 設定（.user.ini）が無効なため、上限の引き上げはホスティング会社にしかできません。"
+
+msgid "This server runs PHP as “%s”, which does not read per-directory settings, so the limit can only be raised by your host."
+msgstr "このサーバーは PHP を「%s」として実行しており、ディレクトリ単位の設定を読み込まないため、上限の引き上げはホスティング会社にしかできません。"
+
+msgid "Admin Booster cannot write %s on this server, so the upload limit was not raised."
+msgstr "Admin Booster はこのサーバーで %s に書き込めないため、アップロード上限は引き上げられませんでした。"
+
+msgid "Could not remove the upload limit from the server file."
+msgstr "サーバーファイルからアップロード上限を削除できませんでした。"
+
+msgid "0 = use the server limit. The server currently accepts files up to %s."
+msgstr "0 = サーバーの上限を使用。サーバーは現在 %s までのファイルを受け付けます。"
+
+msgid "Raise the server limit too"
+msgstr "サーバーの上限も引き上げる"
+
+msgid "Server limit raised: uploads up to %s are accepted now."
+msgstr "サーバー上限を引き上げました。現在 %s までのアップロードを受け付けます。"
+
+msgid "The %1$s limit has been written. PHP picks it up within %2$s — reload this page to check."
+msgstr "%1$s の上限を書き込みました。PHP は %2$s 以内に反映します — ページを再読み込みして確認してください。"
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. Switch on “Raise the server limit too” and save."
+msgstr "%1$s に設定されていますが、サーバーは %2$s までしか受け付けないため %2$s が適用されます。「サーバーの上限も引き上げる」をオンにして保存してください。"
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. %3$s"
+msgstr "%1$s に設定されていますが、サーバーは %2$s までしか受け付けないため %2$s が適用されます。%3$s"
+
+msgid "Only a network administrator can change the server limit."
+msgstr "サーバーの上限を変更できるのはネットワーク管理者だけです。"
+
+msgid "Your host has locked the upload limit for this site (php_admin_value), so no file inside WordPress can change it — only the host can raise it."
+msgstr "ホスティング会社がこのサイトのアップロード上限をロックしています（php_admin_value）。WordPress フォルダー内のファイルでは変更できず、引き上げられるのはホスティング会社だけです。"
+
+msgid "No cPanel or FTP needed. PHP cannot change this limit while WordPress is running (not even from wp-config.php), so Admin Booster writes it into %s, which your server reads before each request. It can take a few minutes to apply. Switching this off removes the lines again."
+msgstr "cPanel や FTP は不要です。WordPress の実行中に PHP はこの上限を変更できません（wp-config.php からも不可）。そのため Admin Booster は、サーバーが各リクエストの前に読み込む %s に書き込みます。反映まで数分かかることがあります。オフにすると行は削除されます。"
+
+msgid "The %1$s limit was written, but the server still applies only %2$s. This host does not read these settings from the WordPress folder. The details below show exactly how PHP runs here — if you contact your host, send them this list."
+msgstr "%1$s の上限を書き込みましたが、サーバーは引き続き %2$s しか適用していません。このホスティングは WordPress フォルダーからこれらの設定を読み込みません。下の詳細にこのサーバーでの PHP の動作が正確に表示されます — ホスティング会社に問い合わせる際はこの一覧を送ってください。"
+
+msgid "Server details"
+msgstr "サーバーの詳細"
+
+msgid "Safe Mode"
+msgstr "セーフモード"
+
+msgid "Safe Mode link"
+msgstr "セーフモードのリンク"
+
+msgid "A secret link, saved in advance, that gets you back into wp-admin when a plugin or theme update breaks the site."
+msgstr "プラグインやテーマの更新でサイトが壊れたときに wp-admin へ戻るための、事前に保存しておく秘密のリンクです。"
+
+msgid "Safe Mode — emergency access"
+msgstr "セーフモード — 緊急アクセス"
+
+msgid "When a plugin or theme update breaks the site, WordPress only emails a one-time recovery link — once a day, and never on multisite. If that email is lost, you are locked out. Safe Mode gives you a link you save now, before anything goes wrong."
+msgstr "プラグインやテーマの更新でサイトが壊れると、WordPress は 1 回限りの復旧リンクをメールで送るだけです — 1 日 1 回、マルチサイトでは送信されません。そのメールを見失うと締め出されます。セーフモードなら、問題が起きる前に今保存しておけるリンクが手に入ります。"
+
+msgid "Only a network administrator can manage Safe Mode."
+msgstr "セーフモードを管理できるのはネットワーク管理者だけです。"
+
+msgid "Safe Mode is off. Turn on “Safe Mode link” on the Modules tab and save to get your link."
+msgstr "セーフモードはオフです。「モジュール」タブで「セーフモードのリンク」をオンにして保存すると、リンクが表示されます。"
+
+msgid "The Safe Mode file could not be installed."
+msgstr "セーフモードのファイルをインストールできませんでした。"
+
+msgid "Copied"
+msgstr "コピーしました"
+
+msgid "Copy"
+msgstr "コピー"
+
+msgid "When the site is broken"
+msgstr "サイトが壊れたとき"
+
+msgid "Go to Plugins and deactivate the plugin that was just updated (or switch themes under Appearance)."
+msgstr "「プラグイン」を開き、更新したばかりのプラグインを無効化します（または「外観」でテーマを切り替えます）。"
+
+msgid "Create a new link"
+msgstr "新しいリンクを作成"
+
+msgid "When"
+msgstr "日時"
+
+msgid "IP address"
+msgstr "IP アドレス"
+
+msgid "Browser"
+msgstr "ブラウザー"
+
+msgid "Could not remove the Safe Mode file from the mu-plugins folder."
+msgstr "mu-plugins フォルダーからセーフモードのファイルを削除できませんでした。"
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the Safe Mode file cannot be installed."
+msgstr "このサイトではファイルの変更が無効化されている（DISALLOW_FILE_MODS）ため、セーフモードのファイルをインストールできません。"
+
+msgid "Admin Booster cannot write to %s on this server, so Safe Mode could not be installed."
+msgstr "Admin Booster はこのサーバーで %s に書き込めないため、セーフモードをインストールできませんでした。"
+
+msgid "You are not allowed to do that."
+msgstr "その操作を行う権限がありません。"
+
+msgid "Safe Mode is on — no plugins are running for you, and a default theme stands in for yours."
+msgstr "セーフモードがオンです — あなたに対してはプラグインが一切動作せず、テーマは既定のテーマに置き換わっています。"
+
+msgid "Go to Plugins"
+msgstr "プラグインへ"
+
+msgid "Exit Safe Mode"
+msgstr "セーフモードを終了"
+
+msgid "Your Safe Mode link"
+msgstr "セーフモードのリンク"
+
+msgid "Save this link now — it is shown only this once."
+msgstr "今すぐこのリンクを保存してください — 表示されるのは今回だけです。"
+
+msgid "For security, only a fingerprint of the key is stored, so the link cannot be displayed again. If you lose it, create a new one."
+msgstr "安全のため鍵のフィンガープリントのみを保存するので、リンクを再表示することはできません。紛失した場合は新しく作成してください。"
+
+msgid "Put it in your password manager, next to this site’s login. It is useless if you only look for it after the site is down."
+msgstr "パスワードマネージャーの、このサイトのログイン情報の隣に保存してください。サイトが落ちてから探すのでは役に立ちません。"
+
+msgid "A link is active — created on %1$s by %2$s. It cannot be shown again; if nobody saved it, create a new one."
+msgstr "有効なリンクがあります — %1$s に %2$s が作成。再表示はできません。誰も保存していなければ新しく作成してください。"
+
+msgid "There is no active link — Safe Mode cannot be entered. Create one and save it."
+msgstr "有効なリンクがないため、セーフモードに入れません。作成して保存してください。"
+
+msgid "The current link and any open Safe Mode session stop working immediately."
+msgstr "現在のリンクと開いているセーフモードのセッションはすぐに無効になります。"
+
+msgid "Your wp-config.php has no unique SECURE_AUTH_KEY / SECURE_AUTH_SALT, so the key fingerprint is protected by keys stored in the database. Add unique keys to wp-config.php (api.wordpress.org/secret-key/1.1/salt) for full protection, then create a new link."
+msgstr "wp-config.php に固有の SECURE_AUTH_KEY / SECURE_AUTH_SALT がないため、フィンガープリントはデータベースに保存された鍵で保護されています。完全に保護するには wp-config.php に固有の鍵を追加し（api.wordpress.org/secret-key/1.1/salt）、新しいリンクを作成してください。"
+
+msgid "Open the saved link — it works even when the site only shows “There has been a critical error”."
+msgstr "保存したリンクを開きます — サイトに「重大なエラーが発生しました」としか表示されない場合でも動作します。"
+
+msgid "Log in with an administrator account. A password is required even if you were already logged in."
+msgstr "管理者アカウントでログインします。すでにログインしていてもパスワードが必要です。"
+
+msgid "Click “Exit Safe Mode” in the red bar. Once the admin loads normally again, the used link is retired and you are asked to create a new one."
+msgstr "赤いバーの「セーフモードを終了」をクリックします。管理画面が通常どおり表示されると、使用したリンクは無効化され、新しいリンクの作成を求められます。"
+
+msgid "How the link is protected"
+msgstr "リンクの保護方法"
+
+msgid "The key sits after the # in the link, which browsers never send to the server — it cannot end up in server, CDN or proxy logs."
+msgstr "鍵はリンクの # の後ろにあり、ブラウザーはこの部分をサーバーに送信しません — サーバー・CDN・プロキシのログに残ることはありません。"
+
+msgid "Only a fingerprint is stored, keyed with your wp-config.php security keys: a leaked or stolen database does not reveal the link."
+msgstr "保存されるのは wp-config.php のセキュリティキーで鍵付けしたフィンガープリントのみ — データベースが漏えい・盗難されてもリンクは分かりません。"
+
+msgid "The link alone is not enough: only administrators can log in, with their password, and a built-in limit locks logins for 15 minutes after 5 failures."
+msgstr "リンクだけでは入れません：ログインできるのは管理者のみ（パスワードが必要）で、5 回失敗すると組み込みの制限により 15 分間ログインがロックされます。"
+
+msgid "Safe Mode is a recovery console only: Dashboard, Plugins and Themes. Installing or uploading plugins and themes, editing files, and adding or changing users are all blocked."
+msgstr "セーフモードは復旧用コンソールです：ダッシュボード・プラグイン・テーマのみ。プラグインやテーマのインストール・アップロード、ファイル編集、ユーザーの追加・変更はすべてブロックされます。"
+
+msgid "Every use emails all administrators, is logged with IP address and browser, and retires the link once the site works again."
+msgstr "使用のたびに全管理者へメールで通知し、IP アドレスとブラウザーを記録し、サイトが復旧した時点でリンクを無効化します。"
+
+msgid "On an HTTPS site the key is only accepted over HTTPS; the session is tied to the browser and ends after one hour. Visitors always see the normal site."
+msgstr "HTTPS サイトでは鍵は HTTPS 経由でのみ受け付けます。セッションはブラウザーに紐づき、1 時間で終了します。訪問者には常に通常のサイトが表示されます。"
+
+msgid "Only allow from these IP addresses (optional)"
+msgstr "これらの IP アドレスからのみ許可（任意）"
+
+msgid "One IP address or range per line (e.g. 203.0.113.7 or 203.0.113.0/24). Leave empty to allow any address. Only use this with a fixed office or VPN address — otherwise you can lock yourself out. Your current address: %s"
+msgstr "1 行に 1 つの IP アドレスまたは範囲（例: 203.0.113.7 や 203.0.113.0/24）。空欄なら全アドレスを許可します。固定のオフィスや VPN のアドレスがある場合のみ使用してください — そうでないと締め出される恐れがあります。現在のアドレス: %s"
+
+msgid "Not saved — these entries are not valid IP addresses or ranges: %s"
+msgstr "保存されていません — 次の項目は有効な IP アドレスまたは範囲ではありません: %s"
+
+msgid "IP restriction saved."
+msgstr "IP 制限を保存しました。"
+
+msgid "Save IP restriction"
+msgstr "IP 制限を保存"
+
+msgid "Safe Mode log"
+msgstr "セーフモードのログ"
+
+msgid "Entered Safe Mode"
+msgstr "セーフモードに入った"
+
+msgid "Wrong key"
+msgstr "鍵が違う"
+
+msgid "Blocked address"
+msgstr "ブロックされたアドレス"
+
+msgid "Logged in"
+msgstr "ログイン"
+
+msgid "Failed login"
+msgstr "ログイン失敗"
+
+msgid "Logins locked"
+msgstr "ログインをロック"
+
+msgid "Non-administrator refused"
+msgstr "管理者以外を拒否"
+
+msgid "Nothing logged yet."
+msgstr "まだ記録はありません。"
+
+msgid "Event"
+msgstr "イベント"
+
+msgid "User"
+msgstr "ユーザー"
+
+msgid "WordPress security keys are missing, so a Safe Mode link cannot be created safely."
+msgstr "WordPress のセキュリティキーがないため、セーフモードのリンクを安全に作成できません。"
+
+msgid "The Safe Mode link was used and has been retired."
+msgstr "セーフモードのリンクが使用されたため、無効化しました。"
+
+msgid "Used on %1$s from IP address %2$s."
+msgstr "%1$s に IP アドレス %2$s から使用されました。"
+
+msgid "If this was not you or a colleague: change every administrator password now and check the Safe Mode log. Either way, create a new Safe Mode link and save it."
+msgstr "あなたや同僚でない場合：直ちに全管理者のパスワードを変更し、セーフモードのログを確認してください。いずれにしても新しいリンクを作成して保存してください。"
+
+msgid "Dismiss"
+msgstr "閉じる"
+
+msgid "This Safe Mode key is not valid."
+msgstr "このセーフモードの鍵は無効です。"
+
+msgid "Checking your Safe Mode key…"
+msgstr "セーフモードの鍵を確認しています…"
+
+msgid "Paste the key from your saved Safe Mode link (the part after #)."
+msgstr "保存したセーフモードのリンクから鍵（# の後ろの部分）を貼り付けてください。"
+
+msgid "Enter Safe Mode"
+msgstr "セーフモードに入る"
+
+msgid "Too many failed logins in Safe Mode. Try again in 15 minutes."
+msgstr "セーフモードでのログイン失敗が多すぎます。15 分後に再試行してください。"
+
+msgid "Only administrators can log in while Safe Mode is on."
+msgstr "セーフモード中にログインできるのは管理者だけです。"
+
+msgid "Only administrators can use Safe Mode."
+msgstr "セーフモードを使用できるのは管理者だけです。"
+
+msgid "Someone entered Safe Mode with the Safe Mode link."
+msgstr "誰かがセーフモードのリンクでセーフモードに入りました。"
+
+msgid "An administrator logged in while Safe Mode was on."
+msgstr "セーフモード中に管理者がログインしました。"
+
+msgid "Safe Mode logins were locked after 5 failed attempts."
+msgstr "5 回の失敗により、セーフモードのログインがロックされました。"
+
+msgid "%1$s — %2$s IP: %3$s, user: %4$s"
+msgstr "%1$s — %2$s IP: %3$s、ユーザー: %4$s"
+
+msgid "If this was you or a colleague fixing the site, no action is needed: the link is retired automatically once the site works again, and you will be asked to create a new one."
+msgstr "あなたや同僚がサイトを修復していたのであれば対応は不要です。サイトが復旧するとリンクは自動的に無効化され、新しいリンクの作成を求められます。"
+
+msgid "If you do not recognise this: log in, create a new Safe Mode link (the used one stops working at once), change every administrator password, and review the Safe Mode log under Admin Booster → Safe Mode."
+msgstr "心当たりがない場合：ログインして新しいセーフモードのリンクを作成し（使用済みのリンクは即座に無効になります）、全管理者のパスワードを変更し、Admin Booster → セーフモード でログを確認してください。"
+
+msgid "[%s] Safe Mode was used"
+msgstr "[%s] セーフモードが使用されました"
+
+msgid "Only the Dashboard, Plugins and Themes screens are available, and installing, uploading, editing files and managing users are blocked. Deactivate the plugin (or switch away from the theme) that broke the site, then exit Safe Mode to check."
+msgstr "利用できるのはダッシュボード・プラグイン・テーマのみで、インストール・アップロード・ファイル編集・ユーザー管理はブロックされています。サイトを壊したプラグインを無効化（またはテーマを変更）し、セーフモードを終了して確認してください。"
+
+msgid "Safe Mode is on: plugins are switched off for you until you exit Safe Mode. Only administrators can log in."
+msgstr "セーフモードがオンです：終了するまで、あなたに対してはプラグインが無効です。ログインできるのは管理者のみです。"
+
+msgid "Update crash protection"
+msgstr "更新時のクラッシュ保護"
+
+msgid "If a plugin or theme update crashes the site, automatically restore the previous version — no matter what triggered the update."
+msgstr "プラグインやテーマの更新でサイトがクラッシュしたら、更新の実行元に関係なく前のバージョンを自動で復元します。"
+
+msgid "WordPress backs up the previous version before every plugin or theme update, but only checks whether the site still works — and restores that backup if not — for updates it runs itself in the background. A manual click, WP-CLI, or a remote manager like ManageWP or MainWP skips that check. This module runs the same check after every update, whoever triggered it, and restores the backup automatically if the site crashed."
+msgstr "WordPress はプラグインやテーマを更新する前に毎回旧バージョンをバックアップしますが、サイトがまだ動くかを確認し、動かなければバックアップを戻す処理は、自分でバックグラウンド実行した更新にしか行いません。手動クリック、WP-CLI、ManageWP や MainWP などのリモート管理ツールではこの確認が省かれます。このモジュールは、誰が実行した更新でも毎回同じ確認を行い、サイトがクラッシュしていればバックアップを自動で戻します。"
+
+msgid "Off. Turn on “Update crash protection” on the Modules tab to enable it."
+msgstr "オフです。「モジュール」タブで「更新時のクラッシュ保護」をオンにしてください。"
+
+msgid "On. No update has needed to be rolled back so far."
+msgstr "オンです。これまでにロールバックが必要になった更新はありません。"
+
+msgid "Protection could not work during the last update (%s): this server cannot load its own pages (loopback requests are blocked), so there is no way to tell whether an update broke the site. Ask your host to allow the site to reach itself; Site Health will show the same problem. This warning disappears after the next update that can be checked."
+msgstr "前回の更新（%s）では保護が機能しませんでした。このサーバーは自分自身のページを読み込めない（ループバックリクエストがブロックされている）ため、更新でサイトが壊れたかどうかを判定できません。サイトが自分自身にアクセスできるようホスティング会社に依頼してください。サイトヘルスにも同じ問題が表示されます。この警告は、次に確認可能な更新の後に消えます。"
+
+msgid "Interventions"
+msgstr "介入履歴"
+
+msgid "Affected"
+msgstr "対象"
+
+msgid "Result"
+msgstr "結果"
+
+msgid "Restored automatically"
+msgstr "自動で復元済み"
+
+msgid "Could not restore automatically"
+msgstr "自動で復元できませんでした"
+
+msgid "[%s] An update was automatically rolled back"
+msgstr "[%s] 更新が自動でロールバックされました"
+
+msgid "[%s] An update broke the site and could not be rolled back automatically"
+msgstr "[%s] 更新でサイトが壊れ、自動でロールバックできませんでした"
+
+msgid "An update just made the site crash with a fatal error. Admin Booster detected it immediately and restored the previous version — the site is back up and no plugin was left disabled. Affected: %s"
+msgstr "更新によりサイトが致命的なエラーでクラッシュしました。Admin Booster が即座に検知して前のバージョンを復元したため、サイトは復旧しており、無効化されたままのプラグインもありません。対象: %s"
+
+msgid "An update just made the site crash with a fatal error, and Admin Booster could not restore the previous version automatically. Affected: %s. Use the Admin Booster Safe Mode link to get back into wp-admin, or restore the affected files from wp-content/upgrade-temp-backup/ over FTP."
+msgstr "更新によりサイトが致命的なエラーでクラッシュし、Admin Booster は前のバージョンを自動で復元できませんでした。対象: %s。Admin Booster のセーフモードのリンクで wp-admin に入るか、FTP で wp-content/upgrade-temp-backup/ から該当ファイルを戻してください。"
+
+msgid "Menu item visibility"
+msgstr "メニュー項目の表示"
+
+msgid "Show a menu item on mobile only or on desktop only — handy for a header button that needs to live in the mobile menu too."
+msgstr "メニュー項目をモバイルのみ、またはデスクトップのみで表示します。ヘッダーのボタンをモバイルメニューにも入れたいときに便利です。"
+
+msgid "Visibility"
+msgstr "表示"
+
+msgid "Always"
+msgstr "常に"
+
+msgid "Mobile only (%d px or narrower)"
+msgstr "モバイルのみ（%d px 以下）"
+
+msgid "Desktop only (wider than %d px)"
+msgstr "デスクトップのみ（%d px を超える）"
+
+msgid "Set per menu item on the Appearance → Menus screen. The breakpoint is fixed at 768px; %s for a custom value."
+msgstr "「外観 → メニュー」画面でメニュー項目ごとに設定します。ブレークポイントは768px固定です。カスタム値には%sしてください。"
+
+msgid "upgrade to Pro"
+msgstr "Pro にアップグレード"
+
+msgid "Custom menu visibility breakpoint"
+msgstr "メニュー表示のカスタムブレークポイント"
+
+msgid "Mobile-only and desktop-only menu items switch over at 768px. Set the breakpoint your theme actually uses instead, so a menu item appears exactly where the theme switches to its mobile menu."
+msgstr "モバイル専用・デスクトップ専用のメニュー項目は768pxで切り替わります。代わりにテーマが実際に使っているブレークポイントを設定すれば、テーマがモバイルメニューに切り替わる位置とぴったり一致します。"
+
+msgid "Turn each booster on or off. Everything is on by default, except the Safe Mode link."
+msgstr "各ブースターのオン・オフを切り替えます。セーフモードのリンク以外はすべて既定でオンです。"

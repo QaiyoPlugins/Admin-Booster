@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Qaiyo Admin Booster\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1-click plugin upload"
+msgstr "Plugin-Upload mit 1 Klick"
+
+msgid "Admin Booster"
+msgstr "Admin Booster"
+
+msgid "Allow SVG only for administrators, raise the upload limit for editors, or restrict risky file types per user role — granular control instead of one global rule."
+msgstr "SVG nur für Administratoren, höheres Upload-Limit für Redakteure oder riskante Dateitypen pro Benutzerrolle einschränken — granulare Kontrolle statt einer globalen Regel."
+
+msgid "Auto-assign pages and posts to collections by URL pattern, page template, parent or regex — new content lands in the right collection automatically, no manual sorting."
+msgstr "Seiten und Beiträge automatisch nach URL-Muster, Seitenvorlage, Elternseite oder Regex Sammlungen zuordnen — neue Inhalte landen automatisch in der richtigen Sammlung, ohne manuelles Sortieren."
+
+msgid "Automatically strip scripts and event handlers from SVG files on upload, so you can enable SVG safely even for non-admin users."
+msgstr "Entfernt beim Upload automatisch Skripte und Event-Handler aus SVG-Dateien, sodass SVG auch für Nicht-Admin-Benutzer sicher aktiviert werden kann."
+
+msgid "Built-in collections (Main, Legal, WooCommerce) are detected automatically. Create your own below."
+msgstr "Integrierte Sammlungen (Haupt, Rechtliches, WooCommerce) werden automatisch erkannt. Eigene kannst du unten erstellen."
+
+msgid "Bulk noindex & menu actions"
+msgstr "Massen-Aktionen für noindex & Menü"
+
+msgid "Collection name"
+msgstr "Name der Sammlung"
+
+msgid "Collection"
+msgstr "Sammlung"
+
+msgid "Collections saved."
+msgstr "Sammlungen gespeichert."
+
+msgid "Color"
+msgstr "Farbe"
+
+msgid "Control upload size and which file types are allowed."
+msgstr "Steuere die Upload-Größe und welche Dateitypen erlaubt sind."
+
+msgid "Could not save collections. Please try again."
+msgstr "Sammlungen konnten nicht gespeichert werden. Bitte versuche es erneut."
+
+msgid "Disable editor fullscreen mode"
+msgstr "Vollbildmodus des Editors deaktivieren"
+
+msgid "Fewer clicks to the things you do all day."
+msgstr "Weniger Klicks für das, was du täglich tust."
+
+msgid "File handling"
+msgstr "Dateiverwaltung"
+
+msgid "Friendlier upload error messages"
+msgstr "Verständlichere Upload-Fehlermeldungen"
+
+msgid "Clean up uploaded filenames"
+msgstr "Hochgeladene Dateinamen bereinigen"
+
+msgid "Convert spaces, accents and uppercase in uploaded filenames to URL-friendly slugs (e.g. “Árvíz Tükör.JPG” → “arviz-tukor.jpg”)."
+msgstr "Wandelt Leerzeichen, Akzente und Großbuchstaben in hochgeladenen Dateinamen in URL-freundliche Slugs um (z. B. „Árvíz Tükör.JPG“ → „arviz-tukor.jpg“)."
+
+msgid "Group pages and posts into visual collections."
+msgstr "Gruppiere Seiten und Beiträge in visuelle Sammlungen."
+
+msgid "Gutenberg UX fixes"
+msgstr "Gutenberg-UX-Verbesserungen"
+
+msgid "Homepage"
+msgstr "Startseite"
+
+msgid "Icon"
+msgstr "Symbol"
+
+msgid "In menu"
+msgstr "Im Menü"
+
+msgid "Insufficient permissions."
+msgstr "Unzureichende Berechtigungen."
+
+msgid "Keep the block inserter open and the editor out of fullscreen."
+msgstr "Halte den Block-Inserter offen und den Editor außerhalb des Vollbilds."
+
+msgid "Keep the wp-admin sidebar visible while editing."
+msgstr "Halte die wp-admin-Seitenleiste beim Bearbeiten sichtbar."
+
+msgid "Larger list views"
+msgstr "Größere Listenansichten"
+
+msgid "Legal"
+msgstr "Rechtliches"
+
+msgid "Modern, well-compressed image format. Safe to enable."
+msgstr "Modernes, gut komprimiertes Bildformat. Sicher zu aktivieren."
+
+msgid "Modules"
+msgstr "Module"
+
+msgid "Navigation & editor"
+msgstr "Navigation & Editor"
+
+msgid "New %s"
+msgstr "Neu: %s"
+
+msgid "New Page / Post / Product shortcuts in the admin bar."
+msgstr "Verknüpfungen für Neue Seite / Beitrag / Produkt in der Admin-Leiste."
+
+msgid "Next-gen image format (WordPress 6.5+ and supported servers)."
+msgstr "Bildformat der nächsten Generation (WordPress 6.5+ und unterstützte Server)."
+
+msgid "Noindex"
+msgstr "Noindex"
+
+msgid "Not in any menu"
+msgstr "In keinem Menü"
+
+msgid "Not in menu"
+msgstr "Nicht im Menü"
+
+msgid "Open the block inserter by default"
+msgstr "Block-Inserter standardmäßig öffnen"
+
+msgid "Open the plugin upload screen straight from “Add Plugin”."
+msgstr "Öffne den Plugin-Upload direkt über „Plugin hinzufügen“."
+
+msgid "Orphan pages"
+msgstr "Verwaiste Seiten"
+
+msgid "Orphan"
+msgstr "Verwaist"
+
+msgid "Page Collections"
+msgstr "Seitensammlungen"
+
+msgid "Page Filter"
+msgstr "Seitenfilter"
+
+msgid "Page status"
+msgstr "Seitenstatus"
+
+msgid "Per-role upload rules"
+msgstr "Upload-Regeln pro Rolle"
+
+msgid "Pin the pages and posts you touch every day to the admin bar and dashboard for one-click access from anywhere in wp-admin."
+msgstr "Hefte die täglich genutzten Seiten und Beiträge an die Admin-Leiste und das Dashboard, um sie überall in wp-admin mit einem Klick zu erreichen."
+
+msgid "Pinned pages & favorites"
+msgstr "Angeheftete Seiten & Favoriten"
+
+msgid "Qaiyo Plugins"
+msgstr "Qaiyo Plugins"
+
+msgid "Qaiyo Admin Booster settings"
+msgstr "Qaiyo Admin Booster Einstellungen"
+
+msgid "Qaiyo Admin Booster"
+msgstr "Qaiyo Admin Booster"
+
+msgid "Quick add menu"
+msgstr "Schnell-hinzufügen-Menü"
+
+msgid "Remove this collection? Pages assigned to it will fall back to auto/none."
+msgstr "Diese Sammlung entfernen? Zugewiesene Seiten fallen auf automatisch/keine zurück."
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Replace the cryptic “file type not permitted” message with a clear explanation and the list of allowed types."
+msgstr "Ersetzt die kryptische Meldung „Dateityp nicht erlaubt“ durch eine klare Erklärung und die Liste der erlaubten Typen."
+
+msgid "SVG sanitization on upload"
+msgstr "SVG-Bereinigung beim Upload"
+
+msgid "Save any combination of Page Filter conditions (orphan + noindex + draft, etc.) as a named view and switch between them with one click."
+msgstr "Speichere beliebige Kombinationen von Seitenfilter-Bedingungen (verwaist + noindex + Entwurf usw.) als benannte Ansicht und wechsle mit einem Klick."
+
+msgid "Saved filter views"
+msgstr "Gespeicherte Filteransichten"
+
+msgid "See homepage, orphan, not-in-menu and noindex at a glance."
+msgstr "Sieh auf einen Blick Startseite, verwaiste, nicht im Menü befindliche und noindex-Seiten."
+
+msgid "Select multiple pages from the filtered view and toggle noindex, add them to a menu, or change status in one bulk action."
+msgstr "Wähle mehrere Seiten in der gefilterten Ansicht und schalte noindex um, füge sie einem Menü hinzu oder ändere den Status in einer Massenaktion."
+
+msgid "Show a warning here when you allow executable / script extensions."
+msgstr "Zeigt hier eine Warnung, wenn du ausführbare / Skript-Erweiterungen erlaubst."
+
+msgid "Show more items per page in admin list tables."
+msgstr "Mehr Elemente pro Seite in den Admin-Listentabellen."
+
+msgid "Show plugin upload immediately"
+msgstr "Plugin-Upload sofort anzeigen"
+
+msgid "Core update bridge"
+msgstr "Core-Update-Brücke"
+
+msgid "Step up to an intermediate WordPress version your server can still run."
+msgstr "Wechsle auf eine Zwischenversion von WordPress, die dein Server noch ausführen kann."
+
+msgid "Stuck on an old WordPress because the newest release needs a newer PHP? Pick an intermediate version your server can actually run and step up to it — straight from wp-admin, no FTP or cPanel needed."
+msgstr "Auf einer alten WordPress-Version festgefahren, weil die neueste Version ein neueres PHP benötigt? Wähle eine Zwischenversion, die dein Server tatsächlich ausführen kann, und aktualisiere darauf — direkt aus dem Backend, ohne FTP oder cPanel."
+
+msgid "Smart collection rules"
+msgstr "Intelligente Sammlungsregeln"
+
+msgid "The file type \".%1$s\" is not allowed on this site. Allowed types: %2$s. You can enable more types under Qaiyo Admin Booster → File handling."
+msgstr "Der Dateityp „.%1$s“ ist auf dieser Website nicht erlaubt. Erlaubte Typen: %2$s. Weitere Typen kannst du unter Qaiyo Admin Booster → Dateiverwaltung aktivieren."
+
+msgid "The left “+” block panel is open when the editor loads."
+msgstr "Das linke „+“-Blockfenster ist beim Laden des Editors geöffnet."
+
+msgid "Turn each booster on or off. Everything is on by default."
+msgstr "Schalte jeden Booster ein oder aus. Standardmäßig ist alles aktiviert."
+
+msgid "Upload size, allowed file types and clearer errors."
+msgstr "Upload-Größe, erlaubte Dateitypen und klarere Fehler."
+
+msgid "Vector graphics. SVG can contain scripts — only enable if you trust who uploads. Pro adds automatic SVG sanitization."
+msgstr "Vektorgrafik. SVG kann Skripte enthalten — nur aktivieren, wenn du den Uploadern vertraust. Pro bietet automatische SVG-Bereinigung."
+
+msgid "Warn about dangerous file types"
+msgstr "Vor gefährlichen Dateitypen warnen"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "noindex"
+msgstr "noindex"
+
+msgid "“Add Plugin” opens the upload tab directly — the browse tabs stay available on top."
+msgstr "„Plugin hinzufügen“ öffnet direkt den Upload-Tab — die Browse-Tabs bleiben oben verfügbar."
+
+msgid "Auto-detected"
+msgstr "Automatisch erkannt"
+
+msgid "Qaiyo Admin Booster — Quick Add"
+msgstr "Qaiyo Admin Booster — Schnell hinzufügen"
+
+msgid "Auto-detected as: %s. Pick a collection above to override."
+msgstr "Automatisch erkannt als: %s. Wähle oben eine Sammlung, um es zu überschreiben."
+
+msgid "Qaiyo %1$s v%2$s — Made by Qaiyo by PixelDesigns"
+msgstr "Qaiyo %1$s v%2$s — Erstellt von Qaiyo by PixelDesigns"
+
+msgid "Quick Add"
+msgstr "Schnell hinzufügen"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Unlock in Pro →"
+msgstr "In Pro freischalten →"
+
+msgid "Warning: you are allowing executable / script file types (%s). These can be used to run code on your server. Only keep them if you really need them."
+msgstr "Achtung: Du erlaubst ausführbare / Skript-Dateitypen (%s). Damit kann Code auf deinem Server ausgeführt werden. Behalte sie nur, wenn du sie wirklich brauchst."
+
+msgid "auto"
+msgstr "auto"
+
+msgid "unknown"
+msgstr "unbekannt"
+
+msgid "Add collection"
+msgstr "Sammlung hinzufügen"
+
+msgid "All collections"
+msgstr "Alle Sammlungen"
+
+msgid "Any page status"
+msgstr "Beliebiger Seitenstatus"
+
+msgid "Apply collections to"
+msgstr "Sammlungen anwenden auf"
+
+msgid "Collection & status columns appear on the Pages and Posts list screens."
+msgstr "Die Spalten Sammlung & Status erscheinen in den Listenansichten von Seiten und Beiträgen."
+
+msgid "Custom file types"
+msgstr "Eigene Dateitypen"
+
+msgid "Default rows in admin list tables (only when you have not set your own Screen Option)."
+msgstr "Standardzeilen in Admin-Listentabellen (nur wenn du keine eigene Anzeigeoptionen festgelegt hast)."
+
+msgid "Enable extra image types"
+msgstr "Zusätzliche Bildtypen aktivieren"
+
+msgid "Filter by collection"
+msgstr "Nach Sammlung filtern"
+
+msgid "Filter by page status"
+msgstr "Nach Seitenstatus filtern"
+
+msgid "Fixes the annoying wp-admin UX/UI rough edges that cost you time every day."
+msgstr "Behebt die nervigen UX/UI-Schwächen im wp-admin, die dich täglich Zeit kosten."
+
+msgid "Get Pro"
+msgstr "Pro holen"
+
+msgid "Items per list page"
+msgstr "Elemente pro Listenseite"
+
+msgid "Max upload size (MB)"
+msgstr "Max. Upload-Größe (MB)"
+
+msgid "One per line, format: extension = mime/type. Example: ico = image/x-icon"
+msgstr "Eines pro Zeile, Format: Erweiterung = mime/typ. Beispiel: ico = image/x-icon"
+
+msgid "Power-user upgrades available in the Pro add-on."
+msgstr "Power-User-Erweiterungen im Pro-Add-on verfügbar."
+
+msgid "Pro features"
+msgstr "Pro-Funktionen"
+
+msgid "Qaiyo Admin Booster Pro"
+msgstr "Qaiyo Admin Booster Pro"
+
+msgid "Quick add shortcuts"
+msgstr "Schnell-hinzufügen-Verknüpfungen"
+
+msgid "Save collections"
+msgstr "Sammlungen speichern"
+
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+msgid "The “Quick Add” menu lives in the top admin bar."
+msgstr "Das Menü „Schnell hinzufügen“ befindet sich in der oberen Admin-Leiste."
+
+msgid "These are saved separately and immediately — they do not require the main “Save settings” button."
+msgstr "Diese werden separat und sofort gespeichert — der Haupt-Button „Einstellungen speichern“ ist nicht nötig."
+
+msgid "Uncategorized"
+msgstr "Nicht kategorisiert"
+
+msgid "Use the dropdowns above the list to filter by collection or page status."
+msgstr "Verwende die Dropdowns über der Liste, um nach Sammlung oder Seitenstatus zu filtern."
+
+msgid "Where to find it"
+msgstr "Wo du es findest"
+
+msgid "Which content types appear in the admin bar “Quick Add” menu."
+msgstr "Welche Inhaltstypen im „Schnell hinzufügen“-Menü der Admin-Leiste erscheinen."
+
+msgid "Your collections"
+msgstr "Deine Sammlungen"
+
+msgid "— Auto / none —"
+msgstr "— Auto / keine —"
+
+msgid "%d notices"
+msgstr "%d Hinweise"
+
+msgid "1 notice"
+msgstr "1 Hinweis"
+
+msgid "Admin notices"
+msgstr "Admin-Hinweise"
+
+msgid "WordPress Events and News"
+msgstr "WordPress-Veranstaltungen und Neuigkeiten"
+
+msgid "Quick Draft"
+msgstr "Schnellentwurf"
+
+msgid "Activity"
+msgstr "Aktivität"
+
+msgid "At a Glance"
+msgstr "Auf einen Blick"
+
+msgid "Site Health Status"
+msgstr "Zustand der Website"
+
+msgid "Welcome panel"
+msgstr "Willkommensbereich"
+
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+msgid "No item to duplicate."
+msgstr "Kein Element zum Duplizieren."
+
+msgid "You are not allowed to duplicate this item."
+msgstr "Du darfst dieses Element nicht duplizieren."
+
+msgid "Could not duplicate this item."
+msgstr "Dieses Element konnte nicht dupliziert werden."
+
+msgid "Publishing in %s"
+msgstr "Veröffentlichung in %s"
+
+msgid "Last edited"
+msgstr "Zuletzt bearbeitet"
+
+msgid "Unknown"
+msgstr "Unbekannt"
+
+msgid "%s ago"
+msgstr "vor %s"
+
+msgid "Switch to draft"
+msgstr "In Entwurf umwandeln"
+
+msgid "Publish now"
+msgstr "Jetzt veröffentlichen"
+
+msgid "Invalid request."
+msgstr "Ungültige Anfrage."
+
+msgid "You are not allowed to edit this item."
+msgstr "Du darfst dieses Element nicht bearbeiten."
+
+msgid "You are not allowed to publish this item."
+msgstr "Du darfst dieses Element nicht veröffentlichen."
+
+msgid "Tidy admin notices"
+msgstr "Admin-Hinweise aufräumen"
+
+msgid "Collapse stacked admin notices into a small counter tray."
+msgstr "Fasst gestapelte Admin-Hinweise in einer kleinen Zähler-Leiste zusammen."
+
+msgid "Dashboard cleanup"
+msgstr "Dashboard aufräumen"
+
+msgid "Hide the dashboard widgets you never use."
+msgstr "Blende die Dashboard-Widgets aus, die du nie nutzt."
+
+msgid "Duplicate content"
+msgstr "Inhalt duplizieren"
+
+msgid "One-click “Duplicate” as a draft from the list view."
+msgstr "Ein-Klick-„Duplizieren“ als Entwurf aus der Listenansicht."
+
+msgid "Scheduled countdown"
+msgstr "Countdown für geplante Beiträge"
+
+msgid "Show “Publishing in 3 days” on scheduled posts."
+msgstr "Zeigt „Veröffentlichung in 3 Tagen“ bei geplanten Beiträgen."
+
+msgid "Sticky table headers"
+msgstr "Fixierte Tabellenköpfe"
+
+msgid "Keep list-table column headers visible while scrolling."
+msgstr "Hält die Spaltenköpfe der Listen-Tabelle beim Scrollen sichtbar."
+
+msgid "Last edited column"
+msgstr "Spalte „Zuletzt bearbeitet“"
+
+msgid "Who last edited each item and how long ago."
+msgstr "Wer jedes Element zuletzt bearbeitet hat und wann."
+
+msgid "Quick status switch"
+msgstr "Schneller Statuswechsel"
+
+msgid "Publish or unpublish from the list without opening the editor."
+msgstr "Veröffentliche oder verberge aus der Liste, ohne den Editor zu öffnen."
+
+msgid "Hide the default dashboard widgets you do not use. Requires the “Dashboard cleanup” module."
+msgstr "Blende ungenutzte Standard-Dashboard-Widgets aus. Erfordert das Modul „Dashboard aufräumen“."
+
+msgid "Hide these widgets"
+msgstr "Diese Widgets ausblenden"
+
+msgid "Enable all"
+msgstr "Alle aktivieren"
+
+msgid "Disable all"
+msgstr "Alle deaktivieren"
+
+msgid "Go Pro"
+msgstr "Pro werden"
+
+msgid "%d power-user upgrades — see them below."
+msgstr "%d Power-User-Erweiterungen — siehe unten."
+
+msgid "Admin menu editor"
+msgstr "Admin-Menü-Editor"
+
+msgid "Rename, reorder and hide wp-admin menu items per user role — give editors and clients a clean, focused admin without touching code."
+msgstr "Benenne, ordne und blende wp-admin-Menüpunkte pro Benutzerrolle ein — ein aufgeräumtes, fokussiertes Admin für Redakteure und Kunden, ganz ohne Code."
+
+msgid "Inline list-table editing"
+msgstr "Inline-Bearbeitung in der Listentabelle"
+
+msgid "Edit titles, statuses, collections and custom fields straight in the list table — spreadsheet-style, without opening each item."
+msgstr "Bearbeite Titel, Status, Sammlungen und benutzerdefinierte Felder direkt in der Listentabelle — wie in einer Tabellenkalkulation, ohne jedes Element zu öffnen."
+
+msgid "Login screen customizer"
+msgstr "Anmeldebildschirm-Anpassung"
+
+msgid "Replace the WordPress logo, background and colors on the login screen with your own brand, plus custom CSS — no extra plugin needed."
+msgstr "Ersetze Logo, Hintergrund und Farben des Anmeldebildschirms durch dein eigenes Branding, plus eigenes CSS — ohne zusätzliches Plugin."
+
+msgid "Activity log"
+msgstr "Aktivitätsprotokoll"
+
+msgid "A clear audit trail of who changed what and when — posts, settings, users and uploads — so nothing happens on your site unnoticed."
+msgstr "Ein klares Protokoll darüber, wer was wann geändert hat — Beiträge, Einstellungen, Benutzer und Uploads —, damit auf deiner Website nichts unbemerkt bleibt."
+
+msgid "Admin dark mode"
+msgstr "Admin-Dunkelmodus"
+
+msgid "A polished dark theme for the whole wp-admin, with a one-click toggle in the admin bar and a per-user preference."
+msgstr "Ein ausgefeiltes dunkles Design für das gesamte wp-admin, mit Ein-Klick-Umschalter in der Admin-Leiste und Einstellung pro Benutzer."
+
+msgid "Revision cleaner"
+msgstr "Revisions-Reiniger"
+
+msgid "Limit how many revisions each post keeps and bulk-delete old ones to shrink a bloated database and speed up your admin."
+msgstr "Begrenze, wie viele Revisionen jeder Beitrag behält, und lösche alte in großen Mengen — für eine schlankere Datenbank und ein schnelleres Admin."
+
+msgid "Explore Qaiyo Plugins"
+msgstr "Qaiyo-Plugins entdecken"
+
+msgid "Explore Qaiyo"
+msgstr "Qaiyo entdecken"
+
+msgid "Plugins"
+msgstr "Plugins"
+
+msgid "The complete Qaiyo plugin family — all built to the same quality standard."
+msgstr "Die komplette Qaiyo-Plugin-Familie — alle nach demselben Qualitätsstandard gebaut."
+
+msgid "Refresh list"
+msgstr "Liste aktualisieren"
+
+msgid "Data from"
+msgstr "Daten von"
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Installed"
+msgstr "Installiert"
+
+msgid "Free Download"
+msgstr "Kostenloser Download"
+
+msgid "Go Pro →"
+msgstr "Auf Pro upgraden →"
+
+msgid "All Qaiyo plugins are built by"
+msgstr "Alle Qaiyo-Plugins stammen von"
+
+msgid "Need help? Contact us at"
+msgstr "Brauchst du Hilfe? Kontaktiere uns unter"
+
+msgid "version %1$s is available (you have %2$s)."
+msgstr "Version %1$s ist verfügbar (du hast %2$s)."
+
+msgid "View release →"
+msgstr "Release ansehen →"
+
+msgid "An error occurred."
+msgstr "Ein Fehler ist aufgetreten."
+
+msgid "Bulk Create"
+msgstr "Massen-Erstellung"
+
+msgid "Bulk create"
+msgstr "Massen-Erstellung"
+
+msgid "Create many pages or posts at once from a list of titles."
+msgstr "Erstelle viele Seiten oder Beiträge auf einmal aus einer Titelliste."
+
+msgid "Create many pages or posts at once — one title per line. Indent with a Tab (or 2 spaces) to nest child pages."
+msgstr "Erstelle viele Seiten oder Beiträge auf einmal — ein Titel pro Zeile. Mit Tab (oder 2 Leerzeichen) einrücken, um untergeordnete Seiten zu verschachteln."
+
+msgid "You do not have permission to create any content types."
+msgstr "Du hast keine Berechtigung, Inhaltstypen zu erstellen."
+
+msgid "What to create"
+msgstr "Was erstellt werden soll"
+
+msgid "Content type"
+msgstr "Inhaltstyp"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Draft"
+msgstr "Entwurf"
+
+msgid "Published"
+msgstr "Veröffentlicht"
+
+msgid "Pending review"
+msgstr "Ausstehende Überprüfung"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Parent page"
+msgstr "Übergeordnete Seite"
+
+msgid "Top-level parent for the whole batch. Only applies to hierarchical types (e.g. Pages)."
+msgstr "Übergeordnetes Element der obersten Ebene für den ganzen Stapel. Gilt nur für hierarchische Typen (z. B. Seiten)."
+
+msgid "— None (top level) —"
+msgstr "— Keine (oberste Ebene) —"
+
+msgid "Titles — one per line"
+msgstr "Titel — einer pro Zeile"
+
+msgid "Up to %d items per batch. Indent a line with a Tab (or 2 spaces) to make it a child of the line above."
+msgstr "Bis zu %d Einträge pro Stapel. Rücke eine Zeile mit Tab (oder 2 Leerzeichen) ein, um sie der Zeile darüber unterzuordnen."
+
+msgid "Create items"
+msgstr "Einträge erstellen"
+
+msgid "%d non-empty line(s) ready to create."
+msgstr "%d nicht leere Zeile(n) bereit zur Erstellung."
+
+msgid "You are not allowed to create that content type."
+msgstr "Du darfst diesen Inhaltstyp nicht erstellen."
+
+msgid "Unknown or unsupported content type."
+msgstr "Unbekannter oder nicht unterstützter Inhaltstyp."
+
+msgid "%d item(s) created."
+msgstr "%d Eintrag/Einträge erstellt."
+
+msgid "%d item(s) could not be created."
+msgstr "%d Eintrag/Einträge konnten nicht erstellt werden."
+
+msgid "View the list →"
+msgstr "Liste ansehen →"
+
+msgid "No items were created. Add at least one non-empty title."
+msgstr "Es wurden keine Einträge erstellt. Füge mindestens einen nicht leeren Titel hinzu."
+
+msgid "Updates"
+msgstr "Aktualisierungen"
+
+msgid "Update center widget"
+msgstr "Update-Center-Widget"
+
+msgid "A dashboard widget to update plugins and themes in one place."
+msgstr "Ein Dashboard-Widget, um Plugins und Themes an einem Ort zu aktualisieren."
+
+msgid "Update all (%d)"
+msgstr "Alle aktualisieren (%d)"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Updating…"
+msgstr "Wird aktualisiert…"
+
+msgid "Updated"
+msgstr "Aktualisiert"
+
+msgid "Update failed"
+msgstr "Aktualisierung fehlgeschlagen"
+
+msgid "Check again"
+msgstr "Erneut prüfen"
+
+msgid "Checking…"
+msgstr "Wird geprüft…"
+
+msgid "Everything is up to date"
+msgstr "Alles ist aktuell"
+
+msgid "Theme"
+msgstr "Theme"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Changelog for %s"
+msgstr "Änderungsprotokoll für %s"
+
+msgid "You are not allowed to update plugins."
+msgstr "Du darfst keine Plugins aktualisieren."
+
+msgid "You are not allowed to update themes."
+msgstr "Du darfst keine Themes aktualisieren."
+
+msgid "You are not allowed to check for updates."
+msgstr "Du darfst nicht nach Updates suchen."
+
+msgid "No update is available for this plugin."
+msgstr "Für dieses Plugin ist keine Aktualisierung verfügbar."
+
+msgid "No update is available for this theme."
+msgstr "Für dieses Theme ist keine Aktualisierung verfügbar."
+
+msgid "Could not access the filesystem. Your host may require FTP/SSH credentials to install updates."
+msgstr "Auf das Dateisystem konnte nicht zugegriffen werden. Dein Hoster benötigt möglicherweise FTP/SSH-Zugangsdaten, um Aktualisierungen zu installieren."
+
+msgid "Update failed."
+msgstr "Aktualisierung fehlgeschlagen."
+
+msgid "Comments"
+msgstr "Kommentare"
+
+msgid "Comments widget"
+msgstr "Kommentar-Widget"
+
+msgid "A dashboard widget with comment counts and one-click / bulk trashing."
+msgstr "Ein Dashboard-Widget mit Kommentaranzahl und Löschen per Klick oder in Stapeln."
+
+msgid "Dashboard greeting"
+msgstr "Dashboard-Begrüßung"
+
+msgid "Show a personal greeting at the top of the main WordPress dashboard."
+msgstr "Zeigt eine persönliche Begrüßung oben im WordPress-Dashboard an."
+
+msgid "Approved"
+msgstr "Genehmigt"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Trash"
+msgstr "Papierkorb"
+
+msgid "Select all"
+msgstr "Alle auswählen"
+
+msgid "Move to Trash"
+msgstr "In den Papierkorb"
+
+msgid "Manage all comments →"
+msgstr "Alle Kommentare verwalten →"
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "on"
+msgstr "zu"
+
+msgid "No comments to show."
+msgstr "Keine Kommentare vorhanden."
+
+msgid "You are not allowed to moderate comments."
+msgstr "Du darfst keine Kommentare moderieren."
+
+msgid "Nothing selected."
+msgstr "Nichts ausgewählt."
+
+msgid "Working…"
+msgstr "Wird ausgeführt…"
+
+msgid "Something went wrong."
+msgstr "Etwas ist schiefgelaufen."
+
+msgid "Move the selected comments to the Trash?"
+msgstr "Die ausgewählten Kommentare in den Papierkorb verschieben?"
+
+msgid "Hi, %s!"
+msgstr "Hallo, %s!"
+
+msgid "A per-user dark theme for wp-admin, toggled from the admin bar."
+msgstr "Ein benutzerspezifisches dunkles Theme für das wp-admin, umschaltbar über die Adminleiste."
+
+msgid "SVG sanitization"
+msgstr "SVG-Bereinigung"
+
+msgid "Automatically strip scripts from uploaded SVG files."
+msgstr "Entfernt automatisch Skripte aus hochgeladenen SVG-Dateien."
+
+msgid "Bulk noindex actions"
+msgstr "Massen-noindex-Aktionen"
+
+msgid "Set or remove noindex on many pages or posts at once."
+msgstr "noindex für viele Seiten oder Beiträge auf einmal setzen oder entfernen."
+
+msgid "Pin pages to a quick admin-bar menu and a dashboard widget."
+msgstr "Hefte Seiten an ein schnelles Adminleisten-Menü und ein Dashboard-Widget an."
+
+msgid "This theme uses navigation blocks instead of classic menus, so a menu created here will not appear on the site by itself. You can still insert it with a Navigation block."
+msgstr "Dieses Theme verwendet Navigationsblöcke statt klassischer Menüs. Ein hier erstelltes Menü erscheint daher nicht von selbst auf der Website. Mit einem Navigations-Block kannst du es dennoch einfügen."
+
+msgid "Shows how many reviews are waiting for approval, with a link to moderation."
+msgstr "Zeigt, wie viele Bewertungen auf Freigabe warten, mit Link zur Moderation."
+
+msgid "Shows today’s bookings and when the next appointment starts."
+msgstr "Zeigt die heutigen Buchungen und wann der nächste Termin beginnt."
+
+msgid "Shows the latest measured performance score for this site."
+msgstr "Zeigt den zuletzt gemessenen Performance-Wert dieser Website."
+
+msgid "Shows how many galleries and images you have."
+msgstr "Zeigt, wie viele Galerien und Bilder du hast."
+
+msgid "Shows how many videos are embedded across your content."
+msgstr "Zeigt, wie viele Videos in deinen Inhalten eingebettet sind."
+
+msgid "Shows which roles currently have restricted access."
+msgstr "Zeigt, welche Rollen derzeit eingeschränkten Zugriff haben."
+
+msgid "Shows how many marquee sliders are running on the site."
+msgstr "Zeigt, wie viele Lauftext-Slider auf der Website laufen."
+
+msgid "Fixes the everyday wp-admin rough edges."
+msgstr "Behebt die alltäglichen Ecken und Kanten von wp-admin."
+
+msgid "Qaiyo plugins can show a summary card here. Cards from plugins you already run show live data; the rest show what they would add."
+msgstr "Qaiyo-Plugins können hier eine Übersichtskarte anzeigen. Karten bereits aktiver Plugins zeigen Live-Daten, die übrigen zeigen, was sie ergänzen würden."
+
+msgid "More detail in %s Pro"
+msgstr "Mehr Details in %s Pro"
+
+msgid "This plugin is active but did not report a summary card. Updating it to the latest version enables one."
+msgstr "Dieses Plugin ist aktiv, hat aber keine Übersichtskarte gemeldet. Ein Update auf die neueste Version aktiviert sie."
+
+msgid "Qaiyo ecosystem"
+msgstr "Qaiyo-Ökosystem"
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "This card could not be displayed."
+msgstr "Diese Karte konnte nicht angezeigt werden."
+
+msgid "Qaiyo ecosystem widget"
+msgstr "Qaiyo-Ökosystem-Widget"
+
+msgid "Collect summary cards from your other Qaiyo plugins into one dashboard widget."
+msgstr "Sammelt die Übersichtskarten deiner anderen Qaiyo-Plugins in einem einzigen Dashboard-Widget."
+
+msgid "Sending…"
+msgstr "Senden…"
+
+msgid "Could not send the test email. Please try again."
+msgstr "Die Test-E-Mail konnte nicht gesendet werden. Bitte versuche es erneut."
+
+msgid "Update notifications are working on %s"
+msgstr "Update-Benachrichtigungen funktionieren auf %s"
+
+msgid "Update notifications"
+msgstr "Update-Benachrichtigungen"
+
+msgid "Update notification emails"
+msgstr "Update-Benachrichtigungs-E-Mails"
+
+msgid "Email every administrator a daily or weekly digest of the plugin, theme and WordPress updates that are waiting."
+msgstr "Sendet allen Administratoren eine tägliche oder wöchentliche Zusammenfassung der ausstehenden Plugin-, Theme- und WordPress-Updates."
+
+msgid "Get an email when a plugin, theme or WordPress update becomes available. Requires the “Update notification emails” module."
+msgstr "Erhalte eine E-Mail, sobald ein Plugin-, Theme- oder WordPress-Update verfügbar ist. Benötigt das Modul „Update-Benachrichtigungs-E-Mails”."
+
+msgid "WordPress core"
+msgstr "WordPress-Kern"
+
+msgid "Themes"
+msgstr "Themes"
+
+msgid "How often"
+msgstr "Wie oft"
+
+msgid "One summary email per period — never one email per update check. Nothing is sent when there is nothing new."
+msgstr "Eine Zusammenfassung pro Zeitraum — nie eine E-Mail pro Update-Prüfung. Gibt es nichts Neues, wird nichts gesendet."
+
+msgid "Notify me about"
+msgstr "Worüber benachrichtigen"
+
+msgid "Recipients"
+msgstr "Empfänger"
+
+msgid "Every administrator of this site: %s"
+msgstr "Alle Administratoren dieser Website: %s"
+
+msgid "Next summary is due in %s."
+msgstr "Die nächste Zusammenfassung folgt in %s."
+
+msgid "Is mail working?"
+msgstr "Funktioniert der Mailversand?"
+
+msgid "WordPress hands the email to your server or SMTP plugin; it cannot guarantee delivery. Send yourself a test to make sure mail actually leaves this site."
+msgstr "WordPress übergibt die E-Mail an deinen Server oder dein SMTP-Plugin; die Zustellung kann es nicht garantieren. Schicke dir selbst einen Test, um zu sehen, ob wirklich Mails hinausgehen."
+
+msgid "Send test email"
+msgstr "Test-E-Mail senden"
+
+msgid "The last summary could not be handed over for %1$d of %2$d recipients (%3$s ago). Check your hosting mail settings or install an SMTP plugin."
+msgstr "Die letzte Zusammenfassung konnte für %1$d von %2$d Empfängern nicht übergeben werden (vor %3$s). Prüfe die Mail-Einstellungen deines Hosters oder installiere ein SMTP-Plugin."
+
+msgid "Targeted update alerts"
+msgstr "Gezielte Update-Hinweise"
+
+msgid "Pick exactly which plugins and themes you want to hear about, get security releases flagged in the email, and see a slice of the changelog next to each item."
+msgstr "Wähle genau aus, über welche Plugins und Themes du hören willst, lass Sicherheits-Releases in der E-Mail hervorheben und sieh neben jedem Eintrag einen Auszug aus dem Changelog."
+
+msgid "Instant & Slack update alerts"
+msgstr "Sofortige und Slack-Update-Hinweise"
+
+msgid "Send update alerts the moment they appear instead of waiting for the daily digest, push them to a Slack or Discord webhook, and set your own sender name and address."
+msgstr "Sende Update-Hinweise sofort statt erst mit der täglichen Zusammenfassung, schicke sie an einen Slack- oder Discord-Webhook und lege eigenen Absendernamen und -adresse fest."
+
+msgid "Pending"
+msgstr "Ausstehend"
+
+msgid "Once a day"
+msgstr "Einmal täglich"
+
+msgid "Once a week"
+msgstr "Einmal wöchentlich"
+
+msgid "Update available: %1$s %2$s on %3$s"
+msgstr "Update verfügbar: %1$s %2$s auf %3$s"
+
+msgid "%1$d updates available on %2$s"
+msgstr "%1$d Updates verfügbar auf %2$s"
+
+msgid "The following updates are available on %s:"
+msgstr "Die folgenden Updates sind auf %s verfügbar:"
+
+msgid "Security release"
+msgstr "Sicherheitsrelease"
+
+msgid "Review and install updates"
+msgstr "Updates prüfen und installieren"
+
+msgid "You are receiving this because you are an administrator of this site. You can change or switch off these notifications under Admin Booster → Update notifications."
+msgstr "Du erhältst das, weil du Administrator dieser Website bist. Diese Benachrichtigungen kannst du unter Admin Booster → Update-Benachrichtigungen ändern oder abschalten."
+
+msgid "You are not allowed to send test emails."
+msgstr "Du darfst keine Test-E-Mails senden."
+
+msgid "Your user account has no valid email address."
+msgstr "Dein Benutzerkonto hat keine gültige E-Mail-Adresse."
+
+msgid "This is a test email from Qaiyo Admin Booster. Update notifications are set up correctly — there are no pending updates right now."
+msgstr "Dies ist eine Test-E-Mail von Qaiyo Admin Booster. Die Update-Benachrichtigungen sind korrekt eingerichtet — derzeit stehen keine Updates aus."
+
+msgid "WordPress could not hand the email over to your mail system. Check your hosting mail settings, or install an SMTP plugin."
+msgstr "WordPress konnte die E-Mail nicht an dein Mailsystem übergeben. Prüfe die Mail-Einstellungen deines Hosters oder installiere ein SMTP-Plugin."
+
+msgid "Test email sent to %s. If it does not arrive, check your spam folder — mail handed over successfully can still be filtered."
+msgstr "Test-E-Mail an %s gesendet. Kommt sie nicht an, sieh im Spam-Ordner nach — auch erfolgreich übergebene Mails können gefiltert werden."
+
+msgid "Separate table for pending updates"
+msgstr "Ausstehende Updates in eigener Tabelle"
+
+msgid "On the Plugins screen, list plugins with an available update in their own table at the top, and every other plugin in a separate table below it."
+msgstr "Listet auf dem Plugins-Bildschirm Plugins mit verfügbarem Update in einer eigenen Tabelle oben auf und alle übrigen in einer separaten Tabelle darunter."
+
+msgid "All plugins"
+msgstr "Alle Plugins"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Update level"
+msgstr "Ebene aktualisieren"
+
+msgid "This content is already at that place in the menu."
+msgstr "Dieser Inhalt steht bereits an dieser Stelle im Menü."
+
+msgid "Moved under the chosen menu item."
+msgstr "Unter den gewählten Menüpunkt verschoben."
+
+msgid "Moved to the top level of the menu."
+msgstr "Auf die oberste Ebene des Menüs verschoben."
+
+msgid "Menus"
+msgstr "Menüs"
+
+msgid "Save this content first, then you can add it to a menu."
+msgstr "Speichere diesen Inhalt zuerst, danach kannst du ihn zu einem Menü hinzufügen."
+
+msgid "submenu"
+msgstr "Untermenü"
+
+msgid "Add to menu"
+msgstr "Zum Menü hinzufügen"
+
+msgid "Level"
+msgstr "Ebene"
+
+msgid "— Top level —"
+msgstr "— Oberste Ebene —"
+
+msgid "This site has no navigation menus yet. Create the first one right here."
+msgstr "Diese Website hat noch keine Navigationsmenüs. Erstelle das erste gleich hier."
+
+msgid "+ Create a new menu"
+msgstr "+ Neues Menü erstellen"
+
+msgid "Menu name"
+msgstr "Menüname"
+
+msgid "Main menu"
+msgstr "Hauptmenü"
+
+msgid "Display location"
+msgstr "Anzeigeort"
+
+msgid "— Do not assign —"
+msgstr "— Nicht zuweisen —"
+
+msgid "Create menu and add"
+msgstr "Menü erstellen und hinzufügen"
+
+msgid "You are not allowed to edit menus on this site."
+msgstr "Du darfst die Menüs dieser Website nicht bearbeiten."
+
+msgid "This content type cannot be added to a menu."
+msgstr "Dieser Inhaltstyp kann keinem Menü hinzugefügt werden."
+
+msgid "Unknown action."
+msgstr "Unbekannte Aktion."
+
+msgid "Please enter a name for the menu."
+msgstr "Bitte gib einen Namen für das Menü ein."
+
+msgid "Menu created and this content added to it."
+msgstr "Menü erstellt und dieser Inhalt hinzugefügt."
+
+msgid "Please choose a menu."
+msgstr "Bitte wähle ein Menü."
+
+msgid "The chosen parent item is not available in that menu."
+msgstr "Das gewählte übergeordnete Element ist in diesem Menü nicht verfügbar."
+
+msgid "Added to the menu as a submenu item."
+msgstr "Als Untermenüpunkt zum Menü hinzugefügt."
+
+msgid "Added to the menu."
+msgstr "Zum Menü hinzugefügt."
+
+msgid "That menu item no longer exists."
+msgstr "Dieser Menüpunkt existiert nicht mehr."
+
+msgid "Removed from the menu."
+msgstr "Aus dem Menü entfernt."
+
+msgid "This content is already in that menu."
+msgstr "Dieser Inhalt ist bereits in diesem Menü."
+
+msgid "Something went wrong. Please try again."
+msgstr "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+
+msgid "Remove this item from the menu?"
+msgstr "Diesen Eintrag aus dem Menü entfernen?"
+
+msgid "Add to menu from the editor"
+msgstr "Aus dem Editor zum Menü hinzufügen"
+
+msgid "Put a page or post into a navigation menu straight from the editor sidebar."
+msgstr "Füge eine Seite oder einen Beitrag direkt aus der Editor-Seitenleiste zu einem Navigationsmenü hinzu."
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the server limit cannot be changed from here."
+msgstr "Dateiänderungen sind auf dieser Website deaktiviert (DISALLOW_FILE_MODS), daher kann das Server-Limit hier nicht geändert werden."
+
+msgid "This server has per-directory PHP settings (.user.ini) switched off, so the limit can only be raised by your host."
+msgstr "Auf diesem Server sind verzeichnisweise PHP-Einstellungen (.user.ini) abgeschaltet, daher kann nur dein Hoster das Limit erhöhen."
+
+msgid "This server runs PHP as “%s”, which does not read per-directory settings, so the limit can only be raised by your host."
+msgstr "Dieser Server betreibt PHP als „%s”, das keine verzeichnisweisen Einstellungen liest, daher kann nur dein Hoster das Limit erhöhen."
+
+msgid "Admin Booster cannot write %s on this server, so the upload limit was not raised."
+msgstr "Admin Booster kann %s auf diesem Server nicht schreiben, daher wurde das Upload-Limit nicht erhöht."
+
+msgid "Could not remove the upload limit from the server file."
+msgstr "Das Upload-Limit konnte nicht aus der Serverdatei entfernt werden."
+
+msgid "0 = use the server limit. The server currently accepts files up to %s."
+msgstr "0 = Server-Limit verwenden. Der Server akzeptiert derzeit Dateien bis %s."
+
+msgid "Raise the server limit too"
+msgstr "Auch das Server-Limit erhöhen"
+
+msgid "Server limit raised: uploads up to %s are accepted now."
+msgstr "Server-Limit erhöht: Uploads bis %s werden jetzt akzeptiert."
+
+msgid "The %1$s limit has been written. PHP picks it up within %2$s — reload this page to check."
+msgstr "Das Limit von %1$s wurde geschrieben. PHP übernimmt es innerhalb von %2$s — lade die Seite neu, um es zu prüfen."
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. Switch on “Raise the server limit too” and save."
+msgstr "Du hast %1$s eingestellt, der Server akzeptiert aber nur %2$s, daher gilt %2$s. Aktiviere „Auch das Server-Limit erhöhen” und speichere."
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. %3$s"
+msgstr "Du hast %1$s eingestellt, der Server akzeptiert aber nur %2$s, daher gilt %2$s. %3$s"
+
+msgid "Only a network administrator can change the server limit."
+msgstr "Nur ein Netzwerk-Administrator kann das Server-Limit ändern."
+
+msgid "Your host has locked the upload limit for this site (php_admin_value), so no file inside WordPress can change it — only the host can raise it."
+msgstr "Dein Hoster hat das Upload-Limit dieser Website gesperrt (php_admin_value), daher kann keine Datei im WordPress-Ordner es ändern — nur der Hoster kann es erhöhen."
+
+msgid "No cPanel or FTP needed. PHP cannot change this limit while WordPress is running (not even from wp-config.php), so Admin Booster writes it into %s, which your server reads before each request. It can take a few minutes to apply. Switching this off removes the lines again."
+msgstr "Kein cPanel oder FTP nötig. PHP kann dieses Limit nicht ändern, während WordPress läuft (auch nicht über wp-config.php). Deshalb schreibt Admin Booster es in %s, das dein Server vor jeder Anfrage liest. Es kann einige Minuten dauern. Beim Abschalten werden die Zeilen wieder entfernt."
+
+msgid "The %1$s limit was written, but the server still applies only %2$s. This host does not read these settings from the WordPress folder. The details below show exactly how PHP runs here — if you contact your host, send them this list."
+msgstr "Das Limit von %1$s wurde geschrieben, aber der Server wendet weiterhin nur %2$s an. Dieser Hoster liest diese Einstellungen nicht aus dem WordPress-Ordner. Die Angaben unten zeigen genau, wie PHP hier läuft — schick diese Liste deinem Hoster, falls du ihn kontaktierst."
+
+msgid "Server details"
+msgstr "Server-Details"
+
+msgid "Safe Mode"
+msgstr "Abgesicherter Modus"
+
+msgid "Safe Mode link"
+msgstr "Link zum abgesicherten Modus"
+
+msgid "A secret link, saved in advance, that gets you back into wp-admin when a plugin or theme update breaks the site."
+msgstr "Ein vorab gespeicherter geheimer Link, mit dem du wieder in wp-admin kommst, wenn ein Plugin- oder Theme-Update die Website lahmlegt."
+
+msgid "Safe Mode — emergency access"
+msgstr "Abgesicherter Modus — Notfallzugang"
+
+msgid "When a plugin or theme update breaks the site, WordPress only emails a one-time recovery link — once a day, and never on multisite. If that email is lost, you are locked out. Safe Mode gives you a link you save now, before anything goes wrong."
+msgstr "Wenn ein Plugin- oder Theme-Update die Website lahmlegt, schickt WordPress nur einen einmaligen Wiederherstellungslink per E-Mail — einmal pro Tag und auf Multisite nie. Geht diese E-Mail verloren, bist du ausgesperrt. Der abgesicherte Modus gibt dir einen Link, den du jetzt speicherst, bevor etwas schiefgeht."
+
+msgid "Only a network administrator can manage Safe Mode."
+msgstr "Nur ein Netzwerk-Administrator kann den abgesicherten Modus verwalten."
+
+msgid "Safe Mode is off. Turn on “Safe Mode link” on the Modules tab and save to get your link."
+msgstr "Der abgesicherte Modus ist aus. Aktiviere „Link zum abgesicherten Modus” im Tab Module und speichere, um deinen Link zu erhalten."
+
+msgid "The Safe Mode file could not be installed."
+msgstr "Die Datei des abgesicherten Modus konnte nicht installiert werden."
+
+msgid "Copied"
+msgstr "Kopiert"
+
+msgid "Copy"
+msgstr "Kopieren"
+
+msgid "When the site is broken"
+msgstr "Wenn die Website kaputt ist"
+
+msgid "Go to Plugins and deactivate the plugin that was just updated (or switch themes under Appearance)."
+msgstr "Gehe zu Plugins und deaktiviere das gerade aktualisierte Plugin (oder wechsle das Theme unter Design)."
+
+msgid "Create a new link"
+msgstr "Neuen Link erstellen"
+
+msgid "When"
+msgstr "Wann"
+
+msgid "IP address"
+msgstr "IP-Adresse"
+
+msgid "Browser"
+msgstr "Browser"
+
+msgid "Could not remove the Safe Mode file from the mu-plugins folder."
+msgstr "Die Datei des abgesicherten Modus konnte nicht aus dem Ordner mu-plugins entfernt werden."
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the Safe Mode file cannot be installed."
+msgstr "Dateiänderungen sind auf dieser Website deaktiviert (DISALLOW_FILE_MODS), daher kann die Datei des abgesicherten Modus nicht installiert werden."
+
+msgid "Admin Booster cannot write to %s on this server, so Safe Mode could not be installed."
+msgstr "Admin Booster kann auf diesem Server nicht in %s schreiben, daher konnte der abgesicherte Modus nicht installiert werden."
+
+msgid "You are not allowed to do that."
+msgstr "Dazu hast du keine Berechtigung."
+
+msgid "Safe Mode is on — no plugins are running for you, and a default theme stands in for yours."
+msgstr "Der abgesicherte Modus ist an — für dich läuft kein Plugin, und ein Standard-Theme ersetzt deins."
+
+msgid "Go to Plugins"
+msgstr "Zu den Plugins"
+
+msgid "Exit Safe Mode"
+msgstr "Abgesicherten Modus verlassen"
+
+msgid "Your Safe Mode link"
+msgstr "Dein Link zum abgesicherten Modus"
+
+msgid "Save this link now — it is shown only this once."
+msgstr "Speichere diesen Link jetzt — er wird nur dieses eine Mal angezeigt."
+
+msgid "For security, only a fingerprint of the key is stored, so the link cannot be displayed again. If you lose it, create a new one."
+msgstr "Aus Sicherheitsgründen wird nur ein Fingerabdruck des Schlüssels gespeichert, daher kann der Link nicht erneut angezeigt werden. Wenn du ihn verlierst, erstelle einen neuen."
+
+msgid "Put it in your password manager, next to this site’s login. It is useless if you only look for it after the site is down."
+msgstr "Lege ihn in deinen Passwort-Manager, neben die Zugangsdaten dieser Website. Er nützt nichts, wenn du ihn erst suchst, nachdem die Website ausgefallen ist."
+
+msgid "A link is active — created on %1$s by %2$s. It cannot be shown again; if nobody saved it, create a new one."
+msgstr "Ein Link ist aktiv — erstellt am %1$s von %2$s. Er kann nicht erneut angezeigt werden; falls ihn niemand gespeichert hat, erstelle einen neuen."
+
+msgid "There is no active link — Safe Mode cannot be entered. Create one and save it."
+msgstr "Es gibt keinen aktiven Link — der abgesicherte Modus ist nicht erreichbar. Erstelle einen und speichere ihn."
+
+msgid "The current link and any open Safe Mode session stop working immediately."
+msgstr "Der aktuelle Link und alle offenen Sitzungen im abgesicherten Modus funktionieren sofort nicht mehr."
+
+msgid "Your wp-config.php has no unique SECURE_AUTH_KEY / SECURE_AUTH_SALT, so the key fingerprint is protected by keys stored in the database. Add unique keys to wp-config.php (api.wordpress.org/secret-key/1.1/salt) for full protection, then create a new link."
+msgstr "Deine wp-config.php hat keine eindeutigen SECURE_AUTH_KEY / SECURE_AUTH_SALT, daher schützen in der Datenbank gespeicherte Schlüssel den Fingerabdruck. Für vollen Schutz füge eindeutige Schlüssel in wp-config.php ein (api.wordpress.org/secret-key/1.1/salt) und erstelle dann einen neuen Link."
+
+msgid "Open the saved link — it works even when the site only shows “There has been a critical error”."
+msgstr "Öffne den gespeicherten Link — er funktioniert auch, wenn die Website nur „Es gab einen kritischen Fehler” anzeigt."
+
+msgid "Log in with an administrator account. A password is required even if you were already logged in."
+msgstr "Melde dich mit einem Administratorkonto an. Ein Passwort ist nötig, auch wenn du schon angemeldet warst."
+
+msgid "Click “Exit Safe Mode” in the red bar. Once the admin loads normally again, the used link is retired and you are asked to create a new one."
+msgstr "Klicke in der roten Leiste auf „Abgesicherten Modus verlassen”. Sobald das Admin wieder normal lädt, wird der benutzte Link zurückgezogen und du wirst gebeten, einen neuen zu erstellen."
+
+msgid "How the link is protected"
+msgstr "So ist der Link geschützt"
+
+msgid "The key sits after the # in the link, which browsers never send to the server — it cannot end up in server, CDN or proxy logs."
+msgstr "Der Schlüssel steht nach dem # im Link, den Browser nie an den Server senden — er kann nicht in Server-, CDN- oder Proxy-Logs landen."
+
+msgid "Only a fingerprint is stored, keyed with your wp-config.php security keys: a leaked or stolen database does not reveal the link."
+msgstr "Gespeichert wird nur ein Fingerabdruck, verschlüsselt mit den Sicherheitsschlüsseln deiner wp-config.php: Eine geleakte oder gestohlene Datenbank verrät den Link nicht."
+
+msgid "The link alone is not enough: only administrators can log in, with their password, and a built-in limit locks logins for 15 minutes after 5 failures."
+msgstr "Der Link allein reicht nicht: Nur Administratoren können sich mit ihrem Passwort anmelden, und eine eingebaute Sperre blockiert Anmeldungen nach 5 Fehlversuchen für 15 Minuten."
+
+msgid "Safe Mode is a recovery console only: Dashboard, Plugins and Themes. Installing or uploading plugins and themes, editing files, and adding or changing users are all blocked."
+msgstr "Der abgesicherte Modus ist nur eine Wiederherstellungskonsole: Dashboard, Plugins und Themes. Plugins und Themes installieren oder hochladen, Dateien bearbeiten sowie Benutzer anlegen oder ändern sind gesperrt."
+
+msgid "Every use emails all administrators, is logged with IP address and browser, and retires the link once the site works again."
+msgstr "Jede Nutzung wird per E-Mail an alle Administratoren gemeldet, mit IP-Adresse und Browser protokolliert und zieht den Link zurück, sobald die Website wieder funktioniert."
+
+msgid "On an HTTPS site the key is only accepted over HTTPS; the session is tied to the browser and ends after one hour. Visitors always see the normal site."
+msgstr "Auf einer HTTPS-Website wird der Schlüssel nur über HTTPS angenommen; die Sitzung ist an den Browser gebunden und endet nach einer Stunde. Besucher sehen immer die normale Website."
+
+msgid "Only allow from these IP addresses (optional)"
+msgstr "Nur von diesen IP-Adressen erlauben (optional)"
+
+msgid "One IP address or range per line (e.g. 203.0.113.7 or 203.0.113.0/24). Leave empty to allow any address. Only use this with a fixed office or VPN address — otherwise you can lock yourself out. Your current address: %s"
+msgstr "Eine IP-Adresse oder ein Bereich pro Zeile (z. B. 203.0.113.7 oder 203.0.113.0/24). Leer lassen, um jede Adresse zu erlauben. Nur mit fester Büro- oder VPN-Adresse verwenden — sonst kannst du dich aussperren. Deine aktuelle Adresse: %s"
+
+msgid "Not saved — these entries are not valid IP addresses or ranges: %s"
+msgstr "Nicht gespeichert — diese Einträge sind keine gültigen IP-Adressen oder Bereiche: %s"
+
+msgid "IP restriction saved."
+msgstr "IP-Beschränkung gespeichert."
+
+msgid "Save IP restriction"
+msgstr "IP-Beschränkung speichern"
+
+msgid "Safe Mode log"
+msgstr "Protokoll des abgesicherten Modus"
+
+msgid "Entered Safe Mode"
+msgstr "Abgesicherten Modus betreten"
+
+msgid "Wrong key"
+msgstr "Falscher Schlüssel"
+
+msgid "Blocked address"
+msgstr "Gesperrte Adresse"
+
+msgid "Logged in"
+msgstr "Angemeldet"
+
+msgid "Failed login"
+msgstr "Fehlgeschlagene Anmeldung"
+
+msgid "Logins locked"
+msgstr "Anmeldungen gesperrt"
+
+msgid "Non-administrator refused"
+msgstr "Nicht-Administrator abgewiesen"
+
+msgid "Nothing logged yet."
+msgstr "Noch nichts protokolliert."
+
+msgid "Event"
+msgstr "Ereignis"
+
+msgid "User"
+msgstr "Benutzer"
+
+msgid "WordPress security keys are missing, so a Safe Mode link cannot be created safely."
+msgstr "Die WordPress-Sicherheitsschlüssel fehlen, daher kann kein Link zum abgesicherten Modus sicher erstellt werden."
+
+msgid "The Safe Mode link was used and has been retired."
+msgstr "Der Link zum abgesicherten Modus wurde benutzt und zurückgezogen."
+
+msgid "Used on %1$s from IP address %2$s."
+msgstr "Benutzt am %1$s von der IP-Adresse %2$s."
+
+msgid "If this was not you or a colleague: change every administrator password now and check the Safe Mode log. Either way, create a new Safe Mode link and save it."
+msgstr "Falls das nicht du oder ein Kollege warst: Ändere sofort alle Administrator-Passwörter und prüfe das Protokoll. Erstelle in jedem Fall einen neuen Link und speichere ihn."
+
+msgid "Dismiss"
+msgstr "Ausblenden"
+
+msgid "This Safe Mode key is not valid."
+msgstr "Dieser Schlüssel für den abgesicherten Modus ist ungültig."
+
+msgid "Checking your Safe Mode key…"
+msgstr "Schlüssel für den abgesicherten Modus wird geprüft…"
+
+msgid "Paste the key from your saved Safe Mode link (the part after #)."
+msgstr "Füge den Schlüssel aus deinem gespeicherten Link ein (den Teil nach dem #)."
+
+msgid "Enter Safe Mode"
+msgstr "Abgesicherten Modus betreten"
+
+msgid "Too many failed logins in Safe Mode. Try again in 15 minutes."
+msgstr "Zu viele fehlgeschlagene Anmeldungen im abgesicherten Modus. Versuche es in 15 Minuten erneut."
+
+msgid "Only administrators can log in while Safe Mode is on."
+msgstr "Im abgesicherten Modus können sich nur Administratoren anmelden."
+
+msgid "Only administrators can use Safe Mode."
+msgstr "Nur Administratoren können den abgesicherten Modus nutzen."
+
+msgid "Someone entered Safe Mode with the Safe Mode link."
+msgstr "Jemand hat den abgesicherten Modus mit dem Link betreten."
+
+msgid "An administrator logged in while Safe Mode was on."
+msgstr "Ein Administrator hat sich im abgesicherten Modus angemeldet."
+
+msgid "Safe Mode logins were locked after 5 failed attempts."
+msgstr "Anmeldungen im abgesicherten Modus wurden nach 5 Fehlversuchen gesperrt."
+
+msgid "%1$s — %2$s IP: %3$s, user: %4$s"
+msgstr "%1$s — %2$s IP: %3$s, Benutzer: %4$s"
+
+msgid "If this was you or a colleague fixing the site, no action is needed: the link is retired automatically once the site works again, and you will be asked to create a new one."
+msgstr "Wenn du oder ein Kollege die Website repariert habt, ist nichts zu tun: Der Link wird automatisch zurückgezogen, sobald die Website wieder funktioniert, und du wirst gebeten, einen neuen zu erstellen."
+
+msgid "If you do not recognise this: log in, create a new Safe Mode link (the used one stops working at once), change every administrator password, and review the Safe Mode log under Admin Booster → Safe Mode."
+msgstr "Falls du das nicht kennst: Melde dich an, erstelle einen neuen Link (der benutzte funktioniert sofort nicht mehr), ändere alle Administrator-Passwörter und prüfe das Protokoll unter Admin Booster → Abgesicherter Modus."
+
+msgid "[%s] Safe Mode was used"
+msgstr "[%s] Der abgesicherte Modus wurde benutzt"
+
+msgid "Only the Dashboard, Plugins and Themes screens are available, and installing, uploading, editing files and managing users are blocked. Deactivate the plugin (or switch away from the theme) that broke the site, then exit Safe Mode to check."
+msgstr "Nur Dashboard, Plugins und Themes sind verfügbar; Installieren, Hochladen, Dateien bearbeiten und Benutzerverwaltung sind gesperrt. Deaktiviere das Plugin (oder wechsle das Theme), das die Website lahmgelegt hat, und verlasse dann den abgesicherten Modus, um zu prüfen."
+
+msgid "Safe Mode is on: plugins are switched off for you until you exit Safe Mode. Only administrators can log in."
+msgstr "Der abgesicherte Modus ist an: Plugins sind für dich abgeschaltet, bis du ihn verlässt. Nur Administratoren können sich anmelden."
+
+msgid "Update crash protection"
+msgstr "Absturzschutz bei Updates"
+
+msgid "If a plugin or theme update crashes the site, automatically restore the previous version — no matter what triggered the update."
+msgstr "Wenn ein Plugin- oder Theme-Update die Website zum Absturz bringt, wird automatisch die vorherige Version wiederhergestellt — egal, wodurch das Update ausgelöst wurde."
+
+msgid "WordPress backs up the previous version before every plugin or theme update, but only checks whether the site still works — and restores that backup if not — for updates it runs itself in the background. A manual click, WP-CLI, or a remote manager like ManageWP or MainWP skips that check. This module runs the same check after every update, whoever triggered it, and restores the backup automatically if the site crashed."
+msgstr "WordPress sichert vor jedem Plugin- oder Theme-Update die vorherige Version, prüft aber nur bei selbst im Hintergrund ausgeführten Updates, ob die Website danach noch läuft — und stellt die Sicherung sonst wieder her. Ein manueller Klick, WP-CLI oder ein Fernverwaltungsdienst wie ManageWP oder MainWP überspringt diese Prüfung. Dieses Modul führt dieselbe Prüfung nach jedem Update durch, egal wer es ausgelöst hat, und stellt die Sicherung automatisch wieder her, wenn die Website abgestürzt ist."
+
+msgid "Off. Turn on “Update crash protection” on the Modules tab to enable it."
+msgstr "Aus. Aktiviere „Absturzschutz bei Updates” im Tab Module."
+
+msgid "On. No update has needed to be rolled back so far."
+msgstr "Aktiv. Bisher musste kein Update zurückgesetzt werden."
+
+msgid "Protection could not work during the last update (%s): this server cannot load its own pages (loopback requests are blocked), so there is no way to tell whether an update broke the site. Ask your host to allow the site to reach itself; Site Health will show the same problem. This warning disappears after the next update that can be checked."
+msgstr "Der Schutz konnte beim letzten Update (%s) nicht arbeiten: Dieser Server kann seine eigenen Seiten nicht laden (Loopback-Anfragen sind blockiert), daher lässt sich nicht erkennen, ob ein Update die Website beschädigt hat. Bitte deinen Hoster, der Website den Zugriff auf sich selbst zu erlauben; der Website-Zustand zeigt dasselbe Problem. Diese Warnung verschwindet nach dem nächsten Update, das geprüft werden kann."
+
+msgid "Interventions"
+msgstr "Eingriffe"
+
+msgid "Affected"
+msgstr "Betroffen"
+
+msgid "Result"
+msgstr "Ergebnis"
+
+msgid "Restored automatically"
+msgstr "Automatisch wiederhergestellt"
+
+msgid "Could not restore automatically"
+msgstr "Automatische Wiederherstellung fehlgeschlagen"
+
+msgid "[%s] An update was automatically rolled back"
+msgstr "[%s] Ein Update wurde automatisch zurückgesetzt"
+
+msgid "[%s] An update broke the site and could not be rolled back automatically"
+msgstr "[%s] Ein Update hat die Website beschädigt und konnte nicht automatisch zurückgesetzt werden"
+
+msgid "An update just made the site crash with a fatal error. Admin Booster detected it immediately and restored the previous version — the site is back up and no plugin was left disabled. Affected: %s"
+msgstr "Ein Update hat die Website gerade mit einem schwerwiegenden Fehler abstürzen lassen. Admin Booster hat das sofort erkannt und die vorherige Version wiederhergestellt — die Website läuft wieder, und kein Plugin wurde deaktiviert. Betroffen: %s"
+
+msgid "An update just made the site crash with a fatal error, and Admin Booster could not restore the previous version automatically. Affected: %s. Use the Admin Booster Safe Mode link to get back into wp-admin, or restore the affected files from wp-content/upgrade-temp-backup/ over FTP."
+msgstr "Ein Update hat die Website gerade mit einem schwerwiegenden Fehler abstürzen lassen, und Admin Booster konnte die vorherige Version nicht automatisch wiederherstellen. Betroffen: %s. Nutze den Link zum abgesicherten Modus von Admin Booster, um wieder in wp-admin zu gelangen, oder stelle die betroffenen Dateien per FTP aus wp-content/upgrade-temp-backup/ wieder her."
+
+msgid "Menu item visibility"
+msgstr "Sichtbarkeit des Menüelements"
+
+msgid "Show a menu item on mobile only or on desktop only — handy for a header button that needs to live in the mobile menu too."
+msgstr "Ein Menüelement nur auf Mobilgeräten oder nur auf dem Desktop anzeigen — praktisch, wenn ein Header-Button auch ins mobile Menü muss."
+
+msgid "Visibility"
+msgstr "Sichtbarkeit"
+
+msgid "Always"
+msgstr "Immer"
+
+msgid "Mobile only (%d px or narrower)"
+msgstr "Nur mobil (%d px oder schmaler)"
+
+msgid "Desktop only (wider than %d px)"
+msgstr "Nur Desktop (breiter als %d px)"
+
+msgid "Set per menu item on the Appearance → Menus screen. The breakpoint is fixed at 768px; %s for a custom value."
+msgstr "Pro Menüelement einstellbar unter Design → Menüs. Die Bruchgrenze ist fix bei 768px; %s für einen eigenen Wert."
+
+msgid "upgrade to Pro"
+msgstr "auf Pro upgraden"
+
+msgid "Custom menu visibility breakpoint"
+msgstr "Eigener Sichtbarkeits-Breakpoint für Menüs"
+
+msgid "Mobile-only and desktop-only menu items switch over at 768px. Set the breakpoint your theme actually uses instead, so a menu item appears exactly where the theme switches to its mobile menu."
+msgstr "Nur-mobil- und Nur-Desktop-Menüelemente wechseln bei 768px. Stelle stattdessen die Bruchgrenze ein, die dein Theme wirklich nutzt, damit ein Menüelement genau dort erscheint, wo das Theme auf sein mobiles Menü umschaltet."
+
+msgid "Turn each booster on or off. Everything is on by default, except the Safe Mode link."
+msgstr "Schalte jeden Booster ein oder aus. Alles ist standardmäßig an, außer dem Link zum abgesicherten Modus."

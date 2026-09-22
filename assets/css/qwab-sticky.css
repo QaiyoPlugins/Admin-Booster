@@ -1,0 +1,30 @@
+/**
+ * Qaiyo Admin Booster — Sticky list-table headers.
+ *
+ * A lista-táblázat fejléc-sora a képernyő tetejéhez tapad görgetéskor.
+ * A top érték az admin sáv magasságát követi (32px desktop, 46px mobil).
+ */
+
+.wp-list-table thead th,
+.wp-list-table thead td {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 32px;
+	z-index: 2;
+	background: #f6f7f7;
+	box-shadow: inset 0 -1px 0 #c3c4c7;
+}
+
+@media screen and ( max-width: 782px ) {
+
+	.wp-list-table thead th,
+	.wp-list-table thead td {
+		top: 46px;
+	}
+}
+
+/* Az admin sáv eltűnik, ha nincs bejelentkezve / fókusz nézet — ne lógjon. */
+.folded .wp-list-table thead th,
+.folded .wp-list-table thead td {
+	top: 32px;
+}

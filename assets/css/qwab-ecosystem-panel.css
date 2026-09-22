@@ -1,0 +1,116 @@
+/* Qaiyo ökoszisztéma panel — egységes megjelenés minden Qaiyo pluginban. */
+.qwab-ecop__intro {
+	margin: 0 0 16px;
+	color: #64748b;
+	max-width: 70ch;
+}
+
+.qwab-ecop__grid {
+	display: grid;
+	grid-template-columns: repeat( auto-fill, minmax( 260px, 1fr ) );
+	gap: 14px;
+}
+
+.qwab-ecop-card {
+	display: flex;
+	flex-direction: column;
+	padding: 16px 18px;
+	border: 1px solid #e2e8f0;
+	border-radius: 16px;
+	background: #fff;
+	box-shadow: 0 1px 2px rgba( 15, 23, 42, 0.04 );
+	transition: box-shadow 0.25s ease, border-color 0.2s ease;
+}
+
+.qwab-ecop-card:hover {
+	border-color: #6c5ce7;
+	box-shadow: 0 1px 3px rgba( 15, 23, 42, 0.06 ), 0 8px 24px rgba( 15, 23, 42, 0.06 );
+}
+
+/* Ghost: nincs telepítve → halványabb, szaggatott keret. */
+.qwab-ecop-card.is-ghost {
+	border-style: dashed;
+	background: #fbfaff;
+}
+
+.qwab-ecop-card.is-ghost .qwab-ecop-card__head .dashicons,
+.qwab-ecop-card.is-ghost .qwab-ecop-card__name {
+	opacity: 0.75;
+}
+
+.qwab-ecop-card__head {
+	display: flex;
+	align-items: center;
+	gap: 7px;
+	margin-bottom: 10px;
+	flex-wrap: wrap;
+}
+
+.qwab-ecop-card__head .dashicons {
+	color: #6c5ce7;
+	font-size: 18px;
+	width: 18px;
+	height: 18px;
+}
+
+.qwab-ecop-card__name {
+	font-weight: 600;
+	color: #0f172a;
+}
+
+.qwab-ecop-card__badge {
+	margin-left: auto;
+	padding: 1px 8px;
+	border-radius: 9px;
+	background: #edfaef;
+	color: #0a7c42;
+	font-size: 11px;
+	line-height: 1.7;
+}
+
+.qwab-ecop-card__body {
+	flex: 1 1 auto;
+	color: #50575e;
+}
+
+.qwab-ecop-card__body > *:first-child {
+	margin-top: 0;
+}
+
+.qwab-ecop-card__body > *:last-child {
+	margin-bottom: 0;
+}
+
+.qwab-ecop-card__foot {
+	margin: 12px 0 0;
+}
+
+.qwab-ecop-card__error {
+	margin: 0;
+	color: #b32d2e;
+}
+
+/* Pro-lakat: a valós free adat marad olvasható, a CTA hívja fel a figyelmet. */
+.qwab-ecop-card__pro {
+	display: inline-flex;
+	align-items: center;
+	gap: 5px;
+	padding: 5px 11px;
+	border-radius: 999px;
+	background: #f0e6fe;
+	color: #4a3cc0;
+	font-weight: 600;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.qwab-ecop-card__pro:hover {
+	background: #e2dcf7;
+	color: #4a3cc0;
+}
+
+.qwab-ecop-card__pro .dashicons {
+	font-size: 14px;
+	width: 14px;
+	height: 14px;
+}

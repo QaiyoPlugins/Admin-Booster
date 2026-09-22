@@ -1,0 +1,63 @@
+/* Qaiyo ökoszisztéma widget a Vezérlőpulton. */
+.qwab-eco {
+	display: grid;
+	gap: 14px;
+}
+
+.qwab-eco-card {
+	padding: 12px 14px;
+	border: 1px solid #e2e8f0;
+	border-radius: 10px;
+	background: #fff;
+}
+
+.qwab-eco-card__head {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+	margin-bottom: 8px;
+	flex-wrap: wrap;
+}
+
+.qwab-eco-card__head .dashicons {
+	color: #6c5ce7;
+	font-size: 18px;
+	width: 18px;
+	height: 18px;
+}
+
+.qwab-eco-card__title {
+	font-weight: 600;
+	color: #1d2327;
+}
+
+.qwab-eco-card__plugin {
+	margin-left: auto;
+	padding: 1px 7px;
+	border-radius: 9px;
+	background: #f0e6fe;
+	color: #4a3cc0;
+	font-size: 11px;
+	line-height: 1.7;
+}
+
+.qwab-eco-card__body {
+	color: #50575e;
+}
+
+.qwab-eco-card__body > *:first-child {
+	margin-top: 0;
+}
+
+.qwab-eco-card__body > *:last-child {
+	margin-bottom: 0;
+}
+
+.qwab-eco-card__foot {
+	margin: 8px 0 0;
+}
+
+.qwab-eco-card__error {
+	margin: 0;
+	color: #b32d2e;
+}

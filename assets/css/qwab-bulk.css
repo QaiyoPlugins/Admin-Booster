@@ -1,0 +1,84 @@
+/**
+ * Qaiyo Admin Booster — Bulk Create oldal.
+ * A qwab-admin.css kártya-/gomb-tokenjeire épül; csak az eltérőket adja.
+ */
+
+/* Az almenü-oldal háttere (a qwab-admin.css csak a top-level oldalt festi). */
+body.admin_page_qwab-bulk-create #wpcontent,
+body.admin_page_qwab-bulk-create #wpbody-content {
+	background: #f8f6ff;
+}
+
+/* Sor: típus / státusz / szülő egymás mellett. */
+.qwab-bulk-row {
+	display: grid;
+	grid-template-columns: repeat( 3, minmax( 0, 1fr ) );
+	gap: 18px;
+}
+
+@media ( max-width: 900px ) {
+	.qwab-bulk-row {
+		grid-template-columns: 1fr;
+	}
+}
+
+.qwab-bulk-row .qwab-field {
+	border-top: 0;
+	padding: 0;
+}
+
+.qwab-bulk-select,
+.qwab-wrap select.qwab-bulk-select {
+	width: 100%;
+	background: var( --qwab-input-bg );
+	border: 1px solid var( --qwab-border );
+	border-radius: 8px;
+	padding: 6px 10px;
+	min-height: 36px;
+	color: var( --qwab-text );
+}
+
+.qwab-wrap #qwab_bulk_parent {
+	width: 100%;
+	background: var( --qwab-input-bg );
+	border: 1px solid var( --qwab-border );
+	border-radius: 8px;
+	padding: 6px 10px;
+	min-height: 36px;
+}
+
+.qwab-bulk-select:focus,
+.qwab-wrap #qwab_bulk_parent:focus {
+	border-color: var( --qwab-accent );
+	box-shadow: 0 0 0 1px var( --qwab-accent );
+	outline: none;
+}
+
+.qwab-bulk-textarea,
+.qwab-wrap textarea.qwab-bulk-textarea {
+	width: 100%;
+	background: var( --qwab-input-bg );
+	border: 1px solid var( --qwab-border );
+	border-radius: 10px;
+	padding: 12px 14px;
+	font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+	font-size: 13px;
+	line-height: 1.6;
+	tab-size: 4;
+	-moz-tab-size: 4;
+	color: var( --qwab-text );
+	resize: vertical;
+}
+
+.qwab-bulk-textarea:focus {
+	border-color: var( --qwab-accent );
+	box-shadow: 0 0 0 1px var( --qwab-accent );
+	outline: none;
+}
+
+.qwab-bulk-counter {
+	margin: 8px 0 0;
+	font-size: 12px;
+	font-weight: 600;
+	color: var( --qwab-text-muted );
+}

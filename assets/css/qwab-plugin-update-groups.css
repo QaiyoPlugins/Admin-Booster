@@ -1,0 +1,79 @@
+/**
+ * Külön „Frissítések" táblázat a Bővítmények listaoldalon.
+ *
+ * A JS két külön <table> elemre bontja a listát; itt csak a szekció-címsorokat
+ * és a saját (tbody-ban élő) fejléc-sort stílusozzuk, plus visszaadjuk azt a
+ * néhány core-szabályt, ami `#the-list`-re van kötve, és így a második
+ * táblázat tbody-jára nem érvényesülne.
+ */
+
+.qwab-update-group-title {
+	margin: 22px 0 8px;
+	padding: 0;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 1.4;
+	color: #1d2327;
+	text-transform: uppercase;
+	letter-spacing: 0.04em;
+}
+
+.qwab-updates-table {
+	margin-bottom: 4px;
+}
+
+.qwab-update-group-empty {
+	display: none;
+}
+
+/* A fejléc-sor szándékosan a <tbody>-ban van (lásd a JS fejlécét: egy második
+   <thead> elrontaná a core updates.js colspan-számítását), ezért a <thead>
+   megjelenését itt kézzel adjuk vissza. */
+.qwab-updates-headrow th,
+.qwab-updates-headrow td {
+	border-bottom: 1px solid #c3c4c7;
+	font-weight: 400;
+	line-height: 1.4em;
+	vertical-align: middle;
+}
+
+.plugins .qwab-updates-headrow td.check-column {
+	padding: 8px 0 8px 6px;
+	vertical-align: middle;
+}
+
+.qwab-updates-headrow td.check-column input[type="checkbox"] {
+	margin-top: 0;
+}
+
+/* A core ezeket `#the-list`-re köti, az új tbody-nak viszont nincs ilyen
+   azonosítója (egy oldalon csak egy lehet). */
+.qwab-updates-tbody tr:last-child td,
+.qwab-updates-tbody tr:last-child th {
+	border-bottom: none !important;
+	box-shadow: none;
+}
+
+.plugins .qwab-updates-tbody .required-by,
+.plugins .qwab-updates-tbody .requires {
+	margin-top: 1em;
+}
+
+@media screen and ( max-width: 782px ) {
+
+	.plugins .qwab-updates-tbody tr > td:not(:last-child),
+	.plugins .qwab-updates-tbody .update th,
+	.plugins .qwab-updates-tbody .update td,
+	.wp-list-table.plugins .qwab-updates-tbody .theme-title {
+		box-shadow: none;
+		border-top: none;
+	}
+
+	.plugins .qwab-updates-tbody tr td {
+		border-top: none;
+	}
+
+	.plugins .qwab-updates-tbody .plugin-update-tr .plugin-update {
+		border-left: none;
+	}
+}

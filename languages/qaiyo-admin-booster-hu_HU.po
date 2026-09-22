@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Qaiyo Admin Booster\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1-click plugin upload"
+msgstr "1 kattintásos plugin feltöltés"
+
+msgid "Admin Booster"
+msgstr "Admin Booster"
+
+msgid "Allow SVG only for administrators, raise the upload limit for editors, or restrict risky file types per user role — granular control instead of one global rule."
+msgstr "SVG csak adminoknak, nagyobb feltöltési limit szerkesztőknek, vagy kockázatos típusok korlátozása szerepkörönként — finomhangolt szabályozás egyetlen globális szabály helyett."
+
+msgid "Auto-assign pages and posts to collections by URL pattern, page template, parent or regex — new content lands in the right collection automatically, no manual sorting."
+msgstr "Oldalak és bejegyzések automatikus kollekcióba sorolása URL-minta, oldalsablon, szülő vagy regex alapján — az új tartalom magától a megfelelő kollekcióba kerül, kézi rendezgetés nélkül."
+
+msgid "Automatically strip scripts and event handlers from SVG files on upload, so you can enable SVG safely even for non-admin users."
+msgstr "Feltöltéskor automatikusan eltávolítja a scripteket és eseménykezelőket az SVG fájlokból, így az SVG biztonságosan engedélyezhető nem-admin felhasználóknak is."
+
+msgid "Built-in collections (Main, Legal, WooCommerce) are detected automatically. Create your own below."
+msgstr "A beépített kollekciókat (Fő, Jogi, WooCommerce) a rendszer automatikusan felismeri. Sajátot lent hozhatsz létre."
+
+msgid "Bulk noindex & menu actions"
+msgstr "Tömeges noindex és menü műveletek"
+
+msgid "Collection name"
+msgstr "Kollekció neve"
+
+msgid "Collection"
+msgstr "Kollekció"
+
+msgid "Collections saved."
+msgstr "Kollekciók elmentve."
+
+msgid "Color"
+msgstr "Szín"
+
+msgid "Control upload size and which file types are allowed."
+msgstr "A feltöltési méret és az engedélyezett fájltípusok kezelése."
+
+msgid "Could not save collections. Please try again."
+msgstr "A kollekciókat nem sikerült menteni. Kérjük, próbáld újra."
+
+msgid "Disable editor fullscreen mode"
+msgstr "Szerkesztő teljes képernyős mód kikapcsolása"
+
+msgid "Fewer clicks to the things you do all day."
+msgstr "Kevesebb kattintás a napi rutinfeladatokhoz."
+
+msgid "File handling"
+msgstr "Fájlkezelés"
+
+msgid "Friendlier upload error messages"
+msgstr "Érthetőbb feltöltési hibaüzenetek"
+
+msgid "Clean up uploaded filenames"
+msgstr "Feltöltött fájlnevek megtisztítása"
+
+msgid "Convert spaces, accents and uppercase in uploaded filenames to URL-friendly slugs (e.g. “Árvíz Tükör.JPG” → “arviz-tukor.jpg”)."
+msgstr "A feltöltött fájlnevek szóközeit, ékezeteit és nagybetűit URL-barát alakra cseréli (pl. „Árvíz Tükör.JPG” → „arviz-tukor.jpg”)."
+
+msgid "Group pages and posts into visual collections."
+msgstr "Oldalak és bejegyzések vizuális kollekciókba rendezése."
+
+msgid "Gutenberg UX fixes"
+msgstr "Gutenberg UX javítások"
+
+msgid "Homepage"
+msgstr "Főoldal"
+
+msgid "Icon"
+msgstr "Ikon"
+
+msgid "In menu"
+msgstr "Menüben"
+
+msgid "Insufficient permissions."
+msgstr "Nincs megfelelő jogosultság."
+
+msgid "Keep the block inserter open and the editor out of fullscreen."
+msgstr "Tartsd nyitva a blokkillesztőt, és a szerkesztőt teljes képernyőn kívül."
+
+msgid "Keep the wp-admin sidebar visible while editing."
+msgstr "A wp-admin oldalsáv maradjon látható szerkesztés közben."
+
+msgid "Larger list views"
+msgstr "Nagyobb listanézetek"
+
+msgid "Legal"
+msgstr "Jogi"
+
+msgid "Modern, well-compressed image format. Safe to enable."
+msgstr "Modern, jól tömörített képformátum. Biztonságosan engedélyezhető."
+
+msgid "Modules"
+msgstr "Modulok"
+
+msgid "Navigation & editor"
+msgstr "Navigáció és szerkesztő"
+
+msgid "New %s"
+msgstr "Új %s"
+
+msgid "New Page / Post / Product shortcuts in the admin bar."
+msgstr "Új oldal / bejegyzés / termék gyorslinkek az admin sávban."
+
+msgid "Next-gen image format (WordPress 6.5+ and supported servers)."
+msgstr "Új generációs képformátum (WordPress 6.5+ és támogatott szerverek)."
+
+msgid "Noindex"
+msgstr "Noindex"
+
+msgid "Not in any menu"
+msgstr "Egyetlen menüben sincs"
+
+msgid "Not in menu"
+msgstr "Nincs menüben"
+
+msgid "Open the block inserter by default"
+msgstr "Blokkillesztő alapból nyitva"
+
+msgid "Open the plugin upload screen straight from “Add Plugin”."
+msgstr "A plugin feltöltő felület közvetlenül a „Bővítmény hozzáadása” gombból nyílik."
+
+msgid "Orphan pages"
+msgstr "Árva oldalak"
+
+msgid "Orphan"
+msgstr "Árva"
+
+msgid "Page Collections"
+msgstr "Oldal-kollekciók"
+
+msgid "Page Filter"
+msgstr "Oldal-szűrő"
+
+msgid "Page status"
+msgstr "Oldal állapota"
+
+msgid "Per-role upload rules"
+msgstr "Szerepkör-alapú feltöltési szabályok"
+
+msgid "Pin the pages and posts you touch every day to the admin bar and dashboard for one-click access from anywhere in wp-admin."
+msgstr "Tűzd ki a naponta használt oldalakat és bejegyzéseket az admin sávra és a vezérlőpultra, hogy egy kattintással elérd őket bárhonnan a wp-adminban."
+
+msgid "Pinned pages & favorites"
+msgstr "Kitűzött oldalak és kedvencek"
+
+msgid "Qaiyo Plugins"
+msgstr "Qaiyo pluginok"
+
+msgid "Qaiyo Admin Booster settings"
+msgstr "Qaiyo Admin Booster beállítások"
+
+msgid "Qaiyo Admin Booster"
+msgstr "Qaiyo Admin Booster"
+
+msgid "Quick add menu"
+msgstr "Gyors hozzáadás menü"
+
+msgid "Remove this collection? Pages assigned to it will fall back to auto/none."
+msgstr "Törlöd ezt a kollekciót? A hozzárendelt oldalak visszaállnak automatikusra/nincsre."
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "Replace the cryptic “file type not permitted” message with a clear explanation and the list of allowed types."
+msgstr "A rejtélyes „a fájltípus nem engedélyezett” üzenet helyett érthető magyarázat és az engedélyezett típusok listája."
+
+msgid "SVG sanitization on upload"
+msgstr "SVG tisztítás feltöltéskor"
+
+msgid "Save any combination of Page Filter conditions (orphan + noindex + draft, etc.) as a named view and switch between them with one click."
+msgstr "Mentsd el az oldal-szűrő feltételeit (árva + noindex + piszkozat stb.) elnevezett nézetként, és válts köztük egy kattintással."
+
+msgid "Saved filter views"
+msgstr "Mentett szűrő-nézetek"
+
+msgid "See homepage, orphan, not-in-menu and noindex at a glance."
+msgstr "Lásd egy pillantással a főoldalt, az árva, a menün kívüli és a noindex oldalakat."
+
+msgid "Select multiple pages from the filtered view and toggle noindex, add them to a menu, or change status in one bulk action."
+msgstr "Jelölj ki több oldalt a szűrt nézetben, és kapcsold a noindexet, add menühöz, vagy módosítsd a státuszt egyetlen tömeges művelettel."
+
+msgid "Show a warning here when you allow executable / script extensions."
+msgstr "Figyelmeztetés megjelenítése itt, ha futtatható / script kiterjesztést engedélyezel."
+
+msgid "Show more items per page in admin list tables."
+msgstr "Több elem oldalanként az admin listanézetekben."
+
+msgid "Show plugin upload immediately"
+msgstr "Plugin feltöltő azonnali megjelenítése"
+
+msgid "Core update bridge"
+msgstr "Rendszerfrissítési híd"
+
+msgid "Step up to an intermediate WordPress version your server can still run."
+msgstr "Lépés egy köztes WordPress verzióra, amit a szervered még elbír."
+
+msgid "Stuck on an old WordPress because the newest release needs a newer PHP? Pick an intermediate version your server can actually run and step up to it — straight from wp-admin, no FTP or cPanel needed."
+msgstr "Beragadtál egy régi WordPressen, mert a legfrissebb kiadás újabb PHP-t igényel? Válassz egy köztes verziót, amit a szervered ténylegesen elbír, és lépj arra — egyenesen a vezérlőpultról, FTP vagy cPanel nélkül."
+
+msgid "Smart collection rules"
+msgstr "Okos kollekció-szabályok"
+
+msgid "The file type \".%1$s\" is not allowed on this site. Allowed types: %2$s. You can enable more types under Qaiyo Admin Booster → File handling."
+msgstr "A \".%1$s\" fájltípus nem engedélyezett ezen az oldalon. Engedélyezett típusok: %2$s. További típusokat a Qaiyo Admin Booster → Fájlkezelés alatt engedélyezhetsz."
+
+msgid "The left “+” block panel is open when the editor loads."
+msgstr "A bal oldali „+” blokk panel nyitva van a szerkesztő betöltésekor."
+
+msgid "Turn each booster on or off. Everything is on by default."
+msgstr "Kapcsold be vagy ki az egyes boostereket. Alapból minden bekapcsolva."
+
+msgid "Upload size, allowed file types and clearer errors."
+msgstr "Feltöltési méret, engedélyezett fájltípusok és érthetőbb hibák."
+
+msgid "Vector graphics. SVG can contain scripts — only enable if you trust who uploads. Pro adds automatic SVG sanitization."
+msgstr "Vektorgrafika. Az SVG scripteket tartalmazhat — csak akkor engedélyezd, ha megbízol abban, aki feltölt. A Pro automatikus SVG tisztítást ad."
+
+msgid "Warn about dangerous file types"
+msgstr "Figyelmeztetés veszélyes fájltípusoknál"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "noindex"
+msgstr "noindex"
+
+msgid "“Add Plugin” opens the upload tab directly — the browse tabs stay available on top."
+msgstr "A „Bővítmény hozzáadása” közvetlenül a feltöltő fület nyitja — a böngésző fülek fent elérhetők maradnak."
+
+msgid "Auto-detected"
+msgstr "Automatikusan felismerve"
+
+msgid "Qaiyo Admin Booster — Quick Add"
+msgstr "Qaiyo Admin Booster — Gyors hozzáadás"
+
+msgid "Auto-detected as: %s. Pick a collection above to override."
+msgstr "Automatikusan felismerve: %s. Felülbírláshoz válassz fent egy kollekciót."
+
+msgid "Qaiyo %1$s v%2$s — Made by Qaiyo by PixelDesigns"
+msgstr "Qaiyo %1$s v%2$s — Készítette: Qaiyo by PixelDesigns"
+
+msgid "Quick Add"
+msgstr "Gyors hozzáadás"
+
+msgid "Settings"
+msgstr "Beállítások"
+
+msgid "Unlock in Pro →"
+msgstr "Feloldás a Pro-ban →"
+
+msgid "Warning: you are allowing executable / script file types (%s). These can be used to run code on your server. Only keep them if you really need them."
+msgstr "Figyelem: futtatható / script fájltípusokat engedélyezel (%s). Ezekkel kód futtatható a szerveren. Csak akkor tartsd meg őket, ha tényleg szükséged van rájuk."
+
+msgid "auto"
+msgstr "auto"
+
+msgid "unknown"
+msgstr "ismeretlen"
+
+msgid "Add collection"
+msgstr "Kollekció hozzáadása"
+
+msgid "All collections"
+msgstr "Összes kollekció"
+
+msgid "Any page status"
+msgstr "Bármilyen oldal állapot"
+
+msgid "Apply collections to"
+msgstr "Kollekciók alkalmazása erre"
+
+msgid "Collection & status columns appear on the Pages and Posts list screens."
+msgstr "A Kollekció és állapot oszlopok az Oldalak és Bejegyzések listanézeteiben jelennek meg."
+
+msgid "Custom file types"
+msgstr "Egyedi fájltípusok"
+
+msgid "Default rows in admin list tables (only when you have not set your own Screen Option)."
+msgstr "Alapértelmezett sorok az admin listanézetekben (csak ha nem állítottál be saját Képernyő-opciót)."
+
+msgid "Enable extra image types"
+msgstr "További képtípusok engedélyezése"
+
+msgid "Filter by collection"
+msgstr "Szűrés kollekció szerint"
+
+msgid "Filter by page status"
+msgstr "Szűrés oldal állapot szerint"
+
+msgid "Fixes the annoying wp-admin UX/UI rough edges that cost you time every day."
+msgstr "Kijavítja a bosszantó wp-admin UX/UI hiányosságokat, amelyek napi szinten időt visznek el."
+
+msgid "Get Pro"
+msgstr "Pro beszerzése"
+
+msgid "Items per list page"
+msgstr "Elemek listaoldalanként"
+
+msgid "Max upload size (MB)"
+msgstr "Max. feltöltési méret (MB)"
+
+msgid "One per line, format: extension = mime/type. Example: ico = image/x-icon"
+msgstr "Soronként egy, formátum: kiterjesztés = mime/típus. Példa: ico = image/x-icon"
+
+msgid "Power-user upgrades available in the Pro add-on."
+msgstr "Profi felhasználói bővítések a Pro kiegészítőben."
+
+msgid "Pro features"
+msgstr "Pro funkciók"
+
+msgid "Qaiyo Admin Booster Pro"
+msgstr "Qaiyo Admin Booster Pro"
+
+msgid "Quick add shortcuts"
+msgstr "Gyors hozzáadás gyorslinkek"
+
+msgid "Save collections"
+msgstr "Kollekciók mentése"
+
+msgid "Save settings"
+msgstr "Beállítások mentése"
+
+msgid "The “Quick Add” menu lives in the top admin bar."
+msgstr "A „Gyors hozzáadás” menü a felső admin sávban található."
+
+msgid "These are saved separately and immediately — they do not require the main “Save settings” button."
+msgstr "Ezek külön és azonnal mentődnek — nem igénylik a fő „Beállítások mentése” gombot."
+
+msgid "Uncategorized"
+msgstr "Kategorizálatlan"
+
+msgid "Use the dropdowns above the list to filter by collection or page status."
+msgstr "A lista feletti legördülőkkel szűrhetsz kollekció vagy oldal állapot szerint."
+
+msgid "Where to find it"
+msgstr "Hol találod"
+
+msgid "Which content types appear in the admin bar “Quick Add” menu."
+msgstr "Mely tartalomtípusok jelenjenek meg az admin sáv „Gyors hozzáadás” menüjében."
+
+msgid "Your collections"
+msgstr "A te kollekcióid"
+
+msgid "— Auto / none —"
+msgstr "— Auto / nincs —"
+
+msgid "%d notices"
+msgstr "%d értesítés"
+
+msgid "1 notice"
+msgstr "1 értesítés"
+
+msgid "Admin notices"
+msgstr "Admin értesítések"
+
+msgid "WordPress Events and News"
+msgstr "WordPress események és hírek"
+
+msgid "Quick Draft"
+msgstr "Gyors vázlat"
+
+msgid "Activity"
+msgstr "Tevékenység"
+
+msgid "At a Glance"
+msgstr "Egy pillanat alatt"
+
+msgid "Site Health Status"
+msgstr "Webhely állapota"
+
+msgid "Welcome panel"
+msgstr "Üdvözlő panel"
+
+msgid "Duplicate"
+msgstr "Kettőzés"
+
+msgid "No item to duplicate."
+msgstr "Nincs duplikálandó elem."
+
+msgid "You are not allowed to duplicate this item."
+msgstr "Nincs jogosultságod ezt az elemet duplikálni."
+
+msgid "Could not duplicate this item."
+msgstr "Az elemet nem sikerült duplikálni."
+
+msgid "Publishing in %s"
+msgstr "Közzététel %s múlva"
+
+msgid "Last edited"
+msgstr "Utoljára szerkesztve"
+
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+msgid "%s ago"
+msgstr "%s ezelőtt"
+
+msgid "Switch to draft"
+msgstr "Visszaállítás piszkozatba"
+
+msgid "Publish now"
+msgstr "Közzététel most"
+
+msgid "Invalid request."
+msgstr "Érvénytelen kérés."
+
+msgid "You are not allowed to edit this item."
+msgstr "Nincs jogosultságod szerkeszteni ezt az elemet."
+
+msgid "You are not allowed to publish this item."
+msgstr "Nincs jogosultságod közzétenni ezt az elemet."
+
+msgid "Tidy admin notices"
+msgstr "Admin értesítések rendezése"
+
+msgid "Collapse stacked admin notices into a small counter tray."
+msgstr "A halmozódó admin értesítéseket egy kis számlálós tálcába csukja."
+
+msgid "Dashboard cleanup"
+msgstr "Vezérlőpult takarítás"
+
+msgid "Hide the dashboard widgets you never use."
+msgstr "A soha nem használt vezérlőpult widgetek elrejtése."
+
+msgid "Duplicate content"
+msgstr "Tartalom duplikálása"
+
+msgid "One-click “Duplicate” as a draft from the list view."
+msgstr "Egy kattintásos „Kettőzés” piszkozatként a listanézetből."
+
+msgid "Scheduled countdown"
+msgstr "Ütemezés visszaszámláló"
+
+msgid "Show “Publishing in 3 days” on scheduled posts."
+msgstr "„Közzététel 3 nap múlva” mutatása az ütemezett posztokon."
+
+msgid "Sticky table headers"
+msgstr "Tapadó táblázat-fejlécek"
+
+msgid "Keep list-table column headers visible while scrolling."
+msgstr "A lista-táblázat oszlopfejlécei görgetés közben is láthatók maradnak."
+
+msgid "Last edited column"
+msgstr "Utolsó szerkesztő oszlop"
+
+msgid "Who last edited each item and how long ago."
+msgstr "Ki és mennyivel ezelőtt szerkesztette utoljára az elemet."
+
+msgid "Quick status switch"
+msgstr "Gyors státuszváltás"
+
+msgid "Publish or unpublish from the list without opening the editor."
+msgstr "Közzététel vagy visszavonás a listából, a szerkesztő megnyitása nélkül."
+
+msgid "Hide the default dashboard widgets you do not use. Requires the “Dashboard cleanup” module."
+msgstr "A nem használt alapértelmezett vezérlőpult widgetek elrejtése. A „Vezérlőpult takarítás” modul szükséges hozzá."
+
+msgid "Hide these widgets"
+msgstr "Ezek a widgetek elrejtése"
+
+msgid "Enable all"
+msgstr "Összes bekapcsolása"
+
+msgid "Disable all"
+msgstr "Összes kikapcsolása"
+
+msgid "Go Pro"
+msgstr "Válts Pro-ra"
+
+msgid "%d power-user upgrades — see them below."
+msgstr "%d profi bővítés — lentebb megnézheted."
+
+msgid "Admin menu editor"
+msgstr "Admin menü szerkesztő"
+
+msgid "Rename, reorder and hide wp-admin menu items per user role — give editors and clients a clean, focused admin without touching code."
+msgstr "A wp-admin menüpontok átnevezése, átrendezése és elrejtése szerepkörönként — tiszta, fókuszált admin a szerkesztőknek és ügyfeleknek, kódolás nélkül."
+
+msgid "Inline list-table editing"
+msgstr "Beágyazott listanézet-szerkesztés"
+
+msgid "Edit titles, statuses, collections and custom fields straight in the list table — spreadsheet-style, without opening each item."
+msgstr "Címek, állapotok, kollekciók és egyedi mezők szerkesztése egyenesen a listanézetben — táblázatkezelő-stílusban, az elemek megnyitása nélkül."
+
+msgid "Login screen customizer"
+msgstr "Bejelentkező képernyő testreszabó"
+
+msgid "Replace the WordPress logo, background and colors on the login screen with your own brand, plus custom CSS — no extra plugin needed."
+msgstr "A WordPress logó, háttér és színek lecserélése a bejelentkező képernyőn a saját márkádra, egyedi CSS-sel — külön plugin nélkül."
+
+msgid "Activity log"
+msgstr "Tevékenység napló"
+
+msgid "A clear audit trail of who changed what and when — posts, settings, users and uploads — so nothing happens on your site unnoticed."
+msgstr "Áttekinthető napló arról, ki mit és mikor változtatott — bejegyzések, beállítások, felhasználók és feltöltések —, hogy semmi se történjen észrevétlenül az oldaladon."
+
+msgid "Admin dark mode"
+msgstr "Admin sötét mód"
+
+msgid "A polished dark theme for the whole wp-admin, with a one-click toggle in the admin bar and a per-user preference."
+msgstr "Kidolgozott sötét téma az egész wp-adminhoz, egy kattintásos kapcsolóval az admin sávban és felhasználónkénti beállítással."
+
+msgid "Revision cleaner"
+msgstr "Változat-takarító"
+
+msgid "Limit how many revisions each post keeps and bulk-delete old ones to shrink a bloated database and speed up your admin."
+msgstr "Korlátozd, hány változatot tartson meg minden bejegyzés, és töröld tömegesen a régieket — kisebb adatbázis, gyorsabb admin."
+
+msgid "Explore Qaiyo Plugins"
+msgstr "Qaiyo bővítmények felfedezése"
+
+msgid "Explore Qaiyo"
+msgstr "Qaiyo felfedezése"
+
+msgid "Plugins"
+msgstr "Bővítmények"
+
+msgid "The complete Qaiyo plugin family — all built to the same quality standard."
+msgstr "A teljes Qaiyo bővítmény-család — mind ugyanazzal a minőségi mércével készült."
+
+msgid "Refresh list"
+msgstr "Lista frissítése"
+
+msgid "Data from"
+msgstr "Adatok forrása:"
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Installed"
+msgstr "Telepítve"
+
+msgid "Free Download"
+msgstr "Ingyenes letöltés"
+
+msgid "Go Pro →"
+msgstr "Válts Pro-ra →"
+
+msgid "All Qaiyo plugins are built by"
+msgstr "Minden Qaiyo bővítményt készít:"
+
+msgid "Need help? Contact us at"
+msgstr "Segítségre van szükséged? Írj nekünk:"
+
+msgid "version %1$s is available (you have %2$s)."
+msgstr "%1$s verzió elérhető (neked %2$s van)."
+
+msgid "View release →"
+msgstr "Kiadás megtekintése →"
+
+msgid "An error occurred."
+msgstr "Hiba történt."
+
+msgid "Bulk Create"
+msgstr "Tömeges létrehozás"
+
+msgid "Bulk create"
+msgstr "Tömeges létrehozás"
+
+msgid "Create many pages or posts at once from a list of titles."
+msgstr "Sok oldal vagy bejegyzés létrehozása egyszerre egy címlistából."
+
+msgid "Create many pages or posts at once — one title per line. Indent with a Tab (or 2 spaces) to nest child pages."
+msgstr "Hozz létre sok oldalt vagy bejegyzést egyszerre — soronként egy cím. Behúzással (Tab vagy 2 szóköz) aloldalakat ágyazhatsz be."
+
+msgid "You do not have permission to create any content types."
+msgstr "Nincs jogosultságod semmilyen tartalomtípus létrehozására."
+
+msgid "What to create"
+msgstr "Mit hozzunk létre"
+
+msgid "Content type"
+msgstr "Tartalomtípus"
+
+msgid "Status"
+msgstr "Állapot"
+
+msgid "Draft"
+msgstr "Piszkozat"
+
+msgid "Published"
+msgstr "Közzétéve"
+
+msgid "Pending review"
+msgstr "Jóváhagyásra vár"
+
+msgid "Private"
+msgstr "Privát"
+
+msgid "Parent page"
+msgstr "Szülő oldal"
+
+msgid "Top-level parent for the whole batch. Only applies to hierarchical types (e.g. Pages)."
+msgstr "A teljes köteg felső szintű szülője. Csak hierarchikus típusoknál (pl. Oldalak) érvényes."
+
+msgid "— None (top level) —"
+msgstr "— Nincs (felső szint) —"
+
+msgid "Titles — one per line"
+msgstr "Címek — soronként egy"
+
+msgid "Up to %d items per batch. Indent a line with a Tab (or 2 spaces) to make it a child of the line above."
+msgstr "Kötegenként legfeljebb %d elem. Egy sort Tabbal (vagy 2 szóközzel) behúzva a fölötte lévő sor gyermeke lesz."
+
+msgid "Create items"
+msgstr "Elemek létrehozása"
+
+msgid "%d non-empty line(s) ready to create."
+msgstr "%d nem üres sor készen áll a létrehozásra."
+
+msgid "You are not allowed to create that content type."
+msgstr "Nincs jogosultságod létrehozni ezt a tartalomtípust."
+
+msgid "Unknown or unsupported content type."
+msgstr "Ismeretlen vagy nem támogatott tartalomtípus."
+
+msgid "%d item(s) created."
+msgstr "%d elem létrehozva."
+
+msgid "%d item(s) could not be created."
+msgstr "%d elemet nem sikerült létrehozni."
+
+msgid "View the list →"
+msgstr "Lista megtekintése →"
+
+msgid "No items were created. Add at least one non-empty title."
+msgstr "Nem jött létre elem. Adj meg legalább egy nem üres címet."
+
+msgid "Updates"
+msgstr "Frissítések"
+
+msgid "Update center widget"
+msgstr "Frissítés-központ widget"
+
+msgid "A dashboard widget to update plugins and themes in one place."
+msgstr "Vezérlőpult widget a pluginek és sablonok egy helyen történő frissítéséhez."
+
+msgid "Update all (%d)"
+msgstr "Összes frissítése (%d)"
+
+msgid "Update"
+msgstr "Frissítés"
+
+msgid "Updating…"
+msgstr "Frissítés…"
+
+msgid "Updated"
+msgstr "Frissítve"
+
+msgid "Update failed"
+msgstr "A frissítés sikertelen"
+
+msgid "Check again"
+msgstr "Keresés újra"
+
+msgid "Checking…"
+msgstr "Keresés…"
+
+msgid "Everything is up to date"
+msgstr "Minden naprakész"
+
+msgid "Theme"
+msgstr "Sablon"
+
+msgid "Details"
+msgstr "Részletek"
+
+msgid "Changelog for %s"
+msgstr "%s változásnaplója"
+
+msgid "You are not allowed to update plugins."
+msgstr "Nincs jogosultságod pluginek frissítésére."
+
+msgid "You are not allowed to update themes."
+msgstr "Nincs jogosultságod sablonok frissítésére."
+
+msgid "You are not allowed to check for updates."
+msgstr "Nincs jogosultságod frissítést keresni."
+
+msgid "No update is available for this plugin."
+msgstr "Ehhez a pluginhez nincs elérhető frissítés."
+
+msgid "No update is available for this theme."
+msgstr "Ehhez a sablonhoz nincs elérhető frissítés."
+
+msgid "Could not access the filesystem. Your host may require FTP/SSH credentials to install updates."
+msgstr "Nem sikerült elérni a fájlrendszert. Lehet, hogy a tárhelyed FTP/SSH hitelesítést igényel a frissítések telepítéséhez."
+
+msgid "Update failed."
+msgstr "A frissítés sikertelen."
+
+msgid "Comments"
+msgstr "Hozzászólások"
+
+msgid "Comments widget"
+msgstr "Hozzászólás widget"
+
+msgid "A dashboard widget with comment counts and one-click / bulk trashing."
+msgstr "Vezérlőpult widget a hozzászólások számával és egy kattintásos / tömeges kukázással."
+
+msgid "Dashboard greeting"
+msgstr "Üdvözlés a Vezérlőpulton"
+
+msgid "Show a personal greeting at the top of the main WordPress dashboard."
+msgstr "Személyre szabott üdvözlés a fő WordPress Vezérlőpult tetején."
+
+msgid "Approved"
+msgstr "Jóváhagyva"
+
+msgid "Spam"
+msgstr "Spam"
+
+msgid "Trash"
+msgstr "Kuka"
+
+msgid "Select all"
+msgstr "Összes kijelölése"
+
+msgid "Move to Trash"
+msgstr "Kukába helyezés"
+
+msgid "Manage all comments →"
+msgstr "Összes hozzászólás kezelése →"
+
+msgid "Anonymous"
+msgstr "Névtelen"
+
+msgid "on"
+msgstr "itt:"
+
+msgid "No comments to show."
+msgstr "Nincs megjeleníthető hozzászólás."
+
+msgid "You are not allowed to moderate comments."
+msgstr "Nincs jogosultságod hozzászólások moderálására."
+
+msgid "Nothing selected."
+msgstr "Nincs kijelölve semmi."
+
+msgid "Working…"
+msgstr "Feldolgozás…"
+
+msgid "Something went wrong."
+msgstr "Valami hiba történt."
+
+msgid "Move the selected comments to the Trash?"
+msgstr "A kijelölt hozzászólásokat a kukába helyezed?"
+
+msgid "Hi, %s!"
+msgstr "Szia, %s!"
+
+msgid "A per-user dark theme for wp-admin, toggled from the admin bar."
+msgstr "Felhasználónkénti sötét téma a wp-adminhoz, az admin sávból kapcsolható."
+
+msgid "SVG sanitization"
+msgstr "SVG fertőtlenítés"
+
+msgid "Automatically strip scripts from uploaded SVG files."
+msgstr "Automatikusan eltávolítja a scripteket a feltöltött SVG fájlokból."
+
+msgid "Bulk noindex actions"
+msgstr "Tömeges noindex műveletek"
+
+msgid "Set or remove noindex on many pages or posts at once."
+msgstr "noindex beállítása vagy eltávolítása sok oldalon vagy bejegyzésen egyszerre."
+
+msgid "Pin pages to a quick admin-bar menu and a dashboard widget."
+msgstr "Oldalak rögzítése egy gyors admin sáv menübe és egy vezérlőpult widgetbe."
+
+msgid "This theme uses navigation blocks instead of classic menus, so a menu created here will not appear on the site by itself. You can still insert it with a Navigation block."
+msgstr "Ez a téma navigációs blokkokat használ a klasszikus menük helyett, ezért az itt létrehozott menü magától nem jelenik meg az oldalon. Navigáció blokkal viszont beillesztheted."
+
+msgid "Shows how many reviews are waiting for approval, with a link to moderation."
+msgstr "Megmutatja, hány vélemény vár jóváhagyásra, linkkel a moderációhoz."
+
+msgid "Shows today’s bookings and when the next appointment starts."
+msgstr "Megmutatja a mai foglalásokat és a következő időpont kezdetét."
+
+msgid "Shows the latest measured performance score for this site."
+msgstr "Megmutatja az oldal legutóbb mért teljesítmény-pontszámát."
+
+msgid "Shows how many galleries and images you have."
+msgstr "Megmutatja, hány galériád és képed van."
+
+msgid "Shows how many videos are embedded across your content."
+msgstr "Megmutatja, hány videó van beágyazva a tartalmaidba."
+
+msgid "Shows which roles currently have restricted access."
+msgstr "Megmutatja, mely szerepköröknek van korlátozott hozzáférése."
+
+msgid "Shows how many marquee sliders are running on the site."
+msgstr "Megmutatja, hány futó szöveg-csúszka működik az oldalon."
+
+msgid "Fixes the everyday wp-admin rough edges."
+msgstr "Kijavítja a wp-admin mindennapi bosszúságait."
+
+msgid "Qaiyo plugins can show a summary card here. Cards from plugins you already run show live data; the rest show what they would add."
+msgstr "A Qaiyo pluginok összefoglaló kártyát mutathatnak itt. A már futó pluginok kártyái élő adatot mutatnak, a többi azt, hogy mivel egészítenék ki."
+
+msgid "More detail in %s Pro"
+msgstr "Több részlet a %s Pro-ban"
+
+msgid "This plugin is active but did not report a summary card. Updating it to the latest version enables one."
+msgstr "Ez a plugin aktív, de nem jelentett összefoglaló kártyát. A legfrissebb verzióra frissítve megjelenik."
+
+msgid "Qaiyo ecosystem"
+msgstr "Qaiyo ökoszisztéma"
+
+msgid "Open"
+msgstr "Megnyitás"
+
+msgid "This card could not be displayed."
+msgstr "Ezt a kártyát nem sikerült megjeleníteni."
+
+msgid "Qaiyo ecosystem widget"
+msgstr "Qaiyo ökoszisztéma widget"
+
+msgid "Collect summary cards from your other Qaiyo plugins into one dashboard widget."
+msgstr "A többi Qaiyo plugin összefoglaló kártyáit egyetlen vezérlőpult-widgetbe gyűjti."
+
+msgid "Sending…"
+msgstr "Küldés…"
+
+msgid "Could not send the test email. Please try again."
+msgstr "A teszt e-mailt nem sikerült elküldeni. Próbáld újra."
+
+msgid "Update notifications are working on %s"
+msgstr "A frissítési értesítések működnek: %s"
+
+msgid "Update notifications"
+msgstr "Frissítési értesítések"
+
+msgid "Update notification emails"
+msgstr "Frissítési értesítő e-mailek"
+
+msgid "Email every administrator a daily or weekly digest of the plugin, theme and WordPress updates that are waiting."
+msgstr "Napi vagy heti összesítőt küld e-mailben minden adminisztrátornak a várakozó bővítmény-, téma- és WordPress-frissítésekről."
+
+msgid "Get an email when a plugin, theme or WordPress update becomes available. Requires the “Update notification emails” module."
+msgstr "E-mailt kapsz, ha egy bővítmény, téma vagy a WordPress frissítése elérhetővé válik. A „Frissítési értesítő e-mailek” modul szükséges hozzá."
+
+msgid "WordPress core"
+msgstr "WordPress rendszer"
+
+msgid "Themes"
+msgstr "Témák"
+
+msgid "How often"
+msgstr "Milyen gyakran"
+
+msgid "One summary email per period — never one email per update check. Nothing is sent when there is nothing new."
+msgstr "Időszakonként egy összesítő levél — soha nem egy e-mail minden frissítés-ellenőrzésre. Ha nincs újdonság, nem megy levél."
+
+msgid "Notify me about"
+msgstr "Miről kérek értesítést"
+
+msgid "Recipients"
+msgstr "Címzettek"
+
+msgid "Every administrator of this site: %s"
+msgstr "A site minden adminisztrátora: %s"
+
+msgid "Next summary is due in %s."
+msgstr "A következő összesítő %s múlva megy ki."
+
+msgid "Is mail working?"
+msgstr "Működik a levelezés?"
+
+msgid "WordPress hands the email to your server or SMTP plugin; it cannot guarantee delivery. Send yourself a test to make sure mail actually leaves this site."
+msgstr "A WordPress átadja a levelet a szervernek vagy az SMTP pluginnak; a kézbesítést nem tudja garantálni. Küldj magadnak egy tesztet, hogy lásd: valóban kimegy-e levél az oldalról."
+
+msgid "Send test email"
+msgstr "Teszt e-mail küldése"
+
+msgid "The last summary could not be handed over for %1$d of %2$d recipients (%3$s ago). Check your hosting mail settings or install an SMTP plugin."
+msgstr "A legutóbbi összesítőt %1$d címzettnek nem sikerült átadni a %2$d közül (%3$s telt el). Ellenőrizd a hosting levelezés-beállításait, vagy telepíts SMTP plugint."
+
+msgid "Targeted update alerts"
+msgstr "Célzott frissítési riasztások"
+
+msgid "Pick exactly which plugins and themes you want to hear about, get security releases flagged in the email, and see a slice of the changelog next to each item."
+msgstr "Pontosan kiválaszthatod, mely bővítményekről és témákról akarsz értesülni, a biztonsági kiadások kiemelt jelölést kapnak a levélben, és minden elem mellett látod a changelog egy részletét."
+
+msgid "Instant & Slack update alerts"
+msgstr "Azonnali és Slack frissítési riasztások"
+
+msgid "Send update alerts the moment they appear instead of waiting for the daily digest, push them to a Slack or Discord webhook, and set your own sender name and address."
+msgstr "A frissítési riasztás azonnal megy, nem kell a napi összesítőre várni; küldheted Slack vagy Discord webhookra, és saját feladónevet és -címet is beállíthatsz."
+
+msgid "Pending"
+msgstr "Várakozó"
+
+msgid "Once a day"
+msgstr "Naponta egyszer"
+
+msgid "Once a week"
+msgstr "Hetente egyszer"
+
+msgid "Update available: %1$s %2$s on %3$s"
+msgstr "Elérhető frissítés: %1$s %2$s — %3$s"
+
+msgid "%1$d updates available on %2$s"
+msgstr "%1$d frissítés érhető el: %2$s"
+
+msgid "The following updates are available on %s:"
+msgstr "A következő frissítések érhetők el a(z) %s oldalon:"
+
+msgid "Security release"
+msgstr "Biztonsági kiadás"
+
+msgid "Review and install updates"
+msgstr "Frissítések áttekintése és telepítése"
+
+msgid "You are receiving this because you are an administrator of this site. You can change or switch off these notifications under Admin Booster → Update notifications."
+msgstr "Ezt azért kapod, mert adminisztrátora vagy ennek az oldalnak. Az értesítéseket az Admin Booster → Frissítési értesítések alatt módosíthatod vagy kapcsolhatod ki."
+
+msgid "You are not allowed to send test emails."
+msgstr "Nincs jogosultságod teszt e-mail küldésére."
+
+msgid "Your user account has no valid email address."
+msgstr "A felhasználói fiókodhoz nincs érvényes e-mail cím."
+
+msgid "This is a test email from Qaiyo Admin Booster. Update notifications are set up correctly — there are no pending updates right now."
+msgstr "Ez egy teszt e-mail a Qaiyo Admin Boosterből. A frissítési értesítések helyesen be vannak állítva — jelenleg nincs várakozó frissítés."
+
+msgid "WordPress could not hand the email over to your mail system. Check your hosting mail settings, or install an SMTP plugin."
+msgstr "A WordPress nem tudta átadni a levelet a levelező rendszernek. Ellenőrizd a hosting levelezés-beállításait, vagy telepíts egy SMTP plugint."
+
+msgid "Test email sent to %s. If it does not arrive, check your spam folder — mail handed over successfully can still be filtered."
+msgstr "Teszt e-mail elküldve: %s. Ha nem érkezik meg, nézd meg a spam mappát — a sikeresen átadott levél is fennakadhat a szűrőkön."
+
+msgid "Separate table for pending updates"
+msgstr "Frissítendő bővítmények külön táblázatban"
+
+msgid "On the Plugins screen, list plugins with an available update in their own table at the top, and every other plugin in a separate table below it."
+msgstr "A Bővítmények képernyőn a frissítésre váró bővítményeket saját táblázatban, felül sorolja fel, az összes többit pedig egy külön táblázatban alatta."
+
+msgid "All plugins"
+msgstr "Összes bővítmény"
+
+msgid "Menu"
+msgstr "Menü"
+
+msgid "Update level"
+msgstr "Szint frissítése"
+
+msgid "This content is already at that place in the menu."
+msgstr "Ez a tartalom már ezen a helyen áll a menüben."
+
+msgid "Moved under the chosen menu item."
+msgstr "Áthelyezve a választott menüpont alá."
+
+msgid "Moved to the top level of the menu."
+msgstr "Áthelyezve a menü felső szintjére."
+
+msgid "Menus"
+msgstr "Menük"
+
+msgid "Save this content first, then you can add it to a menu."
+msgstr "Előbb mentsd el ezt a tartalmat, utána tudod menühöz adni."
+
+msgid "submenu"
+msgstr "almenü"
+
+msgid "Add to menu"
+msgstr "Hozzáadás menühöz"
+
+msgid "Level"
+msgstr "Szint"
+
+msgid "— Top level —"
+msgstr "— Felső szint —"
+
+msgid "This site has no navigation menus yet. Create the first one right here."
+msgstr "Ezen az oldalon még nincs navigációs menü. Hozd létre az elsőt itt helyben."
+
+msgid "+ Create a new menu"
+msgstr "+ Új menü létrehozása"
+
+msgid "Menu name"
+msgstr "Menü neve"
+
+msgid "Main menu"
+msgstr "Főmenü"
+
+msgid "Display location"
+msgstr "Megjelenési hely"
+
+msgid "— Do not assign —"
+msgstr "— Ne rendeld hozzá —"
+
+msgid "Create menu and add"
+msgstr "Menü létrehozása és hozzáadás"
+
+msgid "You are not allowed to edit menus on this site."
+msgstr "Nem vagy jogosult a menük szerkesztésére ezen az oldalon."
+
+msgid "This content type cannot be added to a menu."
+msgstr "Ez a tartalomtípus nem adható menühöz."
+
+msgid "Unknown action."
+msgstr "Ismeretlen művelet."
+
+msgid "Please enter a name for the menu."
+msgstr "Adj nevet a menünek."
+
+msgid "Menu created and this content added to it."
+msgstr "A menü létrejött, és ez a tartalom bekerült."
+
+msgid "Please choose a menu."
+msgstr "Válassz egy menüt."
+
+msgid "The chosen parent item is not available in that menu."
+msgstr "A választott szülő elem nem érhető el abban a menüben."
+
+msgid "Added to the menu as a submenu item."
+msgstr "Hozzáadva a menühöz al-menüpontként."
+
+msgid "Added to the menu."
+msgstr "Hozzáadva a menühöz."
+
+msgid "That menu item no longer exists."
+msgstr "Ez a menüpont már nem létezik."
+
+msgid "Removed from the menu."
+msgstr "Eltávolítva a menüből."
+
+msgid "This content is already in that menu."
+msgstr "Ez a tartalom már szerepel abban a menüben."
+
+msgid "Something went wrong. Please try again."
+msgstr "Valami hiba történt. Próbáld újra."
+
+msgid "Remove this item from the menu?"
+msgstr "Eltávolítod ezt az elemet a menüből?"
+
+msgid "Add to menu from the editor"
+msgstr "Menühöz adás a szerkesztőből"
+
+msgid "Put a page or post into a navigation menu straight from the editor sidebar."
+msgstr "Oldal vagy bejegyzés navigációs menübe tétele egyenesen a szerkesztő oldalsávjából."
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the server limit cannot be changed from here."
+msgstr "Ezen az oldalon le vannak tiltva a fájlmódosítások (DISALLOW_FILE_MODS), ezért a szerver limitje innen nem módosítható."
+
+msgid "This server has per-directory PHP settings (.user.ini) switched off, so the limit can only be raised by your host."
+msgstr "Ezen a szerveren ki vannak kapcsolva a könyvtárankénti PHP-beállítások (.user.ini), ezért a limitet csak a tárhelyszolgáltató emelheti."
+
+msgid "This server runs PHP as “%s”, which does not read per-directory settings, so the limit can only be raised by your host."
+msgstr "Ez a szerver „%s” módban futtatja a PHP-t, ami nem olvas könyvtárankénti beállításokat, ezért a limitet csak a tárhelyszolgáltató emelheti."
+
+msgid "Admin Booster cannot write %s on this server, so the upload limit was not raised."
+msgstr "Az Admin Booster nem tudja írni ezen a szerveren: %s, ezért a feltöltési limit nem emelkedett."
+
+msgid "Could not remove the upload limit from the server file."
+msgstr "Nem sikerült eltávolítani a feltöltési limitet a szerver fájljából."
+
+msgid "0 = use the server limit. The server currently accepts files up to %s."
+msgstr "0 = a szerver limitje. A szerver jelenleg legfeljebb %s méretű fájlokat fogad el."
+
+msgid "Raise the server limit too"
+msgstr "A szerver limitjét is emelje"
+
+msgid "Server limit raised: uploads up to %s are accepted now."
+msgstr "Szerver limit megemelve: mostantól legfeljebb %s méretű feltöltés fogadható."
+
+msgid "The %1$s limit has been written. PHP picks it up within %2$s — reload this page to check."
+msgstr "A %1$s limit kiírva. A PHP %2$s belül érvényesíti — töltsd újra az oldalt az ellenőrzéshez."
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. Switch on “Raise the server limit too” and save."
+msgstr "%1$s értéket állítottál be, de a szerver csak %2$s méretet fogad el, ezért %2$s érvényes. Kapcsold be „A szerver limitjét is emelje” opciót, és ments."
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. %3$s"
+msgstr "%1$s értéket állítottál be, de a szerver csak %2$s méretet fogad el, ezért %2$s érvényes. %3$s"
+
+msgid "Only a network administrator can change the server limit."
+msgstr "A szerver limitjét csak hálózati adminisztrátor módosíthatja."
+
+msgid "Your host has locked the upload limit for this site (php_admin_value), so no file inside WordPress can change it — only the host can raise it."
+msgstr "A tárhelyszolgáltató lezárta ennek az oldalnak a feltöltési limitjét (php_admin_value), ezért a WordPress mappájában lévő fájlok nem módosíthatják — emelni csak a szolgáltató tudja."
+
+msgid "No cPanel or FTP needed. PHP cannot change this limit while WordPress is running (not even from wp-config.php), so Admin Booster writes it into %s, which your server reads before each request. It can take a few minutes to apply. Switching this off removes the lines again."
+msgstr "Nem kell hozzá cPanel vagy FTP. A PHP ezt a limitet a WordPress futása közben nem tudja módosítani (a wp-config.php-ból sem), ezért az Admin Booster ide írja: %s — ezt a szerver minden kérés előtt beolvassa. Pár perc is lehet, mire érvénybe lép. Kikapcsolva a sorok újra törlődnek."
+
+msgid "The %1$s limit was written, but the server still applies only %2$s. This host does not read these settings from the WordPress folder. The details below show exactly how PHP runs here — if you contact your host, send them this list."
+msgstr "A %1$s limit ki lett írva, de a szerver továbbra is csak %2$s méretet alkalmaz. Ez a tárhely nem olvassa ezeket a beállításokat a WordPress mappából. Az alábbi adatok pontosan megmutatják, hogyan fut itt a PHP — ha a szolgáltatóhoz fordulsz, küldd el nekik ezt a listát."
+
+msgid "Server details"
+msgstr "Szerver adatai"
+
+msgid "Safe Mode"
+msgstr "Biztonsági mód"
+
+msgid "Safe Mode link"
+msgstr "Biztonsági mód link"
+
+msgid "A secret link, saved in advance, that gets you back into wp-admin when a plugin or theme update breaks the site."
+msgstr "Előre elmentett titkos link, amivel visszajutsz a wp-adminba, ha egy plugin- vagy témafrissítés elrontja az oldalt."
+
+msgid "Safe Mode — emergency access"
+msgstr "Biztonsági mód — vészbejárat"
+
+msgid "When a plugin or theme update breaks the site, WordPress only emails a one-time recovery link — once a day, and never on multisite. If that email is lost, you are locked out. Safe Mode gives you a link you save now, before anything goes wrong."
+msgstr "Ha egy plugin- vagy témafrissítés elrontja az oldalt, a WordPress csak egy egyszeri helyreállító linket küld e-mailben — naponta egyszer, multisite-on pedig soha. Ha ez az e-mail elvész, kizárod magad. A Biztonsági mód egy olyan linket ad, amit most, még a baj előtt elmenthetsz."
+
+msgid "Only a network administrator can manage Safe Mode."
+msgstr "A Biztonsági módot csak hálózati adminisztrátor kezelheti."
+
+msgid "Safe Mode is off. Turn on “Safe Mode link” on the Modules tab and save to get your link."
+msgstr "A Biztonsági mód ki van kapcsolva. Kapcsold be a „Biztonsági mód link” modult a Modulok fülön, és ments, hogy megkapd a linkedet."
+
+msgid "The Safe Mode file could not be installed."
+msgstr "A Biztonsági mód fájlját nem sikerült telepíteni."
+
+msgid "Copied"
+msgstr "Másolva"
+
+msgid "Copy"
+msgstr "Másolás"
+
+msgid "When the site is broken"
+msgstr "Ha az oldal elromlott"
+
+msgid "Go to Plugins and deactivate the plugin that was just updated (or switch themes under Appearance)."
+msgstr "Menj a Bővítményekhez, és kapcsold ki azt a plugint, amit épp frissítettél (vagy válts témát a Megjelenés alatt)."
+
+msgid "Create a new link"
+msgstr "Új link létrehozása"
+
+msgid "When"
+msgstr "Mikor"
+
+msgid "IP address"
+msgstr "IP-cím"
+
+msgid "Browser"
+msgstr "Böngésző"
+
+msgid "Could not remove the Safe Mode file from the mu-plugins folder."
+msgstr "Nem sikerült eltávolítani a Biztonsági mód fájlját a mu-plugins mappából."
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the Safe Mode file cannot be installed."
+msgstr "Ezen az oldalon le vannak tiltva a fájlmódosítások (DISALLOW_FILE_MODS), ezért a Biztonsági mód fájlja nem telepíthető."
+
+msgid "Admin Booster cannot write to %s on this server, so Safe Mode could not be installed."
+msgstr "Az Admin Booster nem tud írni ezen a szerveren ide: %s, ezért a Biztonsági mód nem telepíthető."
+
+msgid "You are not allowed to do that."
+msgstr "Ehhez nincs jogosultságod."
+
+msgid "Safe Mode is on — no plugins are running for you, and a default theme stands in for yours."
+msgstr "A Biztonsági mód be van kapcsolva — számodra egyetlen plugin sem fut, és egy alap téma helyettesíti a tiédet."
+
+msgid "Go to Plugins"
+msgstr "Ugrás a Bővítményekhez"
+
+msgid "Exit Safe Mode"
+msgstr "Kilépés a Biztonsági módból"
+
+msgid "Your Safe Mode link"
+msgstr "A Biztonsági mód linked"
+
+msgid "Save this link now — it is shown only this once."
+msgstr "Mentsd el ezt a linket most — csak ez egyszer látható."
+
+msgid "For security, only a fingerprint of the key is stored, so the link cannot be displayed again. If you lose it, create a new one."
+msgstr "Biztonsági okból csak a kulcs ujjlenyomatát tároljuk, ezért a link nem jeleníthető meg újra. Ha elveszíted, hozz létre újat."
+
+msgid "Put it in your password manager, next to this site’s login. It is useless if you only look for it after the site is down."
+msgstr "Tedd a jelszókezelődbe, az oldal belépési adatai mellé. Semmit nem ér, ha csak azután keresed elő, hogy az oldal leállt."
+
+msgid "A link is active — created on %1$s by %2$s. It cannot be shown again; if nobody saved it, create a new one."
+msgstr "Van aktív link — létrehozva: %1$s, létrehozó: %2$s. Nem jeleníthető meg újra; ha senki nem mentette el, hozz létre újat."
+
+msgid "There is no active link — Safe Mode cannot be entered. Create one and save it."
+msgstr "Nincs aktív link — Biztonsági módba nem lehet belépni. Hozz létre egyet, és mentsd el."
+
+msgid "The current link and any open Safe Mode session stop working immediately."
+msgstr "A jelenlegi link és minden nyitott Biztonsági mód munkamenet azonnal megszűnik működni."
+
+msgid "Your wp-config.php has no unique SECURE_AUTH_KEY / SECURE_AUTH_SALT, so the key fingerprint is protected by keys stored in the database. Add unique keys to wp-config.php (api.wordpress.org/secret-key/1.1/salt) for full protection, then create a new link."
+msgstr "A wp-config.php nem tartalmaz egyedi SECURE_AUTH_KEY / SECURE_AUTH_SALT értéket, ezért a kulcs ujjlenyomatát az adatbázisban tárolt kulcsok védik. A teljes védelemhez adj egyedi kulcsokat a wp-config.php-hez (api.wordpress.org/secret-key/1.1/salt), majd hozz létre új linket."
+
+msgid "Open the saved link — it works even when the site only shows “There has been a critical error”."
+msgstr "Nyisd meg az elmentett linket — akkor is működik, ha az oldal csak annyit ír ki: „Kritikus hiba történt”."
+
+msgid "Log in with an administrator account. A password is required even if you were already logged in."
+msgstr "Lépj be egy adminisztrátori fiókkal. Jelszó akkor is kell, ha már be voltál jelentkezve."
+
+msgid "Click “Exit Safe Mode” in the red bar. Once the admin loads normally again, the used link is retired and you are asked to create a new one."
+msgstr "Kattints a piros sávban a „Kilépés a Biztonsági módból” gombra. Amint az admin újra rendesen betölt, a használt link visszavonódik, és új link létrehozását kérjük."
+
+msgid "How the link is protected"
+msgstr "Hogyan védjük a linket"
+
+msgid "The key sits after the # in the link, which browsers never send to the server — it cannot end up in server, CDN or proxy logs."
+msgstr "A kulcs a link # utáni részében van, amit a böngészők soha nem küldenek el a szervernek — így nem kerülhet szerver-, CDN- vagy proxy-naplóba."
+
+msgid "Only a fingerprint is stored, keyed with your wp-config.php security keys: a leaked or stolen database does not reveal the link."
+msgstr "Csak egy ujjlenyomatot tárolunk, a wp-config.php biztonsági kulcsaival kulcsolva: egy kiszivárgott vagy ellopott adatbázisból nem derül ki a link."
+
+msgid "The link alone is not enough: only administrators can log in, with their password, and a built-in limit locks logins for 15 minutes after 5 failures."
+msgstr "A link önmagában nem elég: csak adminisztrátor léphet be, a jelszavával, és egy beépített korlát 5 sikertelen próba után 15 percre zárolja a belépést."
+
+msgid "Safe Mode is a recovery console only: Dashboard, Plugins and Themes. Installing or uploading plugins and themes, editing files, and adding or changing users are all blocked."
+msgstr "A Biztonsági mód csak helyreállító konzol: Vezérlőpult, Bővítmények és Megjelenés. Plugin- és tématelepítés vagy -feltöltés, fájlszerkesztés, felhasználók létrehozása vagy módosítása mind tiltva."
+
+msgid "Every use emails all administrators, is logged with IP address and browser, and retires the link once the site works again."
+msgstr "Minden használatról e-mail megy az összes adminisztrátornak, IP-címmel és böngészővel naplózzuk, és a link visszavonódik, amint az oldal újra működik."
+
+msgid "On an HTTPS site the key is only accepted over HTTPS; the session is tied to the browser and ends after one hour. Visitors always see the normal site."
+msgstr "HTTPS-oldalon a kulcsot csak HTTPS-en fogadjuk el; a munkamenet a böngészőhöz kötött, és egy óra után lejár. A látogatók mindig a megszokott oldalt látják."
+
+msgid "Only allow from these IP addresses (optional)"
+msgstr "Csak ezekről az IP-címekről engedjük (opcionális)"
+
+msgid "One IP address or range per line (e.g. 203.0.113.7 or 203.0.113.0/24). Leave empty to allow any address. Only use this with a fixed office or VPN address — otherwise you can lock yourself out. Your current address: %s"
+msgstr "Soronként egy IP-cím vagy tartomány (pl. 203.0.113.7 vagy 203.0.113.0/24). Üresen hagyva bármilyen címről engedett. Csak fix irodai vagy VPN-címmel használd — különben kizárhatod magad. A jelenlegi címed: %s"
+
+msgid "Not saved — these entries are not valid IP addresses or ranges: %s"
+msgstr "Nincs mentve — ezek a bejegyzések nem érvényes IP-címek vagy tartományok: %s"
+
+msgid "IP restriction saved."
+msgstr "IP-korlátozás mentve."
+
+msgid "Save IP restriction"
+msgstr "IP-korlátozás mentése"
+
+msgid "Safe Mode log"
+msgstr "Biztonsági mód napló"
+
+msgid "Entered Safe Mode"
+msgstr "Belépés Biztonsági módba"
+
+msgid "Wrong key"
+msgstr "Rossz kulcs"
+
+msgid "Blocked address"
+msgstr "Tiltott cím"
+
+msgid "Logged in"
+msgstr "Belépett"
+
+msgid "Failed login"
+msgstr "Sikertelen belépés"
+
+msgid "Logins locked"
+msgstr "Belépés zárolva"
+
+msgid "Non-administrator refused"
+msgstr "Nem adminisztrátor elutasítva"
+
+msgid "Nothing logged yet."
+msgstr "Még nincs naplóbejegyzés."
+
+msgid "Event"
+msgstr "Esemény"
+
+msgid "User"
+msgstr "Felhasználó"
+
+msgid "WordPress security keys are missing, so a Safe Mode link cannot be created safely."
+msgstr "Hiányoznak a WordPress biztonsági kulcsai, ezért Biztonsági mód linket nem lehet biztonságosan létrehozni."
+
+msgid "The Safe Mode link was used and has been retired."
+msgstr "A Biztonsági mód linket használták, ezért visszavontuk."
+
+msgid "Used on %1$s from IP address %2$s."
+msgstr "Használva: %1$s, IP-cím: %2$s."
+
+msgid "If this was not you or a colleague: change every administrator password now and check the Safe Mode log. Either way, create a new Safe Mode link and save it."
+msgstr "Ha nem te vagy egy kollégád volt: azonnal változtasd meg minden adminisztrátor jelszavát, és nézd át a Biztonsági mód naplót. Mindenképp hozz létre új linket, és mentsd el."
+
+msgid "Dismiss"
+msgstr "Elrejtés"
+
+msgid "This Safe Mode key is not valid."
+msgstr "Ez a Biztonsági mód kulcs nem érvényes."
+
+msgid "Checking your Safe Mode key…"
+msgstr "A Biztonsági mód kulcs ellenőrzése…"
+
+msgid "Paste the key from your saved Safe Mode link (the part after #)."
+msgstr "Illeszd be a kulcsot az elmentett Biztonsági mód linkedből (a # utáni részt)."
+
+msgid "Enter Safe Mode"
+msgstr "Belépés Biztonsági módba"
+
+msgid "Too many failed logins in Safe Mode. Try again in 15 minutes."
+msgstr "Túl sok sikertelen belépés Biztonsági módban. Próbáld újra 15 perc múlva."
+
+msgid "Only administrators can log in while Safe Mode is on."
+msgstr "Biztonsági módban csak adminisztrátor léphet be."
+
+msgid "Only administrators can use Safe Mode."
+msgstr "Biztonsági módot csak adminisztrátor használhat."
+
+msgid "Someone entered Safe Mode with the Safe Mode link."
+msgstr "Valaki belépett Biztonsági módba a Biztonsági mód linkkel."
+
+msgid "An administrator logged in while Safe Mode was on."
+msgstr "Egy adminisztrátor belépett, miközben a Biztonsági mód be volt kapcsolva."
+
+msgid "Safe Mode logins were locked after 5 failed attempts."
+msgstr "A Biztonsági mód belépések 5 sikertelen próba után zárolva lettek."
+
+msgid "%1$s — %2$s IP: %3$s, user: %4$s"
+msgstr "%1$s — %2$s IP: %3$s, felhasználó: %4$s"
+
+msgid "If this was you or a colleague fixing the site, no action is needed: the link is retired automatically once the site works again, and you will be asked to create a new one."
+msgstr "Ha te vagy egy kollégád javította az oldalt, nincs teendő: a link automatikusan visszavonódik, amint az oldal újra működik, és új link létrehozását kérjük."
+
+msgid "If you do not recognise this: log in, create a new Safe Mode link (the used one stops working at once), change every administrator password, and review the Safe Mode log under Admin Booster → Safe Mode."
+msgstr "Ha ezt nem ismered fel: lépj be, hozz létre új Biztonsági mód linket (a használt azonnal megszűnik), változtasd meg minden adminisztrátor jelszavát, és nézd át a naplót az Admin Booster → Biztonsági mód alatt."
+
+msgid "[%s] Safe Mode was used"
+msgstr "[%s] Biztonsági módot használtak"
+
+msgid "Only the Dashboard, Plugins and Themes screens are available, and installing, uploading, editing files and managing users are blocked. Deactivate the plugin (or switch away from the theme) that broke the site, then exit Safe Mode to check."
+msgstr "Csak a Vezérlőpult, a Bővítmények és a Megjelenés érhető el; a telepítés, feltöltés, fájlszerkesztés és a felhasználókezelés tiltva. Kapcsold ki az oldalt elrontó plugint (vagy válts témát), majd lépj ki a Biztonsági módból, és ellenőrizd."
+
+msgid "Safe Mode is on: plugins are switched off for you until you exit Safe Mode. Only administrators can log in."
+msgstr "A Biztonsági mód be van kapcsolva: a pluginok ki vannak kapcsolva számodra, amíg ki nem lépsz belőle. Csak adminisztrátor léphet be."
+
+msgid "Update crash protection"
+msgstr "Frissítési összeomlás elleni védelem"
+
+msgid "If a plugin or theme update crashes the site, automatically restore the previous version — no matter what triggered the update."
+msgstr "Ha egy plugin- vagy témafrissítés összeomlasztja az oldalt, automatikusan visszaállítja az előző verziót — bármi indította is a frissítést."
+
+msgid "WordPress backs up the previous version before every plugin or theme update, but only checks whether the site still works — and restores that backup if not — for updates it runs itself in the background. A manual click, WP-CLI, or a remote manager like ManageWP or MainWP skips that check. This module runs the same check after every update, whoever triggered it, and restores the backup automatically if the site crashed."
+msgstr "A WordPress minden plugin- és témafrissítés előtt biztonsági másolatot készít az előző verzióról, de azt, hogy az oldal utána is működik-e — és ha nem, a másolat visszaállítását —, csak a saját háttérfrissítéseinél ellenőrzi. Egy kézi kattintás, a WP-CLI vagy egy távoli kezelő, mint a ManageWP vagy a MainWP, ezt kihagyja. Ez a modul minden frissítés után elvégzi ugyanezt az ellenőrzést, bárki indította is, és ha az oldal összeomlott, automatikusan visszaállítja a másolatot."
+
+msgid "Off. Turn on “Update crash protection” on the Modules tab to enable it."
+msgstr "Kikapcsolva. Kapcsold be a „Frissítési összeomlás elleni védelem” modult a Modulok fülön."
+
+msgid "On. No update has needed to be rolled back so far."
+msgstr "Bekapcsolva. Eddig egyetlen frissítést sem kellett visszaállítani."
+
+msgid "Protection could not work during the last update (%s): this server cannot load its own pages (loopback requests are blocked), so there is no way to tell whether an update broke the site. Ask your host to allow the site to reach itself; Site Health will show the same problem. This warning disappears after the next update that can be checked."
+msgstr "A védelem nem tudott működni a legutóbbi frissítésnél (%s): ez a szerver nem tudja betölteni a saját oldalait (a loopback-kérések tiltva vannak), így nem derül ki, hogy egy frissítés elrontotta-e az oldalt. Kérd meg a tárhelyszolgáltatót, hogy engedje az oldalnak önmaga elérését; a Webhely egészsége is ugyanezt a hibát mutatja. Ez a figyelmeztetés a következő ellenőrizhető frissítés után eltűnik."
+
+msgid "Interventions"
+msgstr "Beavatkozások"
+
+msgid "Affected"
+msgstr "Érintett"
+
+msgid "Result"
+msgstr "Eredmény"
+
+msgid "Restored automatically"
+msgstr "Automatikusan visszaállítva"
+
+msgid "Could not restore automatically"
+msgstr "Nem sikerült automatikusan visszaállítani"
+
+msgid "[%s] An update was automatically rolled back"
+msgstr "[%s] Egy frissítés automatikusan vissza lett állítva"
+
+msgid "[%s] An update broke the site and could not be rolled back automatically"
+msgstr "[%s] Egy frissítés elrontotta az oldalt, és nem sikerült automatikusan visszaállítani"
+
+msgid "An update just made the site crash with a fatal error. Admin Booster detected it immediately and restored the previous version — the site is back up and no plugin was left disabled. Affected: %s"
+msgstr "Egy frissítés az imént végzetes hibával összeomlasztotta az oldalt. Az Admin Booster azonnal észlelte, és visszaállította az előző verziót — az oldal újra működik, és egyetlen plugin sem maradt kikapcsolva. Érintett: %s"
+
+msgid "An update just made the site crash with a fatal error, and Admin Booster could not restore the previous version automatically. Affected: %s. Use the Admin Booster Safe Mode link to get back into wp-admin, or restore the affected files from wp-content/upgrade-temp-backup/ over FTP."
+msgstr "Egy frissítés az imént végzetes hibával összeomlasztotta az oldalt, és az Admin Booster nem tudta automatikusan visszaállítani az előző verziót. Érintett: %s. Az Admin Booster Biztonsági mód linkjével visszajuthatsz a wp-adminba, vagy FTP-n állítsd vissza az érintett fájlokat a wp-content/upgrade-temp-backup/ mappából."
+
+msgid "Menu item visibility"
+msgstr "Menüelem láthatósága"
+
+msgid "Show a menu item on mobile only or on desktop only — handy for a header button that needs to live in the mobile menu too."
+msgstr "Egy menüelem megjelenítése csak mobilon vagy csak asztali gépen — hasznos, ha egy fejléc-gombnak a mobilmenüben is meg kell jelennie."
+
+msgid "Visibility"
+msgstr "Láthatóság"
+
+msgid "Always"
+msgstr "Mindig"
+
+msgid "Mobile only (%d px or narrower)"
+msgstr "Csak mobilon (%d px vagy keskenyebb)"
+
+msgid "Desktop only (wider than %d px)"
+msgstr "Csak asztali gépen (%d pxnél szélesebb)"
+
+msgid "Set per menu item on the Appearance → Menus screen. The breakpoint is fixed at 768px; %s for a custom value."
+msgstr "Menüelemenként állítható a Megjelenés → Menük képernyőn. A törésvonal fix 768px; %s egyedi értékhez."
+
+msgid "upgrade to Pro"
+msgstr "válts Pro-ra"
+
+msgid "Custom menu visibility breakpoint"
+msgstr "Egyedi menü-láthatósági törésvonal"
+
+msgid "Mobile-only and desktop-only menu items switch over at 768px. Set the breakpoint your theme actually uses instead, so a menu item appears exactly where the theme switches to its mobile menu."
+msgstr "A csak mobilon és csak asztali gépen látszó menüelemek 768px-nél váltanak. Állítsd be helyette a témád valódi törésvonalát, hogy a menüelem pontosan ott jelenjen meg, ahol a téma is mobilmenüre vált."
+
+msgid "Turn each booster on or off. Everything is on by default, except the Safe Mode link."
+msgstr "Kapcsold be vagy ki az egyes boostereket. A Biztonsági mód link kivételével alapból minden bekapcsolva."

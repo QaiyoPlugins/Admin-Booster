@@ -1,0 +1,1407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Qaiyo Admin Booster\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "1-click plugin upload"
+msgstr ""
+
+msgid "Admin Booster"
+msgstr ""
+
+msgid "Allow SVG only for administrators, raise the upload limit for editors, or restrict risky file types per user role — granular control instead of one global rule."
+msgstr ""
+
+msgid "Auto-assign pages and posts to collections by URL pattern, page template, parent or regex — new content lands in the right collection automatically, no manual sorting."
+msgstr ""
+
+msgid "Automatically strip scripts and event handlers from SVG files on upload, so you can enable SVG safely even for non-admin users."
+msgstr ""
+
+msgid "Built-in collections (Main, Legal, WooCommerce) are detected automatically. Create your own below."
+msgstr ""
+
+msgid "Bulk noindex & menu actions"
+msgstr ""
+
+msgid "Collection name"
+msgstr ""
+
+msgid "Collection"
+msgstr ""
+
+msgid "Collections saved."
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Control upload size and which file types are allowed."
+msgstr ""
+
+msgid "Could not save collections. Please try again."
+msgstr ""
+
+msgid "Disable editor fullscreen mode"
+msgstr ""
+
+msgid "Fewer clicks to the things you do all day."
+msgstr ""
+
+msgid "File handling"
+msgstr ""
+
+msgid "Friendlier upload error messages"
+msgstr ""
+
+msgid "Clean up uploaded filenames"
+msgstr ""
+
+msgid "Convert spaces, accents and uppercase in uploaded filenames to URL-friendly slugs (e.g. “Árvíz Tükör.JPG” → “arviz-tukor.jpg”)."
+msgstr ""
+
+msgid "Group pages and posts into visual collections."
+msgstr ""
+
+msgid "Gutenberg UX fixes"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "In menu"
+msgstr ""
+
+msgid "Insufficient permissions."
+msgstr ""
+
+msgid "Keep the block inserter open and the editor out of fullscreen."
+msgstr ""
+
+msgid "Keep the wp-admin sidebar visible while editing."
+msgstr ""
+
+msgid "Larger list views"
+msgstr ""
+
+msgid "Legal"
+msgstr ""
+
+msgid "Modern, well-compressed image format. Safe to enable."
+msgstr ""
+
+msgid "Modules"
+msgstr ""
+
+msgid "Navigation & editor"
+msgstr ""
+
+msgid "New %s"
+msgstr ""
+
+msgid "New Page / Post / Product shortcuts in the admin bar."
+msgstr ""
+
+msgid "Next-gen image format (WordPress 6.5+ and supported servers)."
+msgstr ""
+
+msgid "Noindex"
+msgstr ""
+
+msgid "Not in any menu"
+msgstr ""
+
+msgid "Not in menu"
+msgstr ""
+
+msgid "Open the block inserter by default"
+msgstr ""
+
+msgid "Open the plugin upload screen straight from “Add Plugin”."
+msgstr ""
+
+msgid "Orphan pages"
+msgstr ""
+
+msgid "Orphan"
+msgstr ""
+
+msgid "Page Collections"
+msgstr ""
+
+msgid "Page Filter"
+msgstr ""
+
+msgid "Page status"
+msgstr ""
+
+msgid "Per-role upload rules"
+msgstr ""
+
+msgid "Pin the pages and posts you touch every day to the admin bar and dashboard for one-click access from anywhere in wp-admin."
+msgstr ""
+
+msgid "Pinned pages & favorites"
+msgstr ""
+
+msgid "Qaiyo Plugins"
+msgstr ""
+
+msgid "Qaiyo Admin Booster settings"
+msgstr ""
+
+msgid "Qaiyo Admin Booster"
+msgstr ""
+
+msgid "Quick add menu"
+msgstr ""
+
+msgid "Remove this collection? Pages assigned to it will fall back to auto/none."
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Replace the cryptic “file type not permitted” message with a clear explanation and the list of allowed types."
+msgstr ""
+
+msgid "SVG sanitization on upload"
+msgstr ""
+
+msgid "Save any combination of Page Filter conditions (orphan + noindex + draft, etc.) as a named view and switch between them with one click."
+msgstr ""
+
+msgid "Saved filter views"
+msgstr ""
+
+msgid "See homepage, orphan, not-in-menu and noindex at a glance."
+msgstr ""
+
+msgid "Select multiple pages from the filtered view and toggle noindex, add them to a menu, or change status in one bulk action."
+msgstr ""
+
+msgid "Show a warning here when you allow executable / script extensions."
+msgstr ""
+
+msgid "Show more items per page in admin list tables."
+msgstr ""
+
+msgid "Show plugin upload immediately"
+msgstr ""
+
+msgid "Core update bridge"
+msgstr ""
+
+msgid "Step up to an intermediate WordPress version your server can still run."
+msgstr ""
+
+msgid "Stuck on an old WordPress because the newest release needs a newer PHP? Pick an intermediate version your server can actually run and step up to it — straight from wp-admin, no FTP or cPanel needed."
+msgstr ""
+
+msgid "Smart collection rules"
+msgstr ""
+
+msgid "The file type \".%1$s\" is not allowed on this site. Allowed types: %2$s. You can enable more types under Qaiyo Admin Booster → File handling."
+msgstr ""
+
+msgid "The left “+” block panel is open when the editor loads."
+msgstr ""
+
+msgid "Turn each booster on or off. Everything is on by default."
+msgstr ""
+
+msgid "Upload size, allowed file types and clearer errors."
+msgstr ""
+
+msgid "Vector graphics. SVG can contain scripts — only enable if you trust who uploads. Pro adds automatic SVG sanitization."
+msgstr ""
+
+msgid "Warn about dangerous file types"
+msgstr ""
+
+msgid "WooCommerce"
+msgstr ""
+
+msgid "noindex"
+msgstr ""
+
+msgid "“Add Plugin” opens the upload tab directly — the browse tabs stay available on top."
+msgstr ""
+
+msgid "Auto-detected"
+msgstr ""
+
+msgid "Qaiyo Admin Booster — Quick Add"
+msgstr ""
+
+msgid "Auto-detected as: %s. Pick a collection above to override."
+msgstr ""
+
+msgid "Qaiyo %1$s v%2$s — Made by Qaiyo by PixelDesigns"
+msgstr ""
+
+msgid "Quick Add"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Unlock in Pro →"
+msgstr ""
+
+msgid "Warning: you are allowing executable / script file types (%s). These can be used to run code on your server. Only keep them if you really need them."
+msgstr ""
+
+msgid "auto"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "Add collection"
+msgstr ""
+
+msgid "All collections"
+msgstr ""
+
+msgid "Any page status"
+msgstr ""
+
+msgid "Apply collections to"
+msgstr ""
+
+msgid "Collection & status columns appear on the Pages and Posts list screens."
+msgstr ""
+
+msgid "Custom file types"
+msgstr ""
+
+msgid "Default rows in admin list tables (only when you have not set your own Screen Option)."
+msgstr ""
+
+msgid "Enable extra image types"
+msgstr ""
+
+msgid "Filter by collection"
+msgstr ""
+
+msgid "Filter by page status"
+msgstr ""
+
+msgid "Fixes the annoying wp-admin UX/UI rough edges that cost you time every day."
+msgstr ""
+
+msgid "Get Pro"
+msgstr ""
+
+msgid "Items per list page"
+msgstr ""
+
+msgid "Max upload size (MB)"
+msgstr ""
+
+msgid "One per line, format: extension = mime/type. Example: ico = image/x-icon"
+msgstr ""
+
+msgid "Power-user upgrades available in the Pro add-on."
+msgstr ""
+
+msgid "Pro features"
+msgstr ""
+
+msgid "Qaiyo Admin Booster Pro"
+msgstr ""
+
+msgid "Quick add shortcuts"
+msgstr ""
+
+msgid "Save collections"
+msgstr ""
+
+msgid "Save settings"
+msgstr ""
+
+msgid "The “Quick Add” menu lives in the top admin bar."
+msgstr ""
+
+msgid "These are saved separately and immediately — they do not require the main “Save settings” button."
+msgstr ""
+
+msgid "Uncategorized"
+msgstr ""
+
+msgid "Use the dropdowns above the list to filter by collection or page status."
+msgstr ""
+
+msgid "Where to find it"
+msgstr ""
+
+msgid "Which content types appear in the admin bar “Quick Add” menu."
+msgstr ""
+
+msgid "Your collections"
+msgstr ""
+
+msgid "— Auto / none —"
+msgstr ""
+
+msgid "%d notices"
+msgstr ""
+
+msgid "1 notice"
+msgstr ""
+
+msgid "Admin notices"
+msgstr ""
+
+msgid "WordPress Events and News"
+msgstr ""
+
+msgid "Quick Draft"
+msgstr ""
+
+msgid "Activity"
+msgstr ""
+
+msgid "At a Glance"
+msgstr ""
+
+msgid "Site Health Status"
+msgstr ""
+
+msgid "Welcome panel"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "No item to duplicate."
+msgstr ""
+
+msgid "You are not allowed to duplicate this item."
+msgstr ""
+
+msgid "Could not duplicate this item."
+msgstr ""
+
+msgid "Publishing in %s"
+msgstr ""
+
+msgid "Last edited"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "%s ago"
+msgstr ""
+
+msgid "Switch to draft"
+msgstr ""
+
+msgid "Publish now"
+msgstr ""
+
+msgid "Invalid request."
+msgstr ""
+
+msgid "You are not allowed to edit this item."
+msgstr ""
+
+msgid "You are not allowed to publish this item."
+msgstr ""
+
+msgid "Tidy admin notices"
+msgstr ""
+
+msgid "Collapse stacked admin notices into a small counter tray."
+msgstr ""
+
+msgid "Dashboard cleanup"
+msgstr ""
+
+msgid "Hide the dashboard widgets you never use."
+msgstr ""
+
+msgid "Duplicate content"
+msgstr ""
+
+msgid "One-click “Duplicate” as a draft from the list view."
+msgstr ""
+
+msgid "Scheduled countdown"
+msgstr ""
+
+msgid "Show “Publishing in 3 days” on scheduled posts."
+msgstr ""
+
+msgid "Sticky table headers"
+msgstr ""
+
+msgid "Keep list-table column headers visible while scrolling."
+msgstr ""
+
+msgid "Last edited column"
+msgstr ""
+
+msgid "Who last edited each item and how long ago."
+msgstr ""
+
+msgid "Quick status switch"
+msgstr ""
+
+msgid "Publish or unpublish from the list without opening the editor."
+msgstr ""
+
+msgid "Hide the default dashboard widgets you do not use. Requires the “Dashboard cleanup” module."
+msgstr ""
+
+msgid "Hide these widgets"
+msgstr ""
+
+msgid "Enable all"
+msgstr ""
+
+msgid "Disable all"
+msgstr ""
+
+msgid "Go Pro"
+msgstr ""
+
+msgid "%d power-user upgrades — see them below."
+msgstr ""
+
+msgid "Admin menu editor"
+msgstr ""
+
+msgid "Rename, reorder and hide wp-admin menu items per user role — give editors and clients a clean, focused admin without touching code."
+msgstr ""
+
+msgid "Inline list-table editing"
+msgstr ""
+
+msgid "Edit titles, statuses, collections and custom fields straight in the list table — spreadsheet-style, without opening each item."
+msgstr ""
+
+msgid "Login screen customizer"
+msgstr ""
+
+msgid "Replace the WordPress logo, background and colors on the login screen with your own brand, plus custom CSS — no extra plugin needed."
+msgstr ""
+
+msgid "Activity log"
+msgstr ""
+
+msgid "A clear audit trail of who changed what and when — posts, settings, users and uploads — so nothing happens on your site unnoticed."
+msgstr ""
+
+msgid "Admin dark mode"
+msgstr ""
+
+msgid "A polished dark theme for the whole wp-admin, with a one-click toggle in the admin bar and a per-user preference."
+msgstr ""
+
+msgid "Revision cleaner"
+msgstr ""
+
+msgid "Limit how many revisions each post keeps and bulk-delete old ones to shrink a bloated database and speed up your admin."
+msgstr ""
+
+msgid "Explore Qaiyo Plugins"
+msgstr ""
+
+msgid "Explore Qaiyo"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "The complete Qaiyo plugin family — all built to the same quality standard."
+msgstr ""
+
+msgid "Refresh list"
+msgstr ""
+
+msgid "Data from"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Free Download"
+msgstr ""
+
+msgid "Go Pro →"
+msgstr ""
+
+msgid "All Qaiyo plugins are built by"
+msgstr ""
+
+msgid "Need help? Contact us at"
+msgstr ""
+
+msgid "version %1$s is available (you have %2$s)."
+msgstr ""
+
+msgid "View release →"
+msgstr ""
+
+msgid "An error occurred."
+msgstr ""
+
+msgid "Bulk Create"
+msgstr ""
+
+msgid "Bulk create"
+msgstr ""
+
+msgid "Create many pages or posts at once from a list of titles."
+msgstr ""
+
+msgid "Create many pages or posts at once — one title per line. Indent with a Tab (or 2 spaces) to nest child pages."
+msgstr ""
+
+msgid "You do not have permission to create any content types."
+msgstr ""
+
+msgid "What to create"
+msgstr ""
+
+msgid "Content type"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "Pending review"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Parent page"
+msgstr ""
+
+msgid "Top-level parent for the whole batch. Only applies to hierarchical types (e.g. Pages)."
+msgstr ""
+
+msgid "— None (top level) —"
+msgstr ""
+
+msgid "Titles — one per line"
+msgstr ""
+
+msgid "Up to %d items per batch. Indent a line with a Tab (or 2 spaces) to make it a child of the line above."
+msgstr ""
+
+msgid "Create items"
+msgstr ""
+
+msgid "%d non-empty line(s) ready to create."
+msgstr ""
+
+msgid "You are not allowed to create that content type."
+msgstr ""
+
+msgid "Unknown or unsupported content type."
+msgstr ""
+
+msgid "%d item(s) created."
+msgstr ""
+
+msgid "%d item(s) could not be created."
+msgstr ""
+
+msgid "View the list →"
+msgstr ""
+
+msgid "No items were created. Add at least one non-empty title."
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "Update center widget"
+msgstr ""
+
+msgid "A dashboard widget to update plugins and themes in one place."
+msgstr ""
+
+msgid "Update all (%d)"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Updating…"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Check again"
+msgstr ""
+
+msgid "Checking…"
+msgstr ""
+
+msgid "Everything is up to date"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Changelog for %s"
+msgstr ""
+
+msgid "You are not allowed to update plugins."
+msgstr ""
+
+msgid "You are not allowed to update themes."
+msgstr ""
+
+msgid "You are not allowed to check for updates."
+msgstr ""
+
+msgid "No update is available for this plugin."
+msgstr ""
+
+msgid "No update is available for this theme."
+msgstr ""
+
+msgid "Could not access the filesystem. Your host may require FTP/SSH credentials to install updates."
+msgstr ""
+
+msgid "Update failed."
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Comments widget"
+msgstr ""
+
+msgid "A dashboard widget with comment counts and one-click / bulk trashing."
+msgstr ""
+
+msgid "Dashboard greeting"
+msgstr ""
+
+msgid "Show a personal greeting at the top of the main WordPress dashboard."
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Select all"
+msgstr ""
+
+msgid "Move to Trash"
+msgstr ""
+
+msgid "Manage all comments →"
+msgstr ""
+
+msgid "Anonymous"
+msgstr ""
+
+msgid "on"
+msgstr ""
+
+msgid "No comments to show."
+msgstr ""
+
+msgid "You are not allowed to moderate comments."
+msgstr ""
+
+msgid "Nothing selected."
+msgstr ""
+
+msgid "Working…"
+msgstr ""
+
+msgid "Something went wrong."
+msgstr ""
+
+msgid "Move the selected comments to the Trash?"
+msgstr ""
+
+msgid "Hi, %s!"
+msgstr ""
+
+msgid "A per-user dark theme for wp-admin, toggled from the admin bar."
+msgstr ""
+
+msgid "SVG sanitization"
+msgstr ""
+
+msgid "Automatically strip scripts from uploaded SVG files."
+msgstr ""
+
+msgid "Bulk noindex actions"
+msgstr ""
+
+msgid "Set or remove noindex on many pages or posts at once."
+msgstr ""
+
+msgid "Pin pages to a quick admin-bar menu and a dashboard widget."
+msgstr ""
+
+msgid "This theme uses navigation blocks instead of classic menus, so a menu created here will not appear on the site by itself. You can still insert it with a Navigation block."
+msgstr ""
+
+msgid "Shows how many reviews are waiting for approval, with a link to moderation."
+msgstr ""
+
+msgid "Shows today’s bookings and when the next appointment starts."
+msgstr ""
+
+msgid "Shows the latest measured performance score for this site."
+msgstr ""
+
+msgid "Shows how many galleries and images you have."
+msgstr ""
+
+msgid "Shows how many videos are embedded across your content."
+msgstr ""
+
+msgid "Shows which roles currently have restricted access."
+msgstr ""
+
+msgid "Shows how many marquee sliders are running on the site."
+msgstr ""
+
+msgid "Fixes the everyday wp-admin rough edges."
+msgstr ""
+
+msgid "Qaiyo plugins can show a summary card here. Cards from plugins you already run show live data; the rest show what they would add."
+msgstr ""
+
+msgid "More detail in %s Pro"
+msgstr ""
+
+msgid "This plugin is active but did not report a summary card. Updating it to the latest version enables one."
+msgstr ""
+
+msgid "Qaiyo ecosystem"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "This card could not be displayed."
+msgstr ""
+
+msgid "Qaiyo ecosystem widget"
+msgstr ""
+
+msgid "Collect summary cards from your other Qaiyo plugins into one dashboard widget."
+msgstr ""
+
+msgid "Sending…"
+msgstr ""
+
+msgid "Could not send the test email. Please try again."
+msgstr ""
+
+msgid "Update notifications are working on %s"
+msgstr ""
+
+msgid "Update notifications"
+msgstr ""
+
+msgid "Update notification emails"
+msgstr ""
+
+msgid "Email every administrator a daily or weekly digest of the plugin, theme and WordPress updates that are waiting."
+msgstr ""
+
+msgid "Get an email when a plugin, theme or WordPress update becomes available. Requires the “Update notification emails” module."
+msgstr ""
+
+msgid "WordPress core"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "How often"
+msgstr ""
+
+msgid "One summary email per period — never one email per update check. Nothing is sent when there is nothing new."
+msgstr ""
+
+msgid "Notify me about"
+msgstr ""
+
+msgid "Recipients"
+msgstr ""
+
+msgid "Every administrator of this site: %s"
+msgstr ""
+
+msgid "Next summary is due in %s."
+msgstr ""
+
+msgid "Is mail working?"
+msgstr ""
+
+msgid "WordPress hands the email to your server or SMTP plugin; it cannot guarantee delivery. Send yourself a test to make sure mail actually leaves this site."
+msgstr ""
+
+msgid "Send test email"
+msgstr ""
+
+msgid "The last summary could not be handed over for %1$d of %2$d recipients (%3$s ago). Check your hosting mail settings or install an SMTP plugin."
+msgstr ""
+
+msgid "Targeted update alerts"
+msgstr ""
+
+msgid "Pick exactly which plugins and themes you want to hear about, get security releases flagged in the email, and see a slice of the changelog next to each item."
+msgstr ""
+
+msgid "Instant & Slack update alerts"
+msgstr ""
+
+msgid "Send update alerts the moment they appear instead of waiting for the daily digest, push them to a Slack or Discord webhook, and set your own sender name and address."
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Once a day"
+msgstr ""
+
+msgid "Once a week"
+msgstr ""
+
+msgid "Update available: %1$s %2$s on %3$s"
+msgstr ""
+
+msgid "%1$d updates available on %2$s"
+msgstr ""
+
+msgid "The following updates are available on %s:"
+msgstr ""
+
+msgid "Security release"
+msgstr ""
+
+msgid "Review and install updates"
+msgstr ""
+
+msgid "You are receiving this because you are an administrator of this site. You can change or switch off these notifications under Admin Booster → Update notifications."
+msgstr ""
+
+msgid "You are not allowed to send test emails."
+msgstr ""
+
+msgid "Your user account has no valid email address."
+msgstr ""
+
+msgid "This is a test email from Qaiyo Admin Booster. Update notifications are set up correctly — there are no pending updates right now."
+msgstr ""
+
+msgid "WordPress could not hand the email over to your mail system. Check your hosting mail settings, or install an SMTP plugin."
+msgstr ""
+
+msgid "Test email sent to %s. If it does not arrive, check your spam folder — mail handed over successfully can still be filtered."
+msgstr ""
+
+msgid "Separate table for pending updates"
+msgstr ""
+
+msgid "On the Plugins screen, list plugins with an available update in their own table at the top, and every other plugin in a separate table below it."
+msgstr ""
+
+msgid "All plugins"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Update level"
+msgstr ""
+
+msgid "This content is already at that place in the menu."
+msgstr ""
+
+msgid "Moved under the chosen menu item."
+msgstr ""
+
+msgid "Moved to the top level of the menu."
+msgstr ""
+
+msgid "Menus"
+msgstr ""
+
+msgid "Save this content first, then you can add it to a menu."
+msgstr ""
+
+msgid "submenu"
+msgstr ""
+
+msgid "Add to menu"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+msgid "— Top level —"
+msgstr ""
+
+msgid "This site has no navigation menus yet. Create the first one right here."
+msgstr ""
+
+msgid "+ Create a new menu"
+msgstr ""
+
+msgid "Menu name"
+msgstr ""
+
+msgid "Main menu"
+msgstr ""
+
+msgid "Display location"
+msgstr ""
+
+msgid "— Do not assign —"
+msgstr ""
+
+msgid "Create menu and add"
+msgstr ""
+
+msgid "You are not allowed to edit menus on this site."
+msgstr ""
+
+msgid "This content type cannot be added to a menu."
+msgstr ""
+
+msgid "Unknown action."
+msgstr ""
+
+msgid "Please enter a name for the menu."
+msgstr ""
+
+msgid "Menu created and this content added to it."
+msgstr ""
+
+msgid "Please choose a menu."
+msgstr ""
+
+msgid "The chosen parent item is not available in that menu."
+msgstr ""
+
+msgid "Added to the menu as a submenu item."
+msgstr ""
+
+msgid "Added to the menu."
+msgstr ""
+
+msgid "That menu item no longer exists."
+msgstr ""
+
+msgid "Removed from the menu."
+msgstr ""
+
+msgid "This content is already in that menu."
+msgstr ""
+
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+msgid "Remove this item from the menu?"
+msgstr ""
+
+msgid "Add to menu from the editor"
+msgstr ""
+
+msgid "Put a page or post into a navigation menu straight from the editor sidebar."
+msgstr ""
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the server limit cannot be changed from here."
+msgstr ""
+
+msgid "This server has per-directory PHP settings (.user.ini) switched off, so the limit can only be raised by your host."
+msgstr ""
+
+msgid "This server runs PHP as “%s”, which does not read per-directory settings, so the limit can only be raised by your host."
+msgstr ""
+
+msgid "Admin Booster cannot write %s on this server, so the upload limit was not raised."
+msgstr ""
+
+msgid "Could not remove the upload limit from the server file."
+msgstr ""
+
+msgid "0 = use the server limit. The server currently accepts files up to %s."
+msgstr ""
+
+msgid "Raise the server limit too"
+msgstr ""
+
+msgid "Server limit raised: uploads up to %s are accepted now."
+msgstr ""
+
+msgid "The %1$s limit has been written. PHP picks it up within %2$s — reload this page to check."
+msgstr ""
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. Switch on “Raise the server limit too” and save."
+msgstr ""
+
+msgid "You set %1$s, but the server only accepts %2$s, so %2$s is what applies. %3$s"
+msgstr ""
+
+msgid "Only a network administrator can change the server limit."
+msgstr ""
+
+msgid "Your host has locked the upload limit for this site (php_admin_value), so no file inside WordPress can change it — only the host can raise it."
+msgstr ""
+
+msgid "No cPanel or FTP needed. PHP cannot change this limit while WordPress is running (not even from wp-config.php), so Admin Booster writes it into %s, which your server reads before each request. It can take a few minutes to apply. Switching this off removes the lines again."
+msgstr ""
+
+msgid "The %1$s limit was written, but the server still applies only %2$s. This host does not read these settings from the WordPress folder. The details below show exactly how PHP runs here — if you contact your host, send them this list."
+msgstr ""
+
+msgid "Server details"
+msgstr ""
+
+msgid "Safe Mode"
+msgstr ""
+
+msgid "Safe Mode link"
+msgstr ""
+
+msgid "A secret link, saved in advance, that gets you back into wp-admin when a plugin or theme update breaks the site."
+msgstr ""
+
+msgid "Safe Mode — emergency access"
+msgstr ""
+
+msgid "When a plugin or theme update breaks the site, WordPress only emails a one-time recovery link — once a day, and never on multisite. If that email is lost, you are locked out. Safe Mode gives you a link you save now, before anything goes wrong."
+msgstr ""
+
+msgid "Only a network administrator can manage Safe Mode."
+msgstr ""
+
+msgid "Safe Mode is off. Turn on “Safe Mode link” on the Modules tab and save to get your link."
+msgstr ""
+
+msgid "The Safe Mode file could not be installed."
+msgstr ""
+
+msgid "Copied"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "When the site is broken"
+msgstr ""
+
+msgid "Go to Plugins and deactivate the plugin that was just updated (or switch themes under Appearance)."
+msgstr ""
+
+msgid "Create a new link"
+msgstr ""
+
+msgid "When"
+msgstr ""
+
+msgid "IP address"
+msgstr ""
+
+msgid "Browser"
+msgstr ""
+
+msgid "Could not remove the Safe Mode file from the mu-plugins folder."
+msgstr ""
+
+msgid "File changes are disabled on this site (DISALLOW_FILE_MODS), so the Safe Mode file cannot be installed."
+msgstr ""
+
+msgid "Admin Booster cannot write to %s on this server, so Safe Mode could not be installed."
+msgstr ""
+
+msgid "You are not allowed to do that."
+msgstr ""
+
+msgid "Safe Mode is on — no plugins are running for you, and a default theme stands in for yours."
+msgstr ""
+
+msgid "Go to Plugins"
+msgstr ""
+
+msgid "Exit Safe Mode"
+msgstr ""
+
+msgid "Your Safe Mode link"
+msgstr ""
+
+msgid "Save this link now — it is shown only this once."
+msgstr ""
+
+msgid "For security, only a fingerprint of the key is stored, so the link cannot be displayed again. If you lose it, create a new one."
+msgstr ""
+
+msgid "Put it in your password manager, next to this site’s login. It is useless if you only look for it after the site is down."
+msgstr ""
+
+msgid "A link is active — created on %1$s by %2$s. It cannot be shown again; if nobody saved it, create a new one."
+msgstr ""
+
+msgid "There is no active link — Safe Mode cannot be entered. Create one and save it."
+msgstr ""
+
+msgid "The current link and any open Safe Mode session stop working immediately."
+msgstr ""
+
+msgid "Your wp-config.php has no unique SECURE_AUTH_KEY / SECURE_AUTH_SALT, so the key fingerprint is protected by keys stored in the database. Add unique keys to wp-config.php (api.wordpress.org/secret-key/1.1/salt) for full protection, then create a new link."
+msgstr ""
+
+msgid "Open the saved link — it works even when the site only shows “There has been a critical error”."
+msgstr ""
+
+msgid "Log in with an administrator account. A password is required even if you were already logged in."
+msgstr ""
+
+msgid "Click “Exit Safe Mode” in the red bar. Once the admin loads normally again, the used link is retired and you are asked to create a new one."
+msgstr ""
+
+msgid "How the link is protected"
+msgstr ""
+
+msgid "The key sits after the # in the link, which browsers never send to the server — it cannot end up in server, CDN or proxy logs."
+msgstr ""
+
+msgid "Only a fingerprint is stored, keyed with your wp-config.php security keys: a leaked or stolen database does not reveal the link."
+msgstr ""
+
+msgid "The link alone is not enough: only administrators can log in, with their password, and a built-in limit locks logins for 15 minutes after 5 failures."
+msgstr ""
+
+msgid "Safe Mode is a recovery console only: Dashboard, Plugins and Themes. Installing or uploading plugins and themes, editing files, and adding or changing users are all blocked."
+msgstr ""
+
+msgid "Every use emails all administrators, is logged with IP address and browser, and retires the link once the site works again."
+msgstr ""
+
+msgid "On an HTTPS site the key is only accepted over HTTPS; the session is tied to the browser and ends after one hour. Visitors always see the normal site."
+msgstr ""
+
+msgid "Only allow from these IP addresses (optional)"
+msgstr ""
+
+msgid "One IP address or range per line (e.g. 203.0.113.7 or 203.0.113.0/24). Leave empty to allow any address. Only use this with a fixed office or VPN address — otherwise you can lock yourself out. Your current address: %s"
+msgstr ""
+
+msgid "Not saved — these entries are not valid IP addresses or ranges: %s"
+msgstr ""
+
+msgid "IP restriction saved."
+msgstr ""
+
+msgid "Save IP restriction"
+msgstr ""
+
+msgid "Safe Mode log"
+msgstr ""
+
+msgid "Entered Safe Mode"
+msgstr ""
+
+msgid "Wrong key"
+msgstr ""
+
+msgid "Blocked address"
+msgstr ""
+
+msgid "Logged in"
+msgstr ""
+
+msgid "Failed login"
+msgstr ""
+
+msgid "Logins locked"
+msgstr ""
+
+msgid "Non-administrator refused"
+msgstr ""
+
+msgid "Nothing logged yet."
+msgstr ""
+
+msgid "Event"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "WordPress security keys are missing, so a Safe Mode link cannot be created safely."
+msgstr ""
+
+msgid "The Safe Mode link was used and has been retired."
+msgstr ""
+
+msgid "Used on %1$s from IP address %2$s."
+msgstr ""
+
+msgid "If this was not you or a colleague: change every administrator password now and check the Safe Mode log. Either way, create a new Safe Mode link and save it."
+msgstr ""
+
+msgid "Dismiss"
+msgstr ""
+
+msgid "This Safe Mode key is not valid."
+msgstr ""
+
+msgid "Checking your Safe Mode key…"
+msgstr ""
+
+msgid "Paste the key from your saved Safe Mode link (the part after #)."
+msgstr ""
+
+msgid "Enter Safe Mode"
+msgstr ""
+
+msgid "Too many failed logins in Safe Mode. Try again in 15 minutes."
+msgstr ""
+
+msgid "Only administrators can log in while Safe Mode is on."
+msgstr ""
+
+msgid "Only administrators can use Safe Mode."
+msgstr ""
+
+msgid "Someone entered Safe Mode with the Safe Mode link."
+msgstr ""
+
+msgid "An administrator logged in while Safe Mode was on."
+msgstr ""
+
+msgid "Safe Mode logins were locked after 5 failed attempts."
+msgstr ""
+
+msgid "%1$s — %2$s IP: %3$s, user: %4$s"
+msgstr ""
+
+msgid "If this was you or a colleague fixing the site, no action is needed: the link is retired automatically once the site works again, and you will be asked to create a new one."
+msgstr ""
+
+msgid "If you do not recognise this: log in, create a new Safe Mode link (the used one stops working at once), change every administrator password, and review the Safe Mode log under Admin Booster → Safe Mode."
+msgstr ""
+
+msgid "[%s] Safe Mode was used"
+msgstr ""
+
+msgid "Only the Dashboard, Plugins and Themes screens are available, and installing, uploading, editing files and managing users are blocked. Deactivate the plugin (or switch away from the theme) that broke the site, then exit Safe Mode to check."
+msgstr ""
+
+msgid "Safe Mode is on: plugins are switched off for you until you exit Safe Mode. Only administrators can log in."
+msgstr ""
+
+msgid "Update crash protection"
+msgstr ""
+
+msgid "If a plugin or theme update crashes the site, automatically restore the previous version — no matter what triggered the update."
+msgstr ""
+
+msgid "WordPress backs up the previous version before every plugin or theme update, but only checks whether the site still works — and restores that backup if not — for updates it runs itself in the background. A manual click, WP-CLI, or a remote manager like ManageWP or MainWP skips that check. This module runs the same check after every update, whoever triggered it, and restores the backup automatically if the site crashed."
+msgstr ""
+
+msgid "Off. Turn on “Update crash protection” on the Modules tab to enable it."
+msgstr ""
+
+msgid "On. No update has needed to be rolled back so far."
+msgstr ""
+
+msgid "Protection could not work during the last update (%s): this server cannot load its own pages (loopback requests are blocked), so there is no way to tell whether an update broke the site. Ask your host to allow the site to reach itself; Site Health will show the same problem. This warning disappears after the next update that can be checked."
+msgstr ""
+
+msgid "Interventions"
+msgstr ""
+
+msgid "Affected"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid "Restored automatically"
+msgstr ""
+
+msgid "Could not restore automatically"
+msgstr ""
+
+msgid "[%s] An update was automatically rolled back"
+msgstr ""
+
+msgid "[%s] An update broke the site and could not be rolled back automatically"
+msgstr ""
+
+msgid "An update just made the site crash with a fatal error. Admin Booster detected it immediately and restored the previous version — the site is back up and no plugin was left disabled. Affected: %s"
+msgstr ""
+
+msgid "An update just made the site crash with a fatal error, and Admin Booster could not restore the previous version automatically. Affected: %s. Use the Admin Booster Safe Mode link to get back into wp-admin, or restore the affected files from wp-content/upgrade-temp-backup/ over FTP."
+msgstr ""
+
+msgid "Menu item visibility"
+msgstr ""
+
+msgid "Show a menu item on mobile only or on desktop only — handy for a header button that needs to live in the mobile menu too."
+msgstr ""
+
+msgid "Visibility"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "Mobile only (%d px or narrower)"
+msgstr ""
+
+msgid "Desktop only (wider than %d px)"
+msgstr ""
+
+msgid "Set per menu item on the Appearance → Menus screen. The breakpoint is fixed at 768px; %s for a custom value."
+msgstr ""
+
+msgid "upgrade to Pro"
+msgstr ""
+
+msgid "Custom menu visibility breakpoint"
+msgstr ""
+
+msgid "Mobile-only and desktop-only menu items switch over at 768px. Set the breakpoint your theme actually uses instead, so a menu item appears exactly where the theme switches to its mobile menu."
+msgstr ""
+
+msgid "Turn each booster on or off. Everything is on by default, except the Safe Mode link."
+msgstr ""
