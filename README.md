@@ -1,109 +1,334 @@
-aiyo Admin Booster removes the small daily frictions in wp-admin. It does not redesign the WordPress dashboard — it just fixes the things that take three clicks when they should take one.
+# Qaiyo Admin Booster
 
-Every feature is a module you can turn on or off, and everything is on by default.
+> WordPress plugin that fixes the small, everyday wp-admin friction points — one-click plugin upload, page collections, a broken-plugin-folder finder, update crash protection, and 20 more modules you can switch on or off individually.
 
-**Page Collections** — Group your pages and posts into visual collections. The plugin auto-detects the obvious ones (Homepage, Legal pages, WooCommerce system pages), and you can create your own collections (Services, Landing Pages, etc.) and assign content to them. A colored badge column and a filter dropdown appear on the Pages and Posts list screens.
+[![WordPress 5.9+](https://img.shields.io/badge/WordPress-5.9%2B-21759b.svg)](https://wordpress.org/)
+[![PHP 7.4+](https://img.shields.io/badge/PHP-7.4%2B-777bb4.svg)](https://www.php.net/)
+[![License: GPL v2+](https://img.shields.io/badge/License-GPLv2%2B-blue.svg)](https://www.gnu.org/licenses/gpl-2.0)
+[![Version](https://img.shields.io/badge/version-1.4.8-6c5ce7.svg)](#)
 
-**Page Filter** — See at a glance which page is the homepage, which pages are orphans, which are not in any menu, which are set to noindex, and what status each one has. A filter dropdown above the list lets you isolate any of these in one click.
+This repository hosts the **free** Qaiyo Admin Booster plugin — live on
+[WordPress.org](https://wordpress.org/plugins/qaiyo-admin-booster/). The optional
+[Qaiyo Admin Booster Pro](https://qaiyo-plugins.com) add-on unlocks a per-role admin menu editor,
+inline list-table editing, a login screen customizer, admin dark mode, SVG sanitization,
+per-role upload rules, targeted update alerts and a core update bridge for sites stuck on old PHP.
 
-**1-click plugin upload** — “Add Plugin” opens the upload screen directly instead of the browse tabs, so installing a plugin ZIP is one step. The browse and search tabs stay available on top.
+- **Website:** [qaiyo-plugins.com](https://qaiyo-plugins.com)
+- **Support:** info@qaiyo-plugins.com
+- **Issues:** [GitHub Issues](../../issues)
 
-**Gutenberg UX** — Keep the left block inserter open by default, and keep the editor out of fullscreen so the admin sidebar stays visible.
+---
 
-**Quick admin navigation** — New Page / New Post / New Product (and any custom post type) shortcuts in the admin bar.
+## Why this plugin
 
-**Larger list views** — Raise the default number of items per page in admin list tables (respecting any Screen Option you set yourself).
+wp-admin has dozens of small rough edges that every WordPress site owner runs into: uploading a
+plugin takes an extra click, finding the homepage in a 400-item page list means guessing, and a
+plugin folder left behind by a failed update quietly blocks every future install with no way to
+see or remove it from the UI. Admin Booster fixes these one at a time, as independent modules —
+it does not redesign wp-admin, and nothing is on by default that you cannot turn back off.
 
-**File handling** — Raise the maximum upload size straight from the admin — even without cPanel, FTP or php.ini access — enable WebP / AVIF / SVG, add your own custom file types, get a warning when you allow risky executable types, and replace the cryptic “file type not permitted” message with a clear explanation. Optionally clean up uploaded filenames automatically (spaces, accents and uppercase become URL-friendly slugs).
+The plugin is designed to be:
 
-**Tidy admin notices** — Collapse the stacked admin notices (plugin promos, nags, update banners) into a small counter tray so they stop pushing your content down. Nothing is deleted — open the tray to read them, dismiss buttons still work.
+- **Modular** — 24 independent modules, each with its own on/off switch; disabling one never
+  affects another.
+- **Safe by default** — every destructive action (deleting a broken plugin folder, restoring a
+  crashed update, entering Safe Mode) requires an explicit click and is capability- and
+  nonce-checked; nothing runs automatically without a clear reason logged.
+- **Ecosystem-aware, never coupled** — the Pro add-on and sibling Qaiyo plugins talk to Admin
+  Booster only through documented filters and actions (see [HOOKS.md](HOOKS.md)); the free plugin
+  has zero knowledge of what, if anything, is installed alongside it.
+- **Translation-ready** — ten languages bundled (`.po` + `.mo`), Polylang/WPML/TranslatePress
+  compatible, locale-variant fallback (e.g. `de_AT → de_DE`, `pt_BR → pt_PT`).
 
-**Dashboard cleanup** — Hide the default dashboard widgets you never look at (WordPress News, Quick Draft, Activity, At a Glance, Site Health, Welcome panel).
+---
 
-**Scheduled countdown** — Scheduled posts show “Publishing in 3 days” right next to the title, so you never have to do the date math.
+## Features
 
-**Sticky table headers** — Column headers stay pinned to the top while you scroll long list tables.
+### wp-admin UX fixes
 
-**Last edited column** — See who last edited each item and how long ago, right in the list.
+| Module | What it does |
+|---|---|
+| **1-click plugin upload** | "Add Plugin" opens the upload screen directly instead of the browse tabs. |
+| **Gutenberg UX** | Keeps the block inserter open and the editor out of fullscreen. |
+| **Quick admin navigation** | New Page / Post / Product (and any custom post type) shortcuts in the admin bar. |
+| **Larger list views** | Raises the default items-per-page in admin list tables. |
+| **Tidy admin notices** | Collapses stacked admin notices into a small counter tray — nothing deleted, dismiss buttons still work. |
+| **Sticky table headers** | Column headers stay pinned while scrolling long list tables. |
+| **Last edited column** | Who last edited each item, and how long ago. |
+| **Quick status switch** | Publish/unpublish straight from the list, no editor needed. |
 
-**Quick status switch** — Publish a draft or switch a published item back to draft straight from the list, without opening the editor.
+### Content organization
 
-**Bulk create** — Create many pages or posts at once from a simple list of titles, one per line. Indent a line with a Tab (or two spaces) to nest it as a child page, so you can scaffold a whole page tree in seconds. Choose the content type, the status (draft, published, pending, private) and an optional top-level parent.
+| Module | What it does |
+|---|---|
+| **Page Collections** | Group pages/posts into visual collections (auto-detects Homepage, Legal, WooCommerce system pages); colored badge column + filter dropdown. |
+| **Page Filter** | See homepage / orphan / not-in-menu / noindex / status at a glance, isolate any with one click. |
+| **Bulk create** | Create many pages/posts at once from an indented title list — Tab-indent to build a page tree in one step. |
+| **Add to menu from the editor** | A **Menus** panel in the editor sidebar: pick a menu, add/move/remove at the top level or as a submenu, without leaving the editor. |
+| **Menu item visibility** | Per-menu-item Always / Mobile only / Desktop only, via a CSS media query (768px) — the menu structure stays identical in every view. |
+| **Scheduled countdown** | "Publishing in 3 days" next to scheduled post titles. |
 
-**Update center widget** — A dashboard widget that lists every available plugin and theme update in one place, with an update button on each row and an “Update all” button. Runs the update server-side, so it works even where the built-in one-click updater gets stuck on filesystem credentials.
+### File handling
 
-**Comments widget** — A dashboard widget showing your comment counts (approved, pending, spam, trash) and the latest comments, with one-click or bulk trashing right from the widget.
+| Module | What it does |
+|---|---|
+| **File handling** | Raise the max upload size from wp-admin (no cPanel/FTP), enable WebP/AVIF/SVG, add custom file types, filename slug cleanup. |
+| **Broken plugin folders** | Finds `wp-content/plugins/` folders WordPress cannot recognise as a plugin (interrupted update/deletion leftovers) — the usual cause of "Destination folder already exists" — diagnoses why, and deletes them after confirmation. See [Broken plugin folders](#broken-plugin-folders) below. |
 
-**Dashboard greeting** — A friendly personal greeting at the top of the main dashboard, so you land on a welcoming screen every time you log in.
+### Dashboard widgets
 
-**Add to menu from the editor** — WordPress makes you leave the editor, go to Appearance → Menus, find your page in a list and add it by hand. This module puts a **Menus** panel in the editor sidebar for pages, posts and any other content type that supports menus: pick a menu, choose whether it goes in at the top level or under an existing item as a submenu, and click once. Changed your mind? The panel shows where the content currently sits and lets you move it between the top level and any submenu at any time — your custom menu label, CSS classes and other settings are preserved. If the site has no menu yet, you can create the first one right there — optionally assigning it to a theme location — and the content is added to it in the same step. Items already in a menu are listed with a one-click Remove, and removing a parent moves its children up instead of orphaning them.
+| Module | What it does |
+|---|---|
+| **Update center widget** | Lists every plugin/theme update in one place, with a server-side "Update all" that works even when the built-in updater gets stuck on filesystem credentials. |
+| **Comments widget** | Comment counts (approved/pending/spam/trash) + latest comments, one-click/bulk trashing. |
+| **Dashboard greeting** | A personal greeting at the top of the dashboard. |
+| **Dashboard cleanup** | Hide default dashboard widgets you never use. |
+| **Qaiyo ecosystem widget** | Gathers a small summary card from every active Qaiyo plugin into one widget — only appears when something is actually installed. |
 
-**Qaiyo ecosystem widget** — If you run more than one Qaiyo plugin, each of them can report a small summary card, and this module gathers them into a single dashboard widget instead of every plugin adding its own. Nothing is shown for plugins you do not have: the widget only appears when an installed, active plugin actually reports something, and it disappears again if you deactivate them. It is a normal dashboard widget, so you can collapse, move or hide it through Screen Options. Developers: see HOOKS.md for the one-filter contract.
+### Updates & recovery
 
-**Qaiyo ecosystem panel** — A tab on the settings page that shows one card per Qaiyo plugin. Plugins you already run show their live summary (pending reviews, today's bookings, latest performance score and so on); plugins you do not have show a single line describing what their card would add, with a link to their WordPress.org page. No install buttons, no popups — just a quiet overview of what the family offers.
+| Module | What it does |
+|---|---|
+| **Separate table for pending updates** | On the Plugins screen, updates get their own table at the top; every other plugin stays below. |
+| **Update notification emails** | Daily/weekly digest of waiting plugin/theme/core updates, with version-tracked spam protection so you only hear about genuine changes. |
+| **Update crash protection** | After *any* update — manual click, WP-CLI, or a remote manager like ManageWP/MainWP — loads the site and automatically restores the previous version on a fatal error. On by default. |
+| **Safe Mode link** | A link you save *before* anything breaks: opens a locked-down recovery console (every plugin off, default theme) to deactivate the culprit. The secret never touches server logs or the database in plaintext. Off by default. |
 
-**Separate table for pending updates** — On the Plugins screen, plugins with an available update normally stay in their alphabetical place, so you have to scan the whole list to find them. This module lifts them out into a table of their own at the top, under an “Updates” heading, and lists every other plugin in a separate table below it. Both tables are fully functional: the update buttons, the row actions, the bulk actions and a select-all checkbox all keep working.
+### Ecosystem
 
-**Update notification emails** — WordPress checks for updates in the background and then says nothing, so an available update sits there until you happen to log in. This module emails every administrator a summary of the plugin, theme and WordPress updates that are waiting — once a day or once a week, your choice. It is a digest, not a firehose: WordPress rewrites its update data several times a day, and the module remembers which version of which item it has already told you about, so you get one email when something genuinely changes and nothing at all when there is nothing new. Pick whether you want to hear about plugins, themes, WordPress core or any combination. Delivery uses WordPress' own mail, so an SMTP plugin or your host's mail configuration is picked up automatically — and because mail can fail silently, there is a “Send test email” button that tells you straight away whether mail actually leaves your site.
+| Module | What it does |
+|---|---|
+| **Qaiyo ecosystem panel** | A settings tab with one card per Qaiyo plugin — live summary if installed, a one-line pitch + WordPress.org link if not. |
+| **Explore Qaiyo** | A directory of the whole Qaiyo plugin family with update notices. |
 
-**Safe Mode link** — When a plugin or theme update breaks the site, WordPress emails a one-time recovery link: at most once a day, never on multisite, and if that email is lost the only way back in is FTP or your hosting panel. Safe Mode gives you a link you save *before* anything goes wrong. Open it, log in as an administrator, and a small recovery console loads with every plugin switched off and a default theme standing in for yours — deactivate the plugin that broke the site, exit Safe Mode, done. It keeps working even if Admin Booster itself is the broken plugin. Because it is effectively a master key, it is locked down hard: the key never reaches server logs, the database only holds a fingerprint of it, the link alone is not enough to get in, the console cannot install anything, edit files or touch users, every use is emailed to all administrators, and a used link retires itself once the site works again. It is off by default.
+---
 
-**Update crash protection** — WordPress keeps a backup of the previous version during every plugin and theme update, but it only checks whether the site still loads (and puts that backup back if not) for the updates it runs by itself in the background. Click “Update now”, run WP-CLI, or let ManageWP, MainWP or a similar dashboard update your sites, and a broken release goes straight to your visitors as a critical error. This module closes that gap: right after every update, whoever started it, it loads the site the same way WordPress does, and if the update caused a fatal error it restores the previous version on the spot and emails the administrators what happened. Nothing is switched off, so a pair like a free plugin and its paid add-on keeps working together on the old version until both are compatible. It is careful not to do harm: it only rolls back when the site demonstrably worked before the update and fails after it, and if your server cannot reach itself it tells you so instead of guessing. It is on by default.
+### Broken plugin folders
 
-**Menu item visibility** — A "Request a quote" button in the header does not fit on a phone, so it belongs in the hamburger menu instead — but putting it there normally means building and maintaining a second menu just for mobile. This module adds a **Visibility** setting to every menu item on the Appearance → Menus screen: Always, Mobile only, or Desktop only. Put everything in one menu, mark the button "Mobile only", and it appears in the mobile menu and nowhere else. Items are hidden with a CSS media query at 768px, never by dropping them from the HTML, so the menu structure is identical in every view and page caching is unaffected. Works with the classic menus that Bricks, Elementor and classic themes render; the block-based Navigation block draws its own markup and is not affected.
+A dedicated deep dive, because it is the module most likely to save you a support ticket:
 
-**Explore Qaiyo** — A built-in directory of the whole Qaiyo plugin family, with one-click links and an update notice when a newer version of a plugin you already have is released.
+WordPress refuses to reinstall a plugin whose folder already exists (`update.php?action=upload-plugin`
+→ "Destination folder already exists"), and it only offers to *overwrite* that folder when it can
+recognise a plugin inside it. If an earlier update or deletion was interrupted, the folder is left
+holding stray files with no `Plugin Name:` header — WordPress can neither list it (`get_plugins()`
+finds nothing) nor offer to replace it, so from the UI it is invisible and un-removable.
 
-= Pro =
+This module:
 
-Qaiyo Admin Booster Pro adds smart collection rules (auto-assign by URL pattern / template / regex), pinned pages, saved filter views, bulk noindex & menu actions, per-role upload rules, automatic SVG sanitization, an admin menu editor, inline list-table editing, a login screen customizer, an activity log, admin dark mode, a revision cleaner, a core update bridge that lets a site stuck on an old WordPress step up to an intermediate version its server can still run, and targeted update alerts (choose exactly which plugins and themes you hear about, get security releases flagged, send alerts instantly or to a Slack / Discord webhook). Learn more at https://qaiyo-plugins.com
+1. Lists every such folder at the top of the Plugins screen, with a diagnosis — an interrupted
+   update, a ZIP packed one folder too deep, unreadable files, or simply empty — the folder's
+   size, file count and last-modified time.
+2. Adds a "Review the damaged folder" link directly on the upload error page when the conflicting
+   folder is one of these leftovers.
+3. Deletes only after an explicit confirmation, re-diagnoses the folder at the moment of deletion
+   (in case something else installed a working plugin there in the meantime), and never touches a
+   folder that is a symlink or contains one — a recursive delete would follow the link outside the
+   plugins directory.
 
-== Installation ==
+See [`qwab_broken_plugin_folders_ignore`](HOOKS.md#broken-plugin-folders-hooks) to exclude a folder
+your host places there on purpose, and
+[`qwab_broken_plugin_folder_deleted`](HOOKS.md#broken-plugin-folders-hooks) to log deletions.
 
-1. Upload the plugin folder to `/wp-content/plugins/`, or install the ZIP via Plugins → Add Plugin → Upload Plugin.
+---
+
+## Installation
+
+### From a ZIP file
+
+1. Install directly from **Plugins → Add New** (search "Qaiyo Admin Booster"), or download a
+   [release ZIP](../../releases) and use **Plugins → Add New → Upload Plugin**.
 2. Activate the plugin.
-3. Go to **Admin Booster** in the wp-admin sidebar to configure the modules.
+3. Go to **Admin Booster** in the wp-admin sidebar to switch modules on or off.
 
-== Frequently Asked Questions ==
+### From source (developers)
 
-= Does this replace the WordPress admin? =
+```bash
+git clone https://github.com/qaiyo/qaiyo-admin-booster.git
+cd qaiyo-admin-booster
+# Symlink or copy the folder into wp-content/plugins/
+ln -s "$(pwd)" /path/to/wordpress/wp-content/plugins/qaiyo-admin-booster
+```
 
-No. It only fixes specific UX/UI rough edges. The standard WordPress admin stays exactly as it is.
+**Requirements:** WordPress 5.9+, PHP 7.4+.
 
-= Is enabling SVG safe? =
+---
 
-SVG files can contain scripts, so only enable SVG uploads if you trust everyone who can upload media. The Pro version adds automatic SVG sanitization that strips scripts on upload.
+## Developer API
 
-= Can it really raise the upload limit without cPanel or FTP? =
+The Pro add-on and sibling Qaiyo plugins extend Admin Booster only through these documented hooks —
+your own code can do the same. Full details, parameters and examples are in [HOOKS.md](HOOKS.md).
 
-On most hosts, yes. The limit lives in PHP's `upload_max_filesize` and `post_max_size`, which cannot be changed while WordPress runs — not with `ini_set()` and not from wp-config.php, because PHP has already received the upload by then. Turn on "Raise the server limit too" and Admin Booster writes the two values into the files your server reads before each request: `.user.ini` in the WordPress folder on PHP-FPM / FastCGI hosts (applies within about 5 minutes), `.htaccess` on Apache mod_php, and both on LiteSpeed / CloudLinux LSAPI hosts, where it depends on the host which one is honoured. The lines are clearly marked, nothing else in the file is touched, and switching the option off or deleting the plugin removes them.
+### Filters
 
-The settings page reads the limit PHP really applies and tells you whether it worked. If a host has locked the limit (`php_admin_value`), Admin Booster detects it and says so instead of writing anything. If the host simply does not read these files, the page shows a short "Server details" list you can send to your host.
+| Filter | Purpose |
+|---|---|
+| `qwab_pro_active` | Set to `true` by the Pro plugin on activation; the free plugin never checks a license itself. |
+| `qwab_pro_unlocked_modules` | The list of Pro module slugs the active license has unlocked. |
+| `qwab_upgrade_url` | Override the "Upgrade to Pro" destination. |
+| `qwab_ecosystem_widgets` | Register a summary card for the Qaiyo ecosystem dashboard widget/panel. |
+| `qwab_update_notification_items` | Adjust the items considered for the update digest. |
+| `qwab_update_notification_frequencies` | Add a custom digest schedule. |
+| `qwab_update_notification_recipients` | Change who receives the digest email. |
+| `qwab_update_notification_subject` / `qwab_update_notification_message` | Customize the digest email content. |
+| `qwab_update_notification_send_email` | Short-circuit or redirect delivery. |
+| `qwab_nav_visibility_breakpoint` | Override the fixed 768px breakpoint used by Menu item visibility. |
+| `qwab_broken_plugin_folders_ignore` | Folder names the Broken plugin folders panel should never report. |
 
-= Does Update crash protection replace backups? =
+### Actions
 
-No. It restores only the plugin or theme files that the update just replaced, using the copy WordPress itself makes during the update. It cannot undo database changes an update makes, and it cannot help if the problem only appears later (for example on a specific page or after a cron job runs). It also needs the server to be able to load its own pages ("loopback requests" — Site Health tests this); if it cannot, the settings page warns you. Keep regular backups.
+| Action | Fires |
+|---|---|
+| `qwab_update_notification_sent` | After a digest email is sent — with the item list, successes and failures. |
+| `qwab_broken_plugin_folder_deleted` | After a broken plugin folder is deleted and verifiably gone. |
 
-= An update broke my site and I cannot log in. What now? =
+---
 
-If you turned on the Safe Mode link beforehand, open the link you saved, log in, deactivate the plugin you just updated under Plugins (or switch themes under Appearance), then click "Exit Safe Mode". If you did not, WordPress may have emailed the site's admin address a recovery link; otherwise you need FTP, SSH or your hosting file manager to rename that plugin's folder.
+## Translations
 
-= Is the Safe Mode link a security risk? =
+The plugin ships with ten languages in `/languages/`:
 
-It is built so that a leaked link is not enough to take over the site:
+```
+qaiyo-admin-booster.pot
+qaiyo-admin-booster-hu_HU.po + .mo    qaiyo-admin-booster-it_IT.po + .mo
+qaiyo-admin-booster-de_DE.po + .mo    qaiyo-admin-booster-ru_RU.po + .mo
+qaiyo-admin-booster-fr_FR.po + .mo    qaiyo-admin-booster-tr_TR.po + .mo
+qaiyo-admin-booster-es_ES.po + .mo    qaiyo-admin-booster-pl_PL.po + .mo
+qaiyo-admin-booster-ja.po + .mo       qaiyo-admin-booster-pt_PT.po + .mo
+```
 
-* **The key never reaches the server's logs.** It sits after the `#` in the link, which browsers never send to the server, so it cannot end up in web server, CDN or proxy logs, or in a Referer header.
-* **A stolen database does not reveal it.** Only a fingerprint is stored, keyed with the security keys in wp-config.php, so a database leak neither reveals the link nor lets anyone plant their own.
-* **The link alone does not log anyone in.** Only administrators can sign in, always with their password (an existing login cookie is not accepted), and after 5 failed passwords logins lock for 15 minutes — security and two-factor plugins are off in Safe Mode, so this limit is built in.
-* **It cannot be used to plant a backdoor.** Safe Mode is a recovery console: Dashboard, Plugins and Themes only. Installing or uploading plugins and themes, editing files, and creating or changing users are blocked.
-* **It cannot be used quietly.** Every entry and every Safe Mode login is emailed to all administrators, logged with IP address and browser, and shown to administrators as a notice until dismissed.
-* **A used link does not stay valid.** It is retired automatically as soon as the admin loads normally again — but not before, so you cannot lock yourself out if the first fix did not work.
-* The Safe Mode session lasts one hour and is tied to the browser; on HTTPS sites the key is only accepted over HTTPS; you can optionally restrict it to fixed IP addresses; and "Create a new link" instantly invalidates the old link and every open session. The public site is never affected.
+New source strings are added to a Python translation table and merged into every catalog by a
+single script (see *Development* below) — no `msgfmt` needed by hand, and `Plural-Forms` headers
+and printf placeholders are validated automatically.
 
-= Will it work with my SEO plugin? =
+The plugin uses `load_textdomain()` directly (not `load_plugin_textdomain()`) to avoid the
+WordPress.org Plugin Check warning about discouraged functions.
 
-The noindex detection recognizes Yoast SEO, Rank Math and SEOPress.
+---
 
-= How do I report a security issue? =
+## Standards & security
 
-Please report security vulnerabilities privately by email to info@qaiyo-plugins.com rather than in the public support forum. See the SECURITY.md file included with the plugin for details. We aim to acknowledge reports within 72 hours.
+The codebase follows the WordPress Coding Standards and the WordPress.org Plugin Check rules:
+
+- Class prefix `Qwab_` (matches the plugin slug), constants `QWAB_*`.
+- `$_POST`/`$_GET` data is always unslashed and sanitized before use; every state-changing request
+  is capability- and nonce-checked, and the nonce is bound to the specific resource it acts on
+  (e.g. `qwab_delete_plugin_folder|{folder-name}`, not a generic site-wide token).
+- File operations resolve paths with `realpath()` and reject anything outside the intended
+  directory or that is or contains a symbolic link, before any write or delete.
+- Destructive actions re-verify their precondition at the moment of execution, not just when the
+  confirmation was shown (the decision and the effect can be seconds apart).
+- Every dynamic output uses `esc_html`, `esc_attr`, `esc_url` or `wp_kses`.
+- No raw SQL — only WP APIs. No `eval`, `extract`, `create_function`.
+- Full multisite-aware uninstall (`uninstall.php`) — options, transients, user meta and
+  server-level files (`.htaccess` / `.user.ini` blocks, the Safe Mode mu-plugin) are all removed.
+
+See [SECURITY.md](SECURITY.md) for the vulnerability disclosure policy.
+
+---
+
+## Development
+
+### Repository layout
+
+```
+qaiyo-admin-booster.php         Main plugin file (header, constants, bootstrap)
+uninstall.php                   Full multisite-aware data + file cleanup on deletion
+includes/
+  class-qwab-plugin.php         Module registry + composition root
+  class-qwab-settings.php       Settings storage + defaults + sanitization
+  class-qwab-brand-menu.php     "QAIYO PLUGINOK" admin menu separator chip
+  class-qwab-more-plugins.php   "Discover Qaiyo" panel (WordPress.org API, no phone-home)
+  class-qwab-pro-catalog.php    Pro module catalog (teaser copy for the Modules grid)
+  class-qwab-pro-teaser.php     Lock icon + upsell UI for Pro-only modules
+  class-qwab-ecosystem-panel.php  The Qaiyo ecosystem settings tab
+  class-qwab-sealed-box.php     Symmetric encryption for the Safe Mode secret (never stored plain)
+  class-qwab-safe-mode.php      Safe Mode mu-plugin install/sync/cleanup
+  class-qwab-server-limits.php  .htaccess/.user.ini upload-limit writer (atomic, journaled)
+  class-qwab-plugin-folder-inspector.php       Filesystem diagnosis for broken plugin folders
+  class-qwab-broken-plugin-folder-finder.php   What counts as "broken" according to WordPress
+  class-qwab-plugin-folder-remover.php         Deletion, re-verified at execution time
+  modules/                      One class per module (registers its own hooks in register())
+  storage/                      File-store/KV-store interfaces + atomic file transaction
+  admin/                        Admin page controller, view models, the Qwab_View renderer
+  safe-mode/                    The standalone recovery-console mu-plugin
+templates/admin/                Display-only templates, rendered by Qwab_View (traversal-guarded)
+assets/                         css/ and js/, one file per module where it needs one
+languages/                      Ten bundled translations (see above)
+HOOKS.md                        Full developer hook reference
+SECURITY.md                     Vulnerability disclosure policy
+readme.txt                      WordPress.org readme
+```
+
+Everything in this folder is what runs on a site — it is copied verbatim to the WordPress.org SVN.
+The test suite, static analysis config, build scripts and the translation generator live in the
+sibling `qaiyo-admin-booster-dev-tools/` folder instead:
+
+```
+../qaiyo-admin-booster-dev-tools/
+  composer.json                 PHPUnit 9 + Brain Monkey + PHPStan (dev only)
+  phpunit.xml.dist              Test suite + coverage scope
+  phpstan.neon.dist             Level 5, WordPress stubs, no worker-memory trap
+  tests/                        Unit tests (Unit/) + fixtures (Support/)
+  build-zips.sh                 Release ZIP builder (full + WordPress.org variant)
+  languages/                    i18n.py + translations.py — the translation source of truth
+```
+
+### Quality gates
+
+Run from `../qaiyo-admin-booster-dev-tools/` before every release:
+
+```bash
+composer install
+composer test        # PHPUnit 9 + Brain Monkey — no WordPress install needed
+composer analyse      # PHPStan level 5 — must be zero errors
+composer coverage     # line + branch + path coverage via Xdebug
+python3 languages/i18n.py --check
+```
+
+From the workspace root:
+
+```bash
+phpcs --standard=WordPress --sniffs=WordPress.Security.EscapeOutput,\
+WordPress.Security.NonceVerification,WordPress.Security.ValidatedSanitizedInput,\
+WordPress.DB.PreparedSQL --ignore-annotations qaiyo-admin-booster
+wp plugin check qaiyo-admin-booster --include-experimental
+```
+
+### Building a release ZIP
+
+```bash
+cd ../qaiyo-admin-booster-dev-tools
+./build-zips.sh
+```
+
+Produces `../qaiyo-admin-booster.zip` (full, with translations — for self-hosted installs) and
+`../qaiyo-admin-booster-wporg.zip` (no `.po`/`.mo`, since translate.wordpress.org serves those once
+the plugin is listed). Both are verified free of hidden files and dev artifacts before writing.
+For WordPress.org itself the plugin folder is copied to SVN directly — the ZIPs are for everything
+else.
+
+---
+
+## Contributing
+
+Bug reports and pull requests are welcome via [GitHub Issues](../../issues).
+
+Please follow the existing coding style (4-space indentation, WPCS-compliant, PHPDoc on public
+methods), add tests for new logic in `qaiyo-admin-booster-dev-tools/tests/Unit/`, and add an entry
+to the `readme.txt` changelog under the next version.
+
+---
+
+## License
+
+GPL-2.0-or-later. See <https://www.gnu.org/licenses/gpl-2.0.html>.
+
+---
+
+## Credits
+
+Made by **[Qaiyo](https://qaiyo-plugins.com)**.
+Part of the Qaiyo plugin family — a set of WordPress plugins that share a brand, a design system,
+and a coordinated admin experience.
+
+Contact: info@qaiyo-plugins.com
